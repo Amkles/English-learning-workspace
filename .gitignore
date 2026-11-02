@@ -1,0 +1,14 @@
+# 依赖：本项目无构建、无依赖，以下仅为防止误提交
+node_modules/
+
+# 编辑器与系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与临时文件
+*.log
+*.tmp
+_backup*.json
