@@ -1,10 +1,19 @@
-name: test
+name: cet6-daily
 
 on:
   push:
     branches: [main]
+    paths:
+      - 'projects/cet6-daily/**'
+      - '.github/workflows/cet6-daily-test.yml'
   pull_request:
+    paths:
+      - 'projects/cet6-daily/**'
   workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: projects/cet6-daily
 
 jobs:
   jsdom:
@@ -34,17 +43,17 @@ jobs:
           fi
 
       - name: 安装测试依赖
-        working-directory: tests
+        working-directory: projects/cet6-daily/tests
         run: npm ci
 
       - name: 解析用例
-        working-directory: tests
+        working-directory: projects/cet6-daily/tests
         run: node parse.test.js
 
       - name: 抽取压测
-        working-directory: tests
+        working-directory: projects/cet6-daily/tests
         run: node draw.test.js
 
       - name: 交互冒烟
-        working-directory: tests
+        working-directory: projects/cet6-daily/tests
         run: node smoke.test.js

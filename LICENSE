@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Amkles
+Copyright (c) 2026 Amkles · 数据智能工坊
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,26 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Third-party notices
-
-1. Vocabulary data in data/vocab.json is derived from qwerty-learner
-   (https://github.com/Kaiyiwing/qwerty-learner), which is licensed under the
-   MIT License. Copyright (c) qwerty-learner contributors.
-   The derived file shortens definitions to at most three senses and derives
-   two subsets (CET-4 minus GaoKao-3500, CET-6 minus CET-4).
-
-2. Reading items in data/reading.json link to articles published by
-   ScienceDaily, Aeon and Our World in Data. Only titles, canonical URLs,
-   source names and estimated reading time are stored; no article text is
-   reproduced. All rights remain with the original publishers.
-
-3. Listening items in data/listening.json reference public videos on Bilibili.
-   Only titles, URLs, uploader-visible duration and a category label are
-   stored; no video or audio content is reproduced.
-
-4. Translation and writing prompts in data/translation_*.json and
-   data/writing_*.json are rewritten from past exam themes; the model essays
-   and reference translations are original work of this project.
