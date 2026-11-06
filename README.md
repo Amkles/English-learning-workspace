@@ -8,6 +8,8 @@
 
 提示词与算法细节全部公开：[docs/prompt.md](docs/prompt.md) · [docs/algorithm.md](docs/algorithm.md)
 
+> 想直接用：把仓库 fork 到自己账号，在 Settings → Pages 里选 `main` 分支根目录，等一分钟就有在线地址。也可以下载 `index.html` 双击打开，效果一样。
+
 ---
 
 ## 为什么是单文件
@@ -17,7 +19,7 @@
 - **一个 `index.html` 就是全部**：CSS、JS、图标、图表、题库全内联，运行时不发任何外部请求
 - **断网可用**：图书馆、自习室、飞机上，双击就开
 - **数据不上云**：全部在 `localStorage`，没有账号、没有服务器、没有埋点
-- **改起来没有门槛**：没有构建、没有依赖、没有 `npm install`，记事本改一行刷新就生效
+- **改起来没有门槛**：运行时没有构建、没有依赖，记事本改一行刷新就生效（只有跑测试才需要装一个 jsdom）
 
 代价是它不会自动跨设备同步。这一点写在[已知限制](#已知限制)里，解决办法是导出/导入 JSON。
 
@@ -77,6 +79,8 @@
 
 页面底部给三个真实外链：双语新闻、作文批改、CEFR 写作练习。
 
+![目标与资源](docs/screenshots/desktop-goals.png)
+
 ### 4. 打卡统计
 
 四张数据卡（连续天数、累计五项、本周达标率、距考试天数），区间可选 30 天 / 90 天 / 6 个月 / 全部。
@@ -92,6 +96,17 @@
 
 考试日期、每日提醒开关与时间、导出 JSON、导入恢复（支持上千条）、清空示例、清空全部（二次确认）。
 「使用说明」是独立一页，九个小节把用法、抽取规则、统计口径、数据备份、提醒边界全写清楚。
+
+![设置](docs/screenshots/desktop-settings.png)
+
+### 6. 手机端
+
+≤768px 换成底部四个 Tab，卡片单列堆叠，热力图与条形图跟着缩，不出现横向滚动。
+
+<p align="center">
+  <img src="docs/screenshots/mobile-today.png" width="300" alt="手机端今日任务">
+  <img src="docs/screenshots/mobile-stats.png" width="300" alt="手机端打卡统计">
+</p>
 
 ---
 
@@ -166,7 +181,7 @@ URL 截取**排除中文标点**，否则「看这个 https://a.com/x，很有�
 
 ```
 cet6-daily/
-├── index.html              # 构建产物：单文件应用（683 KB，可直接分发）
+├── index.html              # 构建产物：单文件应用（684 KB，可直接分发）
 ├── src/
 │   ├── index.template.html # 页面骨架，含 /*__CSS__*/ /*__DATA__*/ /*__APP__*/ 占位
 │   ├── style.css           # 全部样式
@@ -183,7 +198,7 @@ cet6-daily/
 │   ├── build.py            # 把 src + data 打成 index.html，并校验题库规模
 │   ├── build_vocab.py      # 从开源词书生成 vocab.json
 │   ├── harvest_reading.py  # 抓 RSS/Atom 生成 reading.json
-│   ├── harvest_listening.py# 抓 B 站搜索页生成 listening.json
+│   ├── harvest_listening.py # 抓 B 站搜索页生成 listening.json
 │   ├── shots.py            # 无头浏览器出截图
 │   └── probe.py            # 布局溢出诊断
 ├── tests/
@@ -253,6 +268,12 @@ python tools/shots.py
 - **单词释义截短**。为了卡片可读，释义最多 3 条、每条不超过 26 字，细粒度辨析请查词典。
 
 ---
+
+## 参与贡献
+
+欢迎提 issue 与 PR。开工前请先读 [CONTRIBUTING.md](CONTRIBUTING.md)：里面写了目录分工、六条不能破的硬性约束、改题库的字段规范，以及一份「什么算跑通了」的检查清单。
+
+版本记录见 [CHANGELOG.md](CHANGELOG.md)。
 
 ## 致谢
 
