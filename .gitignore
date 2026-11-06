@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+package-lock.json.bak
+
+# 脚本缓存与临时产物
+tools/.cache/
+tools/.shots/
+__pycache__/
+*.pyc
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

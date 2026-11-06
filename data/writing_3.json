@@ -1,0 +1,349 @@
+{
+  "items": [
+    {
+      "id": "w031",
+      "tp": "现象分析",
+      "ti": "大学生熬夜",
+      "dir": "Directions: Write an essay analysing why many university students stay up late and what can be done about it. You should write 120 to 180 words.",
+      "ol": [
+        "描述现象与数据感",
+        "分析两三个原因",
+        "提出可行的改善办法"
+      ],
+      "fr": [
+        "第一段：现象描述，给出具体场景",
+        "第二段：原因（作息惯性、宿舍环境、屏幕）",
+        "第三段：影响 + 建议"
+      ],
+      "es": "Walk through any dormitory at one in the morning and you will still see screens glowing. Late sleeping has become normal among university students, and the reasons are not simply laziness.\n\nThree causes stand out. The first is a timetable mismatch: classes may start at eight, but the most productive hours for many young people are late at night, when the corridor is finally quiet. The second is the dormitory itself. One student's keyboard clicks and another's video call keep everyone awake, so the whole room drifts later together. The third is the phone, which offers endless short videos that make stopping feel like a decision rather than a default.\n\nThe effects are cumulative: poor concentration in morning classes, irregular meals and lower immunity. Simple countermeasures help more than lectures on willpower — switching off the main light at eleven, agreeing on quiet hours, and charging phones outside the bed.",
+      "ph": [
+        "stand out 突出、显眼",
+        "drift later together 一起越睡越晚",
+        "make stopping feel like a decision 让「停下来」变成一个需要决定的事",
+        "countermeasure 对策"
+      ]
+    },
+    {
+      "id": "w032",
+      "tp": "现象分析",
+      "ti": "短视频占据碎片时间",
+      "dir": "Directions: Write an essay analysing the popularity of short videos and its effects on young people. You should write 120 to 180 words.",
+      "ol": [
+        "描述短视频的普及程度",
+        "分析其吸引力来源",
+        "讨论影响与应对"
+      ],
+      "fr": [
+        "第一段：现象与规模",
+        "第二段：吸引力（即时反馈、低门槛、算法）",
+        "第三段：双面影响 + 建议"
+      ],
+      "es": "Short videos have become the default way to fill a spare minute. On buses, in queues and between classes, the same gesture appears: thumb down, thumb up, repeat.\n\nThe attraction is well designed. Each clip delivers a complete reward in fifteen seconds, which is short enough to avoid boredom and long enough to feel satisfying. Production is cheap, so anyone can appear. Above all, the recommendation system learns quickly; after a few swipes it knows which topics hold your attention, and the next clip is always slightly better than the last.\n\nThe effects run both ways. Short videos spread practical knowledge fast — a cooking technique or a grammar point can reach millions in a day. But they also train attention to expect constant novelty, making a forty-page chapter feel unbearably slow.\n\nThe useful response is not abstinence but boundaries: a fixed time, a place where the app is not installed, and one long task finished before the first clip.",
+      "ph": [
+        "the default way to fill a spare minute 填补空闲时间的默认方式",
+        "The attraction is well designed. 吸引力是被精心设计的。",
+        "run both ways 有两面性",
+        "not abstinence but boundaries 不是戒断，而是设边界"
+      ]
+    },
+    {
+      "id": "w033",
+      "tp": "现象分析",
+      "ti": "考研热",
+      "dir": "Directions: Write an essay analysing the growing number of students applying for postgraduate study. You should write 120 to 180 words.",
+      "ol": [
+        "描述报考人数增长",
+        "分析原因（就业门槛、专业兴趣、缓冲）",
+        "讨论隐忧与理性选择"
+      ],
+      "fr": [
+        "第一段：现象描述",
+        "第二段：三重原因",
+        "第三段：隐忧（盲目跟风、资源错配）+ 建议"
+      ],
+      "es": "The number of students sitting the postgraduate entrance examination has risen for most of the past decade, and in some provinces it now exceeds the number of undergraduates graduating.\n\nThree forces are at work. Employers increasingly use a master's degree as a filter, so a bachelor's certificate buys fewer interviews than it did ten years ago. Some students genuinely want to go deeper into a subject; a third group uses the examination as a buffer against a discouraging job market.\n\nThere is nothing wrong with any of these motives, but the third deserves scrutiny. A degree taken only to delay adulthood can leave graduates older but no clearer about their direction, and it adds to the mismatch between training and demand.\n\nThe sensible question before registering is not what others are doing but what the degree will let you do that you cannot do now.",
+      "ph": [
+        "Three forces are at work. 有三股力量在起作用。",
+        "buys fewer interviews 换来更少的面试机会",
+        "deserves scrutiny 值得审视",
+        "no clearer about their direction 对方向并没有更清楚"
+      ]
+    },
+    {
+      "id": "w034",
+      "tp": "现象分析",
+      "ti": "城市养宠增多",
+      "dir": "Directions: Write an essay analysing why more urban households keep pets and what problems need attention. You should write 120 to 180 words.",
+      "ol": [
+        "描述现象",
+        "分析原因（独居、情感需求、消费）",
+        "指出问题与管理建议"
+      ],
+      "fr": [
+        "第一段：现象与规模",
+        "第二段：原因（居住形态、情感补偿、社交媒体）",
+        "第三段：问题（弃养、扰民、医疗）+ 建议"
+      ],
+      "es": "Pets have moved from the courtyard into the apartment. In many Chinese cities, the number of registered dogs and cats has grown faster than the number of households.\n\nThe reasons are partly structural. Smaller families and later marriages mean more people live alone, and a dog provides a routine and a reason to go outside. Emotional need is the second factor: a pet offers company without the complications of human relationships, and for elderly residents it may be the main daily conversation. Social media has amplified the trend by making pet ownership look like a lifestyle rather than a responsibility.\n\nThe problems are equally visible. Abandonment rises after holidays, barking disputes occupy neighbourhood committees, and veterinary costs surprise new owners. Registration, mandatory vaccination and a simple licence fee would help, but the deeper need is education before purchase: a pet is a fifteen-year commitment, not a purchase to be returned.",
+      "ph": [
+        "moved from the courtyard into the apartment 从院子搬进了公寓",
+        "amplify the trend 放大这一趋势",
+        "occupy neighbourhood committees 占用居委会的精力",
+        "a fifteen-year commitment 十五年的承诺"
+      ]
+    },
+    {
+      "id": "w035",
+      "tp": "现象分析",
+      "ti": "「躺平」话语",
+      "dir": "Directions: Write an essay analysing the spread of the phrase 'lying flat' among young Chinese people. You should write 120 to 180 words.",
+      "ol": [
+        "说明该说法指什么、不等于什么",
+        "分析其社会背景",
+        "给出理性看法"
+      ],
+      "fr": [
+        "第一段：界定概念，避免误读",
+        "第二段：背景（竞争强度、成本、期望落差）",
+        "第三段：评价：是信号不是方案"
+      ],
+      "es": "The phrase 'lying flat' spread quickly among young Chinese people, and it is often misunderstood. It rarely means refusing to work; more often it means declining an extra promotion, an unpaid weekend or a competition whose prize seems unreachable.\n\nCompetition for good university places and stable jobs intensified at the same time as housing costs rose, so the distance between effort and reward widened. Many young people also grew up being told that any goal was achievable, and discovered in their twenties that this was not quite true.\n\nAs a slogan it is honest; as a plan it is weak. Withdrawing from competition may protect a person's health for a year, but it does not create the conditions for a better life.\n\nThe more useful reading is that the phrase is a signal. It tells employers and policymakers where the return on effort has become too low, and it invites them to respond.",
+      "ph": [
+        "declining an extra promotion 拒绝额外的晋升",
+        "the distance between effort and reward widened 努力与回报之间的距离拉大",
+        "give that gap a name 给这种落差一个名字",
+        "the return on effort 努力的回报"
+      ]
+    },
+    {
+      "id": "w036",
+      "tp": "现象分析",
+      "ti": "电子支付普及",
+      "dir": "Directions: Write an essay analysing the near-total adoption of mobile payment in Chinese cities and its consequences. You should write 120 to 180 words.",
+      "ol": [
+        "描述普及程度",
+        "分析效率收益",
+        "讨论被忽略的代价与补救"
+      ],
+      "fr": [
+        "第一段：现象，从现金到扫码",
+        "第二段：效率、卫生、可追溯",
+        "第三段：代价（数字鸿沟、隐私、断网）+ 补救"
+      ],
+      "es": "In most Chinese cities, paying with cash now feels unusual. From street vendors to hospitals, a QR code has replaced the note and the coin.\n\nThe efficiency gains are real. A queue moves faster when no one is counting change, small transactions become economically possible, and records are automatic, which helps both households and tax authorities. Contactless payment also reduced physical contact during the pandemic and cut the cost of handling cash.\n\nThe costs are less visible. Elderly people who cannot operate a smartphone find ordinary shopping difficult, and tourists without a local account are locked out of many services. Every payment also produces a data trail that can be used for profiling. And a payment system that depends on electricity and signal fails exactly when a crowd most needs it.\n\nThe remedy is not to reject the technology but to keep alternatives alive: cash must remain legal tender, and machines should still accept cards.",
+      "ph": [
+        "street vendors 街头小贩",
+        "locked out of 被排除在外",
+        "a data trail 数据痕迹",
+        "legal tender 法定货币"
+      ]
+    },
+    {
+      "id": "w037",
+      "tp": "现象分析",
+      "ti": "博物馆热",
+      "dir": "Directions: Write an essay analysing why museums have become popular among young people. You should write 120 to 180 words.",
+      "ol": [
+        "描述参观热潮",
+        "分析原因（文化认同、社交分享、产品创新）",
+        "指出隐忧与建议"
+      ],
+      "fr": [
+        "第一段：现象，预约一票难求",
+        "第二段：三方面原因",
+        "第三段：隐忧（打卡式参观）+ 建议"
+      ],
+      "es": "Tickets for major museums now disappear within minutes of release. A decade ago, the same institutions were quiet on weekday afternoons.\n\nThree factors explain the change. First, cultural confidence: young visitors are less inclined to treat Western art as the default standard and more curious about their own history. Second, the visit has become social content; a well-lit exhibition hall is a good place for photographs, and sharing them signals taste. Third, museums have learned to design: creative products, themed cafés and evening openings turn a hall of objects into an experience.\n\nThe risk is that the queue becomes the point. Visitors who spend forty minutes photographing and ten minutes looking learn little, and crowded halls make deep viewing impossible.\n\nThe remedy lies with the museums themselves: timed entry, quieter routes for those who want to read labels, and exhibitions that reward attention rather than a camera.",
+      "ph": [
+        "disappear within minutes of release 放票几分钟内就没了",
+        "less inclined to treat A as the default 不太会把 A 当作默认标准",
+        "turn A into B 把 A 变成 B",
+        "reward attention rather than a camera 奖励专注而非相机"
+      ]
+    },
+    {
+      "id": "w038",
+      "tp": "现象分析",
+      "ti": "乡村民宿兴起",
+      "dir": "Directions: Write an essay analysing the growth of rural guesthouses in China. You should write 120 to 180 words.",
+      "ol": [
+        "描述增长",
+        "分析驱动因素",
+        "讨论同质化与社区影响"
+      ],
+      "fr": [
+        "第一段：现象",
+        "第二段：需求端 + 供给端",
+        "第三段：问题（同质化、房价、社区）+ 建议"
+      ],
+      "es": "Rural guesthouses have multiplied along the edges of cities. What began as a few converted farmhouses is now an industry with design awards and booking platforms.\n\nOn the demand side, travel habits have changed. After years of rushed sightseeing, urban families want shorter trips with slower schedules, and a two-night stay in a village fits a weekend better than a flight. On the supply side, improved roads and internet access made remote locations viable, while local governments offered subsidies to encourage renovation.\n\nThe problems appear once the model succeeds. Villages begin to look alike, with the same white walls, the same swing and the same breakfast, so price becomes the only difference. Rents rise, and young villagers may be priced out of their own community.\n\nWhat sustains a destination is not decoration but distinctiveness: local food, local crafts and hosts who actually live there. Subsidies should reward that, not the number of rooms.",
+      "ph": [
+        "converted farmhouses 改造过的农舍",
+        "fit a weekend better than a flight 比坐飞机更适合周末",
+        "be priced out of 因价格被挤出",
+        "What sustains a destination is ... 支撑一个目的地的是……"
+      ]
+    },
+    {
+      "id": "w039",
+      "tp": "现象分析",
+      "ti": "健身热潮",
+      "dir": "Directions: Write an essay analysing the fitness boom among urban Chinese. You should write 120 to 180 words.",
+      "ol": [
+        "描述健身人群扩大",
+        "分析原因",
+        "讨论消费化倾向与理性健身"
+      ],
+      "fr": [
+        "第一段：现象（健身房、跑步、居家训练）",
+        "第二段：健康意识、审美变化、社交平台",
+        "第三段：隐忧（办卡不练、过度消费）+ 建议"
+      ],
+      "es": "Fitness has become a visible part of urban life. Gyms open before seven, parks fill with runners at dusk, and home workout videos collect millions of views.\n\nThe motives have shifted. Twenty years ago, exercise was mostly associated with competition or weight loss; today it is presented as a way of managing stress and energy. Health check-ups that report fatty liver or high blood pressure persuade people in their thirties, while social platforms make progress visible and therefore comparable. Cheap wearable devices add a daily number to aim at.\n\nThere is a commercial side that deserves scepticism. Annual memberships are sold on the assumption that most buyers will stop coming after February, and supplements promise results that training alone would deliver.\n\nThe healthy version of the trend is unglamorous: three sessions a week, a routine that fits the schedule, and progress measured in months rather than in purchases.",
+      "ph": [
+        "collect millions of views 获得数百万播放",
+        "persuade people in their thirties 让三十多岁的人下决心",
+        "deserves scepticism 值得怀疑",
+        "unglamorous 不光鲜的"
+      ]
+    },
+    {
+      "id": "w040",
+      "tp": "现象分析",
+      "ti": "网络用语进入日常",
+      "dir": "Directions: Write an essay analysing the influence of internet slang on everyday language. You should write 120 to 180 words.",
+      "ol": [
+        "描述现象",
+        "分析其功能与风险",
+        "提出语言使用的态度"
+      ],
+      "fr": [
+        "第一段：现象（口语、作文、广告）",
+        "第二段：功能（效率、认同）+ 风险（表达粗糙、语境错位）",
+        "第三段：态度：分场合"
+      ],
+      "es": "Internet slang has moved from comment sections into classrooms, advertisements and even examination scripts. A phrase invented for a joke can become the standard way to describe an emotion within a year.\n\nSlang does real work. It compresses a complicated feeling into two characters, which is useful in fast conversation, and it signals membership in a group. For young people, using the current word is a way of saying 'I belong here'.\n\nThe risk is a narrowing of expression. If every disappointment is described by the same word, the difference between disappointment, irritation and grief disappears. Slang also dates quickly: a phrase that sounds natural to a fifteen-year-old may sound absurd to an examiner, and using it in a formal essay costs marks.\n\nThe sensible attitude is register awareness. Slang belongs in chat and in friendly speech; formal writing requires words that will still mean the same thing in ten years.",
+      "ph": [
+        "does real work 有其实际功能",
+        "a narrowing of expression 表达的窄化",
+        "date quickly 很快过时",
+        "register awareness 语域意识"
+      ]
+    },
+    {
+      "id": "w041",
+      "tp": "现象分析",
+      "ti": "独居青年增多",
+      "dir": "Directions: Write an essay analysing the rise of solo living among young adults. You should write 120 to 180 words.",
+      "ol": [
+        "描述数据趋势",
+        "分析原因（婚育推迟、迁移、经济）",
+        "讨论影响与应对"
+      ],
+      "fr": [
+        "第一段：现象与规模",
+        "第二段：三重原因",
+        "第三段：影响（自由与孤独）+ 社会应对"
+      ],
+      "es": "More young adults in Chinese cities now live alone than at any time in the past. The trend is visible in the housing market: small flats and single-room rentals are the fastest-growing segment.\n\nThree factors drive it. Marriage and childbirth are happening later, so there is a longer period between graduation and forming a household. Internal migration separates young workers from their hometowns, and renting alone is often cheaper than sharing a flat in a convenient location. Rising incomes also make solitude purchasable, which was not true a generation ago.\n\nSolo living has real benefits: control over time, no negotiation over housework, and space to develop habits. Its cost is loneliness, which arrives not in dramatic moments but on ordinary evenings, and which research links to poorer health.\n\nThe response should be social rather than moral. Shared kitchens, community sports and public spaces that make casual contact possible do more than advising young people to marry sooner.",
+      "ph": [
+        "the fastest-growing segment 增长最快的部分",
+        "solitude purchasable 独处成为可购买的商品",
+        "arrives not in dramatic moments but on ordinary evenings 不在戏剧性时刻到来，而在普通夜晚",
+        "casual contact 随意的接触"
+      ]
+    },
+    {
+      "id": "w042",
+      "tp": "现象分析",
+      "ti": "二手交易流行",
+      "dir": "Directions: Write an essay analysing the popularity of second-hand trading among young consumers. You should write 120 to 180 words.",
+      "ol": [
+        "描述现象",
+        "分析动因（经济、环保、新奇）",
+        "讨论信任问题与规范化"
+      ],
+      "fr": [
+        "第一段：现象",
+        "第二段：三重动因",
+        "第三段：问题（真假、售后）+ 建议"
+      ],
+      "es": "Buying used has lost its stigma. Second-hand platforms now list everything from textbooks to designer bags, and a large share of their users are under thirty.\n\nRents and living costs take a bigger share of a young salary than for their parents, so paying half price for a desk or a bicycle is simply rational. Environmental concern is the second: a generation that has heard about carbon footprints finds it inconsistent to buy new furniture for a one-year lease. The third motive is discovery — a used item is unique, and hunting for it is entertaining in a way that a shopping cart is not.\n\nPhotographs can hide damage, descriptions can be optimistic, and returning an item to a private seller is difficult. Platforms that offer authentication, escrow payment and standard returns grow faster than those that do not.\n\nSecond-hand trading is not a temporary response to hard times; it is a more efficient use of things already made.",
+      "ph": [
+        "lose its stigma 不再带有污名",
+        "take a bigger share of 占更大比例",
+        "find it inconsistent to do 觉得做某事不合逻辑",
+        "escrow payment 担保支付"
+      ]
+    },
+    {
+      "id": "w043",
+      "tp": "现象分析",
+      "ti": "城市马拉松热",
+      "dir": "Directions: Write an essay analysing why marathons have become popular in Chinese cities. You should write 120 to 180 words.",
+      "ol": [
+        "描述赛事增长",
+        "分析参与者与城市两方面的动机",
+        "讨论问题与改进"
+      ],
+      "fr": [
+        "第一段：现象",
+        "第二段：个人动机（健康、目标感）+ 城市动机（形象、消费）",
+        "第三段：问题（中签难、扰民、安全）+ 建议"
+      ],
+      "es": "A generation ago, a marathon in a Chinese city was a rare event organised for professional athletes. Today dozens of cities hold races each year, and entry places are allocated by lottery.\n\nFor runners, the appeal is a goal with a date. Training for 42 kilometres imposes structure on an otherwise flexible week, and finishing provides a sense of achievement that a gym session cannot. For cities, a race is compact publicity: roads are closed for a morning, and images of the skyline travel further than most advertising campaigns.\n\nThe problems are predictable. Residents complain about closed roads, medical staff worry about untrained runners who ignore warnings, and the lottery leaves many disappointed. Some races have also become expensive exhibitions of equipment.\n\nImprovements are straightforward: more half-marathons for beginners, better medical screening, and routes that disturb fewer neighbourhoods. A race works when it belongs to the city, not only to the sponsor.",
+      "ph": [
+        "allocated by lottery 通过抽签分配",
+        "imposes structure on 给……强加结构",
+        "compact publicity 紧凑的宣传",
+        "belongs to the city 属于这座城市"
+      ]
+    },
+    {
+      "id": "w044",
+      "tp": "现象分析",
+      "ti": "国潮消费",
+      "dir": "Directions: Write an essay analysing the rise of 'national trend' consumption among Chinese young people. You should write 120 to 180 words.",
+      "ol": [
+        "描述消费现象",
+        "分析原因（设计提升、文化认同、供应链）",
+        "指出风险与长期之道"
+      ],
+      "fr": [
+        "第一段：现象（国产运动品牌、联名、非遗元素）",
+        "第二段：三重原因",
+        "第三段：风险（符号化、溢价）+ 长期建议"
+      ],
+      "es": "Products labelled 'national trend' now fill the shelves that foreign brands once dominated. Sneakers with embroidered patterns, tea drinks named after poems and cosmetics packaged like porcelain are bought by consumers in their twenties.\n\nDesign quality explains part of it. Chinese brands hired the same designers who once worked for international labels, and the gap in appearance closed quickly. Cultural confidence explains another part: young buyers no longer assume that imported means better, and they enjoy recognising a reference that older generations also understand. Finally, the supply chain is local, so a new idea can reach shops in weeks rather than seasons.\n\nThe risk is that the label replaces the product. When a plain T-shirt costs twice as much because of a printed character, the trend becomes a tax on patriotism, and customers notice.\n\nThe brands that last will be those whose quality survives without the label. Culture sells the first purchase; only the product sells the second.",
+      "ph": [
+        "fill the shelves 摆满货架",
+        "the gap in appearance closed 外观上的差距缩小了",
+        "a tax on patriotism 对爱国情绪的征税",
+        "Culture sells the first purchase 文化带来第一次购买"
+      ]
+    },
+    {
+      "id": "w045",
+      "tp": "现象分析",
+      "ti": "远程办公的常态化",
+      "dir": "Directions: Write an essay analysing the normalisation of remote work and its effects. You should write 120 to 180 words.",
+      "ol": [
+        "描述变化",
+        "分析对个人与组织的影响",
+        "讨论混合模式的边界"
+      ],
+      "fr": [
+        "第一段：现象，从应急到常态",
+        "第二段：收益（通勤、专注、地域）+ 代价（边界模糊、协作变慢）",
+        "第三段：混合模式的关键规则"
+      ],
+      "es": "Remote work began as an emergency measure and has settled into a routine. Many companies now allow two or three days at home each week, and job advertisements list flexibility alongside salary.\n\nThe gains are clear. Removing the commute returns one to two hours a day, and those hours often go into work or sleep rather than leisure. Concentrated tasks such as writing and coding proceed faster without interruptions. Companies benefit too, because they can hire beyond commuting distance.\n\nThe costs are less obvious but real. Home and office merge, so the working day expands at both ends, and junior employees lose the incidental learning that comes from overhearing a senior colleague. Decisions that once took a corridor conversation now take three days of messages.\n\nThe hybrid model works only with explicit rules: fixed days together for discussion, clear expectations about response time, and meetings that have an agenda. Flexibility without structure becomes invisibility for those who are least assertive.",
+      "ph": [
+        "settled into a routine 变成常态",
+        "incidental learning 附带的学习",
+        "corridor conversation 走廊里的对话",
+        "invisibility for those who are least assertive 对最不善表达的人而言就是被忽视"
+      ]
+    }
+  ]
+}

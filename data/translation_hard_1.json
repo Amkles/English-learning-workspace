@@ -1,0 +1,180 @@
+{
+  "items": [
+    {
+      "id": "t046",
+      "lv": "hard",
+      "tp": "环境",
+      "zh": "中国提出力争在 2060 年前实现碳中和。这一目标要求能源结构发生根本性转变，煤炭消费比重要大幅下降，风能和太阳能将成为主要电力来源。实现这一目标既需要技术突破，也需要全社会的配合。",
+      "en": "China has pledged to achieve carbon neutrality before 2060. This goal calls for a fundamental shift in the energy mix: the share of coal consumption must fall sharply, and wind and solar power will become the main sources of electricity. Meeting the target requires both technological breakthroughs and cooperation across society.",
+      "tip": ["pledge to do 承诺做，比 promise 更正式", "冒号后的两个分句用来解释 shift 的具体内容", "Meeting the target 动名词作主语，谓语用单数"]
+    },
+    {
+      "id": "t047",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "数字经济已成为中国经济增长的重要引擎。电子商务、移动支付和在线服务创造了大量就业岗位，也改变了传统的商业模式。与此同时，如何保护用户数据安全成为监管面临的新课题。",
+      "en": "The digital economy has become an important engine of China's economic growth. E-commerce, mobile payment and online services have created a large number of jobs and reshaped traditional business models. At the same time, protecting user data has become a new challenge for regulators.",
+      "tip": ["engine of growth 增长引擎，为常见比喻", "reshaped 改写、重塑，比 changed 更有分量", "how 引导的从句在此改写为动名词短语作主语，更简洁"]
+    },
+    {
+      "id": "t048",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "过去四十年，中国的城镇化率从不足百分之二十提高到百分之六十五以上。数亿人从农村迁入城市，为工业和服务业提供了充足的劳动力。但城乡之间在教育和医疗资源上的差距依然存在。",
+      "en": "Over the past four decades, China's urbanisation rate has risen from less than 20 percent to more than 65 percent. Hundreds of millions of people have moved from the countryside to cities, supplying ample labour for industry and services. Nevertheless, gaps between urban and rural areas in education and medical resources remain.",
+      "tip": ["from ... to ... 表变化区间，两个百分数都要保留", "supplying ... 现在分词作结果状语", "Nevertheless 表转折，比 But 正式，其后用逗号"]
+    },
+    {
+      "id": "t049",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "中国正快速进入老龄化社会。预计到 2035 年，六十岁以上人口将超过四亿。这给养老金体系和医疗服务带来巨大压力，也催生了养老产业的巨大市场。",
+      "en": "China is rapidly becoming an ageing society. It is estimated that by 2035 the population over 60 will exceed 400 million. This places enormous pressure on the pension system and medical services, and it has also created a huge market for the elderly care industry.",
+      "tip": ["It is estimated that ... 为数据类文本常用句式", "places pressure on 给……带来压力", "elderly care industry 养老产业"]
+    },
+    {
+      "id": "t050",
+      "lv": "hard",
+      "tp": "乡村",
+      "zh": "乡村振兴战略的实施，使许多偏远村庄的面貌发生了改变。新修的公路把农产品运往城市，网络让村民可以直接面对消费者。然而，如何留住年轻人仍然是这些地区面临的难题。",
+      "en": "The implementation of the rural revitalisation strategy has changed the face of many remote villages. Newly built roads carry farm produce to cities, and the internet allows villagers to reach consumers directly. Yet keeping young people in these areas remains a difficult problem.",
+      "tip": ["implementation 实施，比 carrying out 更书面", "allows sb to do 允许某人做", "keeping ... 动名词作主语，谓语用 remains"]
+    },
+    {
+      "id": "t051",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "中国的航天计划在最近二十年取得了一系列突破。从载人飞行到月球采样，从空间站建设到火星探测，每一步都建立在长期投入和大量试验之上。航天技术的进步也带动了材料、通信等相关产业的发展。",
+      "en": "China's space programme has made a series of breakthroughs over the past two decades. From crewed flights to lunar sampling, from building a space station to exploring Mars, every step has rested on long-term investment and extensive testing. Progress in space technology has also driven the growth of related industries such as materials and communications.",
+      "tip": ["crewed flight 载人飞行，不用 manned（性别中立表达）", "rest on 建立在……之上，比 depend on 更贴切", "drive the growth of 带动……发展"]
+    },
+    {
+      "id": "t052",
+      "lv": "hard",
+      "tp": "生态",
+      "zh": "湿地被称为「地球之肾」，在蓄水防洪和调节气候方面发挥着不可替代的作用。过去几十年，围垦和污染使大量湿地消失。近年来，中国通过建立保护区和退耕还湿，逐步恢复了部分湿地生态。",
+      "en": "Wetlands, known as the kidneys of the earth, play an irreplaceable role in storing water, controlling floods and regulating the climate. Over the past few decades, reclamation and pollution caused a large number of wetlands to disappear. In recent years, China has gradually restored some wetland ecosystems by establishing reserves and returning farmland to wetland.",
+      "tip": ["known as ... 过去分词短语作插入语", "play a role in doing 在……方面起作用", "returning farmland to wetland 退耕还湿，仿 return grain to forest 结构"]
+    },
+    {
+      "id": "t053",
+      "lv": "hard",
+      "tp": "生态",
+      "zh": "库布其沙漠曾经被称为「死亡之海」。经过三十多年的治理，当地植被覆盖率显著提高，沙尘天气明显减少。这一案例被视为全球荒漠化治理的成功范例。",
+      "en": "The Kubuqi Desert was once called the sea of death. After more than thirty years of treatment, vegetation coverage there has risen markedly and dusty weather has decreased noticeably. The case is regarded as a successful example of desertification control worldwide.",
+      "tip": ["vegetation coverage 植被覆盖率", "be regarded as 被视为，比 be seen as 正式", "desertification control 荒漠化治理"]
+    },
+    {
+      "id": "t054",
+      "lv": "hard",
+      "tp": "医药",
+      "zh": "中医药正在走向世界。目前，针灸已在许多国家获得合法地位，中药也进入了部分国家的医保体系。不过，要让更多人接受中医，还需要用现代科学方法说明其疗效。",
+      "en": "Traditional Chinese medicine is moving onto the world stage. Acupuncture has now gained legal status in many countries, and herbal medicines have entered the medical insurance systems of some of them. Nevertheless, winning wider acceptance for TCM requires explaining its efficacy through modern scientific methods.",
+      "tip": ["gain legal status 获得合法地位", "some of them 指代国家，避免重复 countries", "efficacy 疗效，医学文本术语"]
+    },
+    {
+      "id": "t055",
+      "lv": "hard",
+      "tp": "文化",
+      "zh": "非物质文化遗产的保护面临两难：过度商业化会损害其本真性，完全封闭又可能使它失去活力。近年来，一些地方尝试让传承人走进校园和直播间，在传播中寻找新的生存空间。",
+      "en": "Protecting intangible cultural heritage involves a dilemma: excessive commercialisation damages its authenticity, while complete isolation may deprive it of vitality. In recent years, some places have tried bringing inheritors into schools and livestreaming rooms, seeking new room to survive through wider exposure.",
+      "tip": ["dilemma 两难，后用冒号展开两方面", "deprive sb of sth 使某人失去某物", "seeking ... 现在分词作伴随状语"]
+    },
+    {
+      "id": "t056",
+      "lv": "hard",
+      "tp": "教育",
+      "zh": "职业教育的地位正在提升。随着制造业升级，企业需要大量能够操作智能设备的技术工人。一些职业院校与企业合作办学，学生在校期间就能接触真实的生产线。",
+      "en": "The status of vocational education is rising. As manufacturing upgrades, companies need large numbers of skilled workers who can operate intelligent equipment. Some vocational colleges run joint programmes with enterprises, so that students can work with real production lines while still at school.",
+      "tip": ["vocational education 职业教育，为固定译法", "who 引导定语从句修饰 workers", "so that 引导目的状语从句"]
+    },
+    {
+      "id": "t057",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "中国消费者的需求正在从「有没有」转向「好不好」。人们愿意为品质、设计和体验支付更高的价格，也更关注产品的环保属性。这一变化促使企业重新思考自己的竞争策略。",
+      "en": "The demands of Chinese consumers are shifting from quantity to quality. People are willing to pay more for quality, design and experience, and they care more about how environmentally friendly a product is. This shift has prompted companies to rethink their competitive strategies.",
+      "tip": ["shift from A to B 从 A 转向 B", "how environmentally friendly a product is 名词性从句作宾语", "prompt sb to do 促使某人做"]
+    },
+    {
+      "id": "t058",
+      "lv": "hard",
+      "tp": "城市",
+      "zh": "城市群正在成为中国新型城镇化的主体形态。长三角、珠三角和京津冀地区以不到十分之一的国土面积，创造了全国近一半的经济总量。如何让这些地区内部的公共服务更加均衡，是未来规划的重点。",
+      "en": "City clusters are becoming the main form of China's new urbanisation. The Yangtze River Delta, the Pearl River Delta and the Beijing-Tianjin-Hebei region together account for nearly half of the country's economic output on less than one tenth of its land. How to make public services more evenly distributed within these regions is a priority for future planning.",
+      "tip": ["account for 占（比例），主语为地区", "on less than one tenth of its land 用 on 表面积基础", "How to ... 不定式短语作主语，谓语用单数"]
+    },
+    {
+      "id": "t059",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "中国在深海探测领域取得了重要进展。载人潜水器多次下潜到万米深处，采集了大量生物和地质样本。这些数据有助于科学家理解深海生态系统的运行机制。",
+      "en": "China has made significant progress in deep-sea exploration. Its crewed submersibles have dived to depths of 10,000 metres several times, collecting a large number of biological and geological samples. Such data help scientists understand how deep-sea ecosystems function.",
+      "tip": ["crewed submersible 载人潜水器", "dive to depths of 在潜水语境中 dive 不及物", "how ... function 名词性从句，不用语序倒装"]
+    },
+    {
+      "id": "t060",
+      "lv": "hard",
+      "tp": "环境",
+      "zh": "空气质量的改善是北京过去十年最显著的变化之一。通过压减燃煤、淘汰老旧车辆和迁移重工业企业，细颗粒物年均浓度下降了一半以上。不过，臭氧污染在夏季仍然突出。",
+      "en": "The improvement in air quality is one of the most visible changes in Beijing over the past decade. By cutting coal use, retiring old vehicles and relocating heavy industry, the city has reduced average annual concentrations of fine particulate matter by more than half. Ozone pollution, however, remains serious in summer.",
+      "tip": ["by doing 表示方式，三个动名词并列", "reduce ... by more than half，by 表降幅", "however 插入句中，前后用逗号"]
+    },
+    {
+      "id": "t061",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "灵活就业在中国越来越普遍。外卖骑手、网约车司机和自由职业者构成了一个新的劳动群体。他们工作时间自由，却往往缺少稳定的社会保障。如何在灵活与保障之间取得平衡，是政策制定者需要回答的问题。",
+      "en": "Flexible employment is becoming increasingly common in China. Delivery riders, ride-hailing drivers and freelancers form a new group of workers. They enjoy flexible hours but often lack stable social security. How to strike a balance between flexibility and protection is a question policymakers must answer.",
+      "tip": ["ride-hailing driver 网约车司机", "strike a balance between A and B 在两者间取得平衡", "policymakers must answer 省略 who 的定语从句"]
+    },
+    {
+      "id": "t062",
+      "lv": "hard",
+      "tp": "文化",
+      "zh": "汉语热在全球范围内持续升温。目前，已有七十多个国家将汉语纳入国民教育体系。学习汉语不仅是为了职业发展，也成为许多人了解中国文化的途径。",
+      "en": "Interest in learning Chinese continues to grow around the world. More than seventy countries have now included Chinese in their national education systems. Learning the language serves not only career development but also, for many people, a way to understand Chinese culture.",
+      "tip": ["interest in doing 对……的兴趣，比 Chinese fever 更地道", "include ... in ... 把……纳入", "serves ... a way 中 serve 表「充当」，注意与 serve as 区分"]
+    },
+    {
+      "id": "t063",
+      "lv": "hard",
+      "tp": "教育",
+      "zh": "在线教育在偏远地区发挥了重要作用。通过直播课堂，山区的学生可以听到城市名师的讲解。但要真正缩小教育差距，还需要解决网络覆盖和师资培养等根本问题。",
+      "en": "Online education has played an important role in remote areas. Through live-streamed classes, students in mountainous regions can attend lectures given by outstanding teachers in cities. Yet closing the education gap truly requires addressing fundamental issues such as internet coverage and teacher training.",
+      "tip": ["play a role in 在……中起作用", "lectures given by ... 过去分词作后置定语", "require doing 需要做，address issues 解决问题"]
+    },
+    {
+      "id": "t064",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "知识产权保护力度的大小，直接影响企业创新的意愿。近年来，中国修改了专利法和商标法，提高了侵权赔偿标准。越来越多的外国企业因此愿意在中国申请专利。",
+      "en": "The strength of intellectual property protection directly affects companies' willingness to innovate. In recent years, China has amended its patent and trademark laws and raised the standards of compensation for infringement. As a result, more and more foreign companies are willing to apply for patents in China.",
+      "tip": ["willingness to do 做……的意愿，名词化更书面", "compensation for infringement 侵权赔偿", "As a result 引出结果，用逗号与主句隔开"]
+    },
+    {
+      "id": "t065",
+      "lv": "hard",
+      "tp": "生态",
+      "zh": "长江十年禁渔计划于 2021 年全面启动。这一措施旨在让鱼类资源得到恢复，也迫使数万名渔民转产转业。监测显示，部分江段的鱼类种群数量已出现回升迹象。",
+      "en": "A ten-year fishing ban on the Yangtze River took full effect in 2021. The measure aims to restore fish stocks and has forced tens of thousands of fishermen to change their trades. Monitoring shows that fish populations in some sections of the river have begun to recover.",
+      "tip": ["take effect 生效，比 start 正式", "aim to do 旨在做", "change one's trade 转产转业，trade 指行业"]
+    },
+    {
+      "id": "t066",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "中国的生育率持续走低，2022 年人口出现负增长。高昂的住房和教育成本被认为是主要原因之一。各地陆续出台补贴和延长产假等措施，但效果尚待观察。",
+      "en": "China's fertility rate has continued to fall, and the population shrank in 2022. The high cost of housing and education is regarded as one of the main reasons. Local governments have introduced measures such as subsidies and longer parental leave, but their effects remain to be seen.",
+      "tip": ["shrank 为 shrink 的过去式，指人口负增长", "be regarded as 被认为，被动结构", "remain to be seen 尚待观察，为固定表达"]
+    },
+    {
+      "id": "t067",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "5G 网络的商用推动了工业互联网的发展。在智能工厂里，机器之间可以实时交换数据，生产线能够根据订单自动调整。这种变化提高了效率，也对工人的技能提出了更高要求。",
+      "en": "The commercial use of 5G networks has driven the development of the industrial internet. In smart factories, machines exchange data in real time, and production lines can adjust automatically to orders. Such changes raise efficiency and also place higher demands on workers' skills.",
+      "tip": ["commercial use 商用，名词短语作主语", "in real time 实时，固定搭配", "place demands on 对……提出要求"]
+    }
+  ]
+}

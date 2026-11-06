@@ -1,0 +1,16 @@
+{
+  "name": "cet6-daily-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "六级打卡台的 jsdom 测试：素材解析、抽取压测、交互冒烟",
+  "scripts": {
+    "test": "node parse.test.js && node draw.test.js && node smoke.test.js",
+    "test:parse": "node parse.test.js",
+    "test:draw": "node draw.test.js",
+    "test:smoke": "node smoke.test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^31.0.0"
+  }
+}
