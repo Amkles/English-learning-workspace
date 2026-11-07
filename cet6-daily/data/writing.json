@@ -1,0 +1,2074 @@
+{
+  "items": [
+    {
+      "id": "w001",
+      "tp": "书信通知",
+      "ti": "致谢外教",
+      "dir": "Directions: You have just finished a course taught by a foreign teacher. Write a letter to him or her to express your gratitude. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明写信目的，感谢一学期的教导",
+        "具体说明哪一点帮助最大（如口语纠音、写作批改）",
+        "表达祝愿，希望保持联系"
+      ],
+      "fr": [
+        "第一段：点明身份与写信目的——课程结束，写信致谢",
+        "第二段：举一个具体事例说明收获，避免空泛赞美",
+        "第三段：再次感谢，表达祝愿与保持联系的愿望"
+      ],
+      "es": "Dear Mr. Smith,\n\nI am Li Ming, a student from Class Three. Now that the oral English course has come to an end, I am writing to express my sincere gratitude for your teaching over the past term.\n\nWhat impressed me most was the way you corrected my pronunciation. In the first weeks, I was afraid to speak in class because my accent made me nervous. You listened patiently, wrote the problem sounds on the board and asked me to practise them in short dialogues. Thanks to your encouragement, I can now give a presentation without reading every word.\n\nYour class has made English a habit rather than a subject for me. I will keep reading and speaking every day. I wish you all the best in your future work, and I hope we can stay in touch by email.\n\nYours sincerely,\nLi Ming",
+      "ph": [
+        "express my sincere gratitude for ... 对……表示诚挚感谢",
+        "What impressed me most was ... 给我印象最深的是……",
+        "Thanks to your encouragement ... 多亏你的鼓励",
+        "stay in touch with sb. 与某人保持联系"
+      ]
+    },
+    {
+      "id": "w002",
+      "tp": "书信通知",
+      "ti": "邀请参加文化节",
+      "dir": "Directions: Your university is going to hold a Chinese Culture Festival. Write a letter to invite Professor Brown, a visiting scholar, to attend it. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明活动名称、时间和地点",
+        "介绍活动内容与邀请理由",
+        "说明回复方式，表达期待"
+      ],
+      "fr": [
+        "第一段：自我介绍，说明邀请事由",
+        "第二段：介绍时间、地点与主要环节，说明为何想到对方",
+        "第三段：请对方确认行程，表达期待"
+      ],
+      "es": "Dear Professor Brown,\n\nI am Wang Fang, chair of the Student Union of the Foreign Languages School. On behalf of our school, I am writing to invite you to the Chinese Culture Festival, which will be held in the Student Centre from 2 p.m. to 6 p.m. on 20 May.\n\nThe festival will include calligraphy workshops, a tea ceremony and a short stage performance. Since you have studied Chinese poetry for many years, we would be honoured if you could give a ten-minute talk on how poetry reflects everyday life. Your talk would give students a fresh view of the culture they are learning about.\n\nPlease let me know whether you are available by 10 May so that we can arrange the seating and the schedule. We sincerely hope you can join us.\n\nYours sincerely,\nWang Fang",
+      "ph": [
+        "On behalf of ..., I am writing to invite you to ... 我代表……写信邀请您……",
+        "We would be honoured if you could ... 如您能……我们将深感荣幸",
+        "whether you are available 您是否有空",
+        "give students a fresh view of ... 让学生对……有新认识"
+      ]
+    },
+    {
+      "id": "w003",
+      "tp": "书信通知",
+      "ti": "申请志愿者",
+      "dir": "Directions: A international sports event is recruiting volunteers. Write a letter to apply for the position. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明申请岗位与信息来源",
+        "介绍自身优势（语言、经验、时间）",
+        "表达服务意愿，请求面试机会"
+      ],
+      "fr": [
+        "第一段：说明从何处得知招募信息，申请何岗位",
+        "第二段：用具体经历说明自己为何合适",
+        "第三段：说明可投入时间，请求进一步联系"
+      ],
+      "es": "Dear Sir or Madam,\n\nI am a second-year student majoring in English at Nanjing University. I learned from the volunteer recruitment notice that you are looking for assistants for the international sports event, and I would like to apply for the reception desk position.\n\nTwo points may make me a suitable candidate. First, I have passed CET-6 and worked as an interpreter for a foreign delegation during last year's campus fair, so I am used to communicating with visitors under pressure. Second, I am patient and organized; as a class monitor, I have arranged schedules for more than forty students.\n\nI will be free from 10 July to 20 August and can work six days a week. I would be grateful for the chance to attend an interview at your convenience.\n\nYours faithfully,\nLi Hua",
+      "ph": [
+        "I learned from ... that ... 我从……得知……",
+        "Two points may make me a suitable candidate. 两点或许能说明我适合这一岗位。",
+        "I am used to doing sth. 我习惯于做某事",
+        "at your convenience 在您方便的时候"
+      ]
+    },
+    {
+      "id": "w004",
+      "tp": "书信通知",
+      "ti": "投诉图书馆噪音",
+      "dir": "Directions: Write a letter to the library to complain about the noise problem during the exam period. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明投诉的具体问题与发生时间",
+        "说明对学习造成的影响",
+        "提出可行的改进建议"
+      ],
+      "fr": [
+        "第一段：说明身份，指出问题所在区域与时段",
+        "第二段：描述具体情形及影响，语气克制",
+        "第三段：提出两三条可操作建议，期待回复"
+      ],
+      "es": "Dear Sir or Madam,\n\nI am a junior student who studies in the library almost every day. I am writing to report a problem that has become serious during the exam period.\n\nIn the reading room on the third floor, students often discuss their group projects at normal speaking volume, and some watch videos without earphones. Last Tuesday I sat there for three hours but finished only half of my reading. Several classmates have moved to the canteen, which is far from ideal for quiet study.\n\nI would suggest setting aside one room for group discussion and putting up reminder signs at the entrance of the silent area. It would also help if staff walked through the reading room once every hour.\n\nI hope these suggestions will be considered, and I look forward to your reply.\n\nYours faithfully,\nZhang Wei",
+      "ph": [
+        "I am writing to report a problem ... 我写信反映一个问题",
+        "at normal speaking volume 以正常说话音量",
+        "set aside ... for ... 把……留作……之用",
+        "I look forward to your reply. 期待您的回复。"
+      ]
+    },
+    {
+      "id": "w005",
+      "tp": "书信通知",
+      "ti": "建议改善食堂",
+      "dir": "Directions: Write a letter to the university president to suggest improvements to the campus canteen. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "肯定现有优点，指出待改进之处",
+        "说明问题带来的具体不便",
+        "提出具体建议"
+      ],
+      "fr": [
+        "第一段：说明写信目的，先肯定食堂的努力",
+        "第二段：指出两个具体问题（如排队时间、菜品单一）",
+        "第三段：给出可执行建议，表达信任"
+      ],
+      "es": "Dear President,\n\nI am a sophomore writing to share some thoughts on the campus canteen. I would like to begin by thanking the staff, whose work has clearly improved since the new menu was introduced last term.\n\nTwo problems, however, still affect daily life. First, the queue at the second-floor window is often twenty minutes long between 12:00 and 12:30, which leaves little time for a short rest before afternoon classes. Second, vegetarian dishes are limited to one or two options, so students with special dietary needs often eat the same meal for a week.\n\nMay I suggest opening an extra window during peak hours and adding two vegetarian dishes each day? A simple online menu would also help students decide before they queue.\n\nThank you for your time, and I trust the canteen will continue to improve.\n\nYours sincerely,\nChen Jing",
+      "ph": [
+        "I would like to begin by thanking ... 首先我要感谢……",
+        "be limited to 仅限于",
+        "May I suggest ...? 我可以建议……吗？",
+        "during peak hours 在高峰时段"
+      ]
+    },
+    {
+      "id": "w006",
+      "tp": "书信通知",
+      "ti": "道歉信（损坏借书）",
+      "dir": "Directions: You borrowed a book from your professor and accidentally damaged it. Write a letter to apologize. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明事情经过，直接致歉",
+        "说明补救措施",
+        "再次致歉，承诺改进"
+      ],
+      "fr": [
+        "第一段：开门见山说明来意并道歉",
+        "第二段：交代损坏经过，不找借口",
+        "第三段：提出赔偿或替换方案"
+      ],
+      "es": "Dear Professor Liu,\n\nI am writing to apologize for damaging the book you kindly lent me last month, A Short History of Modern Europe.\n\nOn Friday I carried it in my backpack during a rainstorm. The bottom of the bag was wet, and about twenty pages at the back are now wrinkled. I only noticed the damage when I opened it in the library. I should have put it in a plastic folder, and I am sorry that I did not take better care of something you trusted me with.\n\nI have ordered a new copy, which should arrive early next week. I will bring it to your office as soon as it comes, and I am also happy to pay for any difference in price. I promise to be more careful with borrowed materials in the future.\n\nYours sincerely,\nZhao Lei",
+      "ph": [
+        "I am writing to apologize for ... 我写信为……道歉",
+        "I should have done ... 我本应该……",
+        "take care of 保管、照料",
+        "be happy to do 乐意做"
+      ]
+    },
+    {
+      "id": "w007",
+      "tp": "书信通知",
+      "ti": "讲座通知",
+      "dir": "Directions: Write a notice for the student union about a lecture on time management. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明讲座主题、主讲人与时间地点",
+        "介绍讲座内容与适合人群",
+        "说明报名方式与注意事项"
+      ],
+      "fr": [
+        "第一段：通知事项，要素齐全（主题、主讲、时间、地点）",
+        "第二段：简介内容与收获",
+        "第三段：报名方式与截止时间"
+      ],
+      "es": "Notice\n\nA lecture on time management will be held in Lecture Hall 2 from 7 p.m. to 8:30 p.m. on Wednesday, 15 November. The speaker is Dr. Wang Lei, a psychologist who has worked with university students for over ten years.\n\nThe lecture will focus on three questions: how to plan a week realistically, how to deal with interruptions, and how to keep energy levels steady during exam periods. Dr. Wang will also analyse two common habits that waste time and suggest practical alternatives. Students who often stay up late to finish assignments will find the talk especially useful.\n\nAdmission is free, but seats are limited to 150. Please scan the QR code on the poster to sign up before Monday, 13 November. Latecomers will be asked to stand at the back.\n\nStudent Union",
+      "ph": [
+        "will be held in ... from ... to ... 将于……在……举行",
+        "Admission is free. 免费入场。",
+        "seats are limited to 150 座位仅限 150 个",
+        "Latecomers will be asked to ... 迟到者将被要求……"
+      ]
+    },
+    {
+      "id": "w008",
+      "tp": "书信通知",
+      "ti": "社团招新",
+      "dir": "Directions: Write a notice for a reading club recruiting new members. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "介绍社团定位与活动频率",
+        "说明招新对象与要求",
+        "报名方式与截止时间"
+      ],
+      "fr": [
+        "第一段：社团简介与活动安排",
+        "第二段：招新对象、人数与要求",
+        "第三段：报名方式、面试安排"
+      ],
+      "es": "Notice\n\nThe Reading Club is looking for new members for the coming term. We meet every Thursday evening in Room 305 of the library, and each session lasts about ninety minutes. Members take turns to introduce a book, and the rest of the time is used for discussion.\n\nWe welcome students from all departments. What matters is not how many books you have read but whether you are willing to explain your ideas and listen to others. This term we plan to read six titles, including two novels and one work of popular science. Members will vote on the final list in the first meeting.\n\nTo join, please send your name, department and a short paragraph about a book you like to readingclub@campus.edu before 20 September. We will hold a brief interview for those who sign up.\n\nReading Club",
+      "ph": [
+        "take turns to do 轮流做",
+        "What matters is not ... but whether ... 重要的不是……而是是否……",
+        "vote on 对……进行投票",
+        "sign up 报名"
+      ]
+    },
+    {
+      "id": "w009",
+      "tp": "书信通知",
+      "ti": "实习求职信",
+      "dir": "Directions: Write a letter to apply for a summer internship in a marketing company. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明申请岗位与信息来源",
+        "结合课程与经历说明匹配度",
+        "说明实习时间，请求面试"
+      ],
+      "fr": [
+        "第一段：申请岗位与信息来源",
+        "第二段：两项与岗位相关的能力，配具体证据",
+        "第三段：时间安排与联系方式"
+      ],
+      "es": "Dear Ms. Green,\n\nI am writing to apply for the summer internship in your marketing department, as advertised on your company website. I am a third-year student of business administration at Sun Yat-sen University.\n\nMy coursework has given me a foundation in consumer behaviour and data analysis. Last semester my team designed a promotion plan for a local coffee shop and used a survey of 300 customers to decide which channel to invest in; the shop reported a 20 percent rise in weekend sales. I am also comfortable with Excel and have basic skills in Python for cleaning survey data.\n\nI am available from 1 July to 31 August for five days a week. I have attached my resume and would welcome the chance to discuss how I could contribute to your team.\n\nYours sincerely,\nLiu Yang",
+      "ph": [
+        "as advertised on ... 正如……上刊登的",
+        "My coursework has given me a foundation in ... 课程为我打下了……基础",
+        "be comfortable with 熟练使用",
+        "would welcome the chance to ... 希望能有机会……"
+      ]
+    },
+    {
+      "id": "w010",
+      "tp": "书信通知",
+      "ti": "推荐同学",
+      "dir": "Directions: Write a letter to recommend your classmate for a scholarship. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明推荐人与被推荐人关系",
+        "从学业与品格两方面说明理由",
+        "表达推荐结论"
+      ],
+      "fr": [
+        "第一段：说明写信目的与认识时长",
+        "第二段：学业表现 + 一个具体事例",
+        "第三段：品格与团队贡献，明确推荐"
+      ],
+      "es": "Dear Committee Members,\n\nI am writing to recommend my classmate Lin Yue for the National Scholarship. I have studied with her for two years and served with her on the class committee.\n\nLin Yue ranks third in a class of forty-five and has won the first prize in our university's mathematics competition. What distinguishes her, however, is her willingness to explain difficult problems to others. Before last term's final exams, she organised four review sessions and prepared summary sheets for the whole class. As a result, no one in our study group failed the course.\n\nShe is also reliable. When our group project lost a member halfway through, she took over the missing part without complaint and finished it on time.\n\nI believe she deserves the scholarship and recommend her without reservation.\n\nYours sincerely,\nHe Xin",
+      "ph": [
+        "What distinguishes her is ... 让她与众不同的是……",
+        "without complaint 毫无怨言",
+        "deserve 值得、应得",
+        "recommend her without reservation 毫无保留地推荐她"
+      ]
+    },
+    {
+      "id": "w011",
+      "tp": "书信通知",
+      "ti": "询问课程信息",
+      "dir": "Directions: Write a letter to a language school to ask about a summer course. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明自身情况与学习需求",
+        "询问课程安排、费用与住宿",
+        "说明希望收到回复的时间"
+      ],
+      "fr": [
+        "第一段：自我介绍与学习目标",
+        "第二段：列出两三个具体问题",
+        "第三段：说明时间要求与联系方式"
+      ],
+      "es": "Dear Sir or Madam,\n\nI am a university student in China and plan to spend four weeks in your city this summer to improve my English. I am writing to ask for more information about your intensive courses.\n\nFirst, could you tell me the difference between the general course and the examination course? I need to take an academic writing test in September, so I would like to know which one offers more practice in essay structure. Second, I would like to know the class size and whether teachers give individual feedback on written work. Finally, please let me know the total cost, including registration and teaching materials, and whether the school can help arrange accommodation with a host family.\n\nI hope to receive your reply before 15 April so that I can apply for a visa in time.\n\nYours faithfully,\nSun Qian",
+      "ph": [
+        "I am writing to ask for more information about ... 我写信想了解……的更多信息",
+        "the difference between A and B",
+        "individual feedback on ... 对……的个别反馈",
+        "in time 及时"
+      ]
+    },
+    {
+      "id": "w012",
+      "tp": "书信通知",
+      "ti": "祝贺获奖",
+      "dir": "Directions: Your friend has won a national speech contest. Write a letter to congratulate him or her. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "直接表达祝贺",
+        "回顾对方的努力过程，说明实至名归",
+        "送上祝愿，提出小聚"
+      ],
+      "fr": [
+        "第一段：得知消息，表达祝贺",
+        "第二段：回忆准备过程，突出努力与坚持",
+        "第三段：祝愿与约定"
+      ],
+      "es": "Dear Ming,\n\nI saw the news on the university website this morning: first prize in the national English speech contest. Congratulations! I read the report twice to make sure I had not mistaken the name.\n\nI still remember the evenings in March when you practised in the empty classroom. You recorded yourself, listened to the playback and rewrote the same opening five times. There were days when you almost gave up because your pronunciation would not cooperate, but you came back the next morning. The prize is not luck; it is the result of those months.\n\nI hope this gives you the confidence to try even bigger stages. When you are back on campus, let's have dinner and celebrate properly.\n\nYours,\nTao",
+      "ph": [
+        "I read the report twice to make sure ... 我把报道读了两遍以确认……",
+        "the playback 录音回放",
+        "The prize is not luck; it is the result of ... 这个奖不是运气，而是……的结果",
+        "celebrate properly 好好庆祝"
+      ]
+    },
+    {
+      "id": "w013",
+      "tp": "书信通知",
+      "ti": "申请交换项目",
+      "dir": "Directions: Write a letter to apply for a one-semester exchange programme. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明申请项目与自身专业",
+        "说明语言能力与跨文化经历",
+        "说明学习计划与回国打算"
+      ],
+      "fr": [
+        "第一段：申请项目名称与专业背景",
+        "第二段：语言成绩 + 一段跨文化经历",
+        "第三段：选课计划与未来目标"
+      ],
+      "es": "Dear Selection Committee,\n\nI am writing to apply for the one-semester exchange programme with the University of Leeds. I am a third-year student of environmental engineering.\n\nI have passed IELTS with an overall score of 7.0 and have studied two courses taught in English. In 2024 I joined a summer camp in Yunnan where I worked with volunteers from five countries to monitor water quality in a mountain village. That experience taught me how to explain technical findings to people without a scientific background, a skill I believe will be useful in Leeds.\n\nIf selected, I plan to take courses in water resource management and environmental economics. On returning, I hope to write my graduation thesis on urban drainage and to share what I have learned with younger students.\n\nThank you for considering my application.\n\nYours sincerely,\nWu Han",
+      "ph": [
+        "If selected, I plan to ... 如果入选，我计划……",
+        "an overall score of 7.0 总分 7.0",
+        "share what I have learned with ... 与……分享所学",
+        "Thank you for considering my application. 感谢考虑我的申请。"
+      ]
+    },
+    {
+      "id": "w014",
+      "tp": "书信通知",
+      "ti": "给学弟学妹的备考建议信",
+      "dir": "Directions: Write a letter to freshmen offering advice on preparing for CET-6. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明写信目的与自身经验",
+        "给出两三条可操作建议",
+        "鼓励坚持，说明心态重要性"
+      ],
+      "fr": [
+        "第一段：自我介绍，说明刚通过考试",
+        "第二段：三条建议，按优先级排列",
+        "第三段：心态与鼓励"
+      ],
+      "es": "Dear Freshmen,\n\nI am a senior who passed CET-6 last December. Since many of you have asked how to prepare, I would like to share three suggestions.\n\nFirst, treat vocabulary as a daily habit rather than a task before the exam. Twenty words a day for three months is far more effective than two hundred words in one week. Second, do real papers under timed conditions. Reading three passages in forty minutes feels very different from reading them without a clock. Third, keep a notebook of mistakes: after each paper, write down why you chose the wrong option, not just the correct answer.\n\nFinally, do not panic if your first mock score is low. Progress in listening and reading is slow at the beginning and then suddenly visible. Give the method eight weeks before you judge it.\n\nGood luck,\nXu Ming",
+      "ph": [
+        "treat A as B 把 A 当作 B",
+        "under timed conditions 在限时条件下",
+        "far more effective than 远比……有效",
+        "before you judge it 在你评判它之前"
+      ]
+    },
+    {
+      "id": "w015",
+      "tp": "书信通知",
+      "ti": "图书捐赠通知",
+      "dir": "Directions: Write a notice about a book donation activity organised by the library. You should write at least 120 words but no more than 180 words.",
+      "ol": [
+        "说明活动目的、时间与地点",
+        "说明捐赠要求与图书去向",
+        "说明激励方式与联系方式"
+      ],
+      "fr": [
+        "第一段：活动目的与安排要素",
+        "第二段：对图书的要求与不接受的范围",
+        "第三段：图书去向、纪念方式与咨询方式"
+      ],
+      "es": "Notice\n\nThe library will hold a book donation activity from 1 to 10 December to help build small reading rooms in three rural primary schools.\n\nWe welcome textbooks, children's literature, popular science and dictionaries published after 2015. Books should be complete and free of heavy notes. Please do not bring magazines, examination papers or damaged copies, as they are difficult to use in a school library.\n\nAll donated books will be sorted by volunteers and delivered before the winter holiday. Donors will receive a card showing where their books are sent, and those who give more than ten books will have their names listed on the library website.\n\nDonations can be left at the service desk on the first floor between 9 a.m. and 5 p.m. For further information, please call 6789-1234.\n\nLibrary",
+      "ph": [
+        "free of heavy notes 无大量笔记",
+        "be sorted by volunteers 由志愿者分类",
+        "For further information, please call ... 详情请致电……",
+        "published after 2015 2015 年后出版"
+      ]
+    },
+    {
+      "id": "w016",
+      "tp": "观点论证",
+      "ti": "大学是否应强制体育课",
+      "dir": "Directions: Some people believe physical education should be compulsory for all university students. Others think students should decide for themselves. What is your opinion? Write an essay of 120 to 180 words.",
+      "ol": [
+        "提出争议，给出明确立场",
+        "论述强制体育课的两个理由",
+        "承认自由选择的价值，但说明为何不足以替代"
+      ],
+      "fr": [
+        "第一段：引入争议，明确赞成强制",
+        "第二段：理由一（健康习惯）+ 理由二（公平与基础技能）",
+        "第三段：让步 + 重申立场"
+      ],
+      "es": "Should university students be required to take physical education? In my view, a compulsory course is justified, provided that it offers real choices.\n\nThe first reason is habit. Most students arrive with irregular sleeping hours, and few will voluntarily add exercise to a crowded timetable; a required class gives them a fixed weekly slot. The second is fairness: free facilities sound generous, but those who already play well use them most.\n\nOpponents argue that adults should manage their own time. That is reasonable in principle, yet the evidence from many campuses is that optional programmes attract mainly the already active. Compulsory does not mean uniform, so I would keep the requirement and let students choose the sport.\n\nTherefore, required physical education, with flexible options, serves students better than pure freedom.",
+      "ph": [
+        "provided that 只要（引导条件状语从句）",
+        "in practice 实际上",
+        "sound generous 听起来慷慨",
+        "That is reasonable in principle, yet ... 原则上合理，然而……"
+      ]
+    },
+    {
+      "id": "w017",
+      "tp": "观点论证",
+      "ti": "人工智能会取代教师吗",
+      "dir": "Directions: Some argue that artificial intelligence will replace teachers in the near future. To what extent do you agree? Write an essay of 120 to 180 words.",
+      "ol": [
+        "明确不同意的程度",
+        "说明 AI 能替代的部分与不能替代的部分",
+        "给出人机协作的结论"
+      ],
+      "fr": [
+        "第一段：部分同意，但整体否定「取代」",
+        "第二段：AI 的优势（个性化练习、即时反馈）与其局限",
+        "第三段：教师不可替代的职能 + 结论"
+      ],
+      "es": "Will artificial intelligence replace teachers? I agree that it will take over part of their work, but the claim that it will replace them goes too far.\n\nAI is genuinely useful where practice must be repeated. It can generate unlimited exercises, mark grammar mistakes instantly and adjust the difficulty to each learner. A teacher with forty students cannot do this at three in the morning. Yet learning is not only the transfer of information. A good teacher notices that a quiet student has stopped asking questions, or that a joke has hurt someone. These judgements depend on relationship and context, which no model currently reads.\n\nMoreover, students learn how to argue by watching someone argue with them fairly. An algorithm can produce counter-arguments, but it cannot care whether the student is convinced.\n\nThe likely future is cooperation: AI handles routine practice and feedback, while teachers spend more time on motivation, discussion and guidance. Teachers will change, not disappear.",
+      "ph": [
+        "goes too far 说得过头了",
+        "take over 接管、接手",
+        "the transfer of information 信息传递",
+        "The likely future is cooperation 未来很可能是协作"
+      ]
+    },
+    {
+      "id": "w018",
+      "tp": "观点论证",
+      "ti": "课堂上是否禁用手机",
+      "dir": "Directions: Some universities ban mobile phones in classrooms. Do you think this is a good policy? Write an essay of 120 to 180 words.",
+      "ol": [
+        "表明立场（有条件支持）",
+        "说明禁令的合理性与执行难点",
+        "提出替代方案"
+      ],
+      "fr": [
+        "第一段：有条件支持禁令",
+        "第二段：注意力成本 + 执行中的问题",
+        "第三段：给出更细的方案（分场景）"
+      ],
+      "es": "Should mobile phones be banned in classrooms? I support a partial ban, but not a blanket one.\n\nA phone on the desk reduces attention even when it is silent, and one student's notification distracts the whole row. In large lecture halls, the cost of a single glance is a lost paragraph of explanation. However, a total ban is difficult to enforce fairly. Teachers cannot inspect every bag, and rules that are widely broken teach students to ignore rules in general.\n\nIn seminars and labs, phones can stay in bags; in lectures where students take notes digitally, they may be used openly. Some instructors already ask everyone to place phones face down at the corner of the desk for the first ten minutes, which is easy to check.\n\nThe goal is not to punish devices but to protect attention. A clear, limited and consistently applied rule does that better than an absolute ban.",
+      "ph": [
+        "a blanket ban 一刀切禁令",
+        "The case for ... is strong ……的理由很充分",
+        "face down 面朝下",
+        "consistently applied 一致执行的"
+      ]
+    },
+    {
+      "id": "w019",
+      "tp": "观点论证",
+      "ti": "网络匿名利大于弊吗",
+      "dir": "Directions: Some people say anonymity online does more harm than good. To what extent do you agree? Write an essay of 120 to 180 words.",
+      "ol": [
+        "说明不完全同意，需区分场景",
+        "匿名保护的价值（举报、求助、少数群体）",
+        "匿名的代价及分层治理"
+      ],
+      "fr": [
+        "第一段：不同意「弊大于利」的整体判断",
+        "第二段：举出匿名不可替代的价值",
+        "第三段：承认代价 + 提出分层方案"
+      ],
+      "es": "Does online anonymity do more harm than good? I do not think the question can be answered with a single judgement, because anonymity protects some speakers and shields others.\n\nAnonymity has real value. Employees who report safety problems, patients discussing rare diseases and students asking questions they fear are stupid all depend on it. In many cases, requiring a real name would silence exactly the people whose voices are most needed. At the same time, anonymity lowers the cost of abuse. Insults, threats and coordinated harassment spread faster when no one can be identified.\n\nThe sensible response is not to abolish anonymity but to make it accountable. Platforms can require verified identity at registration while displaying only a nickname, and they can suspend accounts whose behaviour is repeatedly reported. Readers can also be given tools to see an account's history.\n\nAnonymity is a tool, not a virtue. Its value depends entirely on the rules that surround it.",
+      "ph": [
+        "do more harm than good 弊大于利",
+        "silence exactly the people ... 恰恰让最需要发声的人沉默",
+        "make it accountable 让它可追责",
+        "a tool, not a virtue 是工具，不是美德"
+      ]
+    },
+    {
+      "id": "w020",
+      "tp": "观点论证",
+      "ti": "毕业后去大城市还是小城市",
+      "dir": "Directions: Some graduates prefer to work in large cities, while others choose smaller cities. Which do you think is a better choice? Write an essay of 120 to 180 words.",
+      "ol": [
+        "说明选择取决于阶段与目标",
+        "大城市的机会与代价",
+        "小城市的机会与代价，给出建议"
+      ],
+      "fr": [
+        "第一段：不宜一概而论，取决于职业阶段",
+        "第二段：大城市的优势与成本",
+        "第三段：小城市的优势与适用人群 + 建议"
+      ],
+      "es": "Where should graduates start their careers: a metropolis or a smaller city? I believe the answer depends on the stage of one's career rather than on a general ranking of cities.\n\nLarge cities concentrate opportunities. In media, finance and technology, one district may hold more employers than an entire province, and changing jobs does not require moving house. The cost is equally concentrated: rent takes a third of a beginner's salary, and commuting consumes two hours a day.\n\nSmaller cities offer a different bargain. Housing is affordable, commuting is short, and a capable graduate may be given responsibility earlier than in a large firm. However, the range of employers is narrow, and a bad match is harder to escape.\n\nMy suggestion is to treat the first three years as a learning period. Start where the learning curve is steepest, then decide where to settle once the trade-offs are clear.",
+      "ph": [
+        "concentrate opportunities 集中机会",
+        "a fair trade 一笔公平的交易",
+        "a different bargain 另一种交易",
+        "where the learning curve is steepest 学习曲线最陡的地方"
+      ]
+    },
+    {
+      "id": "w021",
+      "tp": "观点论证",
+      "ti": "是否赞成间隔年",
+      "dir": "Directions: Some students take a gap year before university. Do you think this is a wise choice? Write an essay of 120 to 180 words.",
+      "ol": [
+        "有条件赞成",
+        "间隔年能解决的具体问题",
+        "风险与前提条件"
+      ],
+      "fr": [
+        "第一段：有条件赞成",
+        "第二段：间隔年带来的两项收益（方向感、独立性）",
+        "第三段：风险与前提（计划、经济、期限）"
+      ],
+      "es": "Is a gap year before university a wise choice? It can be, but only when it is planned rather than simply postponed.\n\nA year of work, volunteering or travel can supply what school does not: a sense of what daily work actually feels like. Someone who spends six months assisting in a hospital ward learns more about whether she wants to be a doctor than any brochure can teach. Living away from parents also builds practical independence — managing a budget, dealing with a landlord, cooking.\n\nThe risks are real. A year without structure can become a year of scrolling, and the habit of study is easy to lose. Costs also vary enormously: travel requires money, and paid work may leave little time for reflection.\n\nTherefore, a gap year should have a written plan, a budget and a fixed end date. With these conditions, it is an investment; without them, it is only a delay.",
+      "ph": [
+        "planned rather than simply postponed 是有计划的，而非单纯推迟",
+        "supply what school does not 提供学校给不了的东西",
+        "The risks are real. 风险确实存在。",
+        "an investment ... a delay 是投资……是拖延"
+      ]
+    },
+    {
+      "id": "w022",
+      "tp": "观点论证",
+      "ti": "纸质书会被电子书取代吗",
+      "dir": "Directions: Some people believe printed books will disappear as e-books become more popular. Do you agree? Write an essay of 120 to 180 words.",
+      "ol": [
+        "不同意完全取代",
+        "电子书的优势与使用场景",
+        "纸质书不可替代之处，结论为并存"
+      ],
+      "fr": [
+        "第一段：不同意「消失」",
+        "第二段：电子书的效率优势",
+        "第三段：纸质书在深度阅读与记忆中的作用 + 结论"
+      ],
+      "es": "Will printed books disappear? I doubt it. What we are seeing is a division of labour rather than a replacement.\n\nE-books are better for certain purposes. A student can carry hundreds of titles on one device, search a term across a library and read in the dark. For reference works and guides, the electronic form is cheaper.\n\nPrinted books, however, do something that screens do not. Studies of reading comprehension repeatedly find that people remember the structure of a long argument better on paper, partly because the position of a passage on a page becomes a memory cue. A physical book also invites undivided attention: there are no notifications at the edge of the page. That is why many students who read articles online still buy paper copies of the books they need to think with.\n\nPrinting may shrink, but it will not vanish. The two forms will serve different needs, and readers will be the better for having both.",
+      "ph": [
+        "a division of labour rather than a replacement 是分工而非取代",
+        "a memory cue 记忆线索",
+        "invite undivided attention 让人专注",
+        "be the better for 因……而受益"
+      ]
+    },
+    {
+      "id": "w023",
+      "tp": "观点论证",
+      "ti": "大学排名是否有意义",
+      "dir": "Directions: University rankings are widely used but also widely criticised. What is your view? Write an essay of 120 to 180 words.",
+      "ol": [
+        "承认有限价值，指出主要问题",
+        "排名的问题：指标偏差、激励扭曲",
+        "如何正确使用排名"
+      ],
+      "fr": [
+        "第一段：有限有用，但不能当作唯一依据",
+        "第二段：问题一（指标偏研究）+ 问题二（激励扭曲）",
+        "第三段：使用建议（分专业、看细分指标）"
+      ],
+      "es": "Are university rankings meaningful? They are useful as a rough guide and dangerous as a final answer.\n\nTheir value lies in comparison. For a student who knows nothing about foreign institutions, a ranking provides a starting list and some information about research output. But the indicators are not neutral: most weight goes to publications and citations, which favour large science-heavy universities and say little about teaching.\n\nWhen a number becomes a target, institutions may recruit international students for the statistics rather than for the classroom, or split research into smaller papers to raise counts. Students then pay for a figure that measures something other than their education.\n\nThe sensible use is narrow: compare programmes rather than universities, look at subject-level tables, and treat the overall rank as one data point among many. A ranking can open a door, but it cannot tell you whether you will learn well behind it.",
+      "ph": [
+        "as a rough guide 作为粗略参考",
+        "indicators are not neutral 指标并非中立",
+        "When a number becomes a target ... 当数字变成目标……",
+        "one data point among many 众多数据点之一"
+      ]
+    },
+    {
+      "id": "w024",
+      "tp": "观点论证",
+      "ti": "志愿服务是否应纳入必修",
+      "dir": "Directions: Some universities make volunteer service a graduation requirement. Do you agree with this practice? Write an essay of 120 to 180 words.",
+      "ol": [
+        "赞成但有条件",
+        "必修能带来的覆盖与公平",
+        "强制的风险与设计要点"
+      ],
+      "fr": [
+        "第一段：总体赞成，但需设计得当",
+        "第二段：两个理由（覆盖面、打破圈层）",
+        "第三段：风险（形式化）+ 设计建议"
+      ],
+      "es": "Should volunteer service be a graduation requirement? I support the idea, provided that the requirement is designed around real work rather than a signature.\n\nThe main argument for compulsion is coverage. If service is optional, it attracts students who are already motivated; a requirement brings in those who would never have tried, and some discover an interest they did not know they had. Service also puts students in contact with people outside the campus.\n\nThe risk is formalisation. When hours are counted, some students will find the easiest way to collect them: taking a photo, signing in and leaving. To avoid this, the requirement should be tied to a specific project with a supervisor, and assessment should be based on a short reflection rather than on the number of hours.\n\nCompulsory service is defensible only if it produces genuine contact. Otherwise it teaches students to treat community work as paperwork.",
+      "ph": [
+        "provided that 只要",
+        "tends to attract 往往会吸引",
+        "be tied to 与……挂钩",
+        "treat A as B 把 A 当作 B"
+      ]
+    },
+    {
+      "id": "w025",
+      "tp": "观点论证",
+      "ti": "明星高收入是否合理",
+      "dir": "Directions: Some people think entertainers are overpaid. Others argue that their incomes reflect market demand. Discuss both views and give your opinion. Write an essay of 120 to 180 words.",
+      "ol": [
+        "呈现双方观点",
+        "市场逻辑的合理性与局限",
+        "给出自己的判断与调节方式"
+      ],
+      "fr": [
+        "第一段：引出争议",
+        "第二段：市场观点 + 其局限（稀缺性被放大、外部性）",
+        "第三段：我的判断：收入本身不应设上限，但税收与分配需调节"
+      ],
+      "es": "Are entertainers paid too much? The debate usually opposes fairness to freedom, but the two are less opposed than they appear.\n\nThose who defend high incomes point to demand: a film that sells a billion tickets can afford to pay its lead actor well. The limitation is that attention markets are winner-takes-all, so the gap between the first and second performer reflects distribution technology as much as talent.\n\nCritics reply that a nurse and an actor cannot be compared. That is true, but it does not follow that a salary cap is the answer; caps are easy to evade and hard to justify in a market economy.\n\nMy view is that the income itself is not the problem. The problem is what happens after it: if tax rules allow the highest earners to pay proportionally less, the sense of unfairness is justified. Progressive taxation and transparent contracts address the issue more effectively than moral criticism.",
+      "ph": [
+        "winner-takes-all 赢家通吃",
+        "as far as it goes 就其本身而言",
+        "It does not follow that ... 并不能由此推出……",
+        "progressive taxation 累进税制"
+      ]
+    },
+    {
+      "id": "w026",
+      "tp": "观点论证",
+      "ti": "全英文授课是否可取",
+      "dir": "Directions: Some universities teach major courses entirely in English. Do you think this is a good practice? Write an essay of 120 to 180 words.",
+      "ol": [
+        "有条件支持",
+        "英文授课的收益",
+        "风险（理解深度、师生负担）与前提"
+      ],
+      "fr": [
+        "第一段：有条件支持",
+        "第二段：收益（文献获取、国际交流）",
+        "第三段：风险与前提（师资、分层、过渡）"
+      ],
+      "es": "Should major courses be taught entirely in English? I support the practice for advanced courses, but not as a blanket rule for every subject.\n\nTaught well, English-medium instruction removes a barrier. In computer science and economics, most current papers appear in English first, and a student who has discussed them in class can read the literature without translating every paragraph. It also prepares students for conferences and for international workplaces.\n\nThe risk is shallow learning. When both the subject and the language are new, students may understand the words but miss the argument. Weaker listeners quietly give up and rely on slides. A second problem is teacher supply: a lecturer who is brilliant in Chinese may become hesitant in English, and the loss is borne by students.\n\nThe condition, therefore, is support. Universities should train teachers, allow bilingual materials in the first year, and evaluate courses by what students actually learn rather than by the language on the timetable.",
+      "ph": [
+        "English-medium instruction 全英文授课",
+        "removes a barrier 消除障碍",
+        "The loss is borne by students 代价由学生承担",
+        "by the language on the timetable 以课表上的语言来评判"
+      ]
+    },
+    {
+      "id": "w027",
+      "tp": "观点论证",
+      "ti": "博物馆是否应免费开放",
+      "dir": "Directions: Some people argue that museums should be free of charge. Do you agree? Write an essay of 120 to 180 words.",
+      "ol": [
+        "赞成免费，但需配套",
+        "免费带来的公共价值",
+        "成本问题与解决方案"
+      ],
+      "fr": [
+        "第一段：赞成，但需解决经费",
+        "第二段：免费的三重价值（可及性、随机参观、公共属性）",
+        "第三段：成本与替代方案（政府拨款、特展收费、捐赠）"
+      ],
+      "es": "Should museums be free? I believe they should, because a museum is closer to a public library than to a cinema.\n\nThe strongest argument is access. A ticket price of forty yuan is trivial for a middle-class family and decisive for a student or a retired worker. Free entry also changes behaviour: people drop in for half an hour, return to see one room properly, and bring visiting relatives. Charging by visit encourages a single exhausting tour instead.\n\nThere is, of course, a cost. Buildings, staff, insurance and conservation must be paid for. But the choice is not between free and bankrupt. Several models work: public funding covers core costs, temporary exhibitions charge separately, and shops and cafés generate income. Donations can be invited without being demanded.\n\nA society that keeps its collections behind a price tag teaches people that culture is a luxury. Free entry, supported by stable public funding, teaches the opposite.",
+      "ph": [
+        "is closer to A than to B 更像 A 而不像 B",
+        "trivial for ... decisive for ... 对……微不足道，对……却是决定性的",
+        "drop in 顺道来访",
+        "behind a price tag 藏在价签之后"
+      ]
+    },
+    {
+      "id": "w028",
+      "tp": "观点论证",
+      "ti": "是否应限制私家车进城",
+      "dir": "Directions: Some cities restrict private cars in the city centre. Do you think this is a reasonable policy? Write an essay of 120 to 180 words.",
+      "ol": [
+        "赞成限制，但需替代方案",
+        "限制的理由（拥堵、污染、空间效率）",
+        "公平性与配套措施"
+      ],
+      "fr": [
+        "第一段：赞成，前提是公共交通到位",
+        "第二段：三条理由",
+        "第三段：公平问题 + 配套（公交、停车换乘、豁免）"
+      ],
+      "es": "Should cities restrict private cars in the centre? I think restriction is reasonable, but only where public transport can absorb the trips that cars no longer make.\n\nThe case rests on space. A single lane of road can move about 2,000 cars an hour, or up to 20,000 bus passengers. When a city centre dedicates most of its street space to cars, it is using its scarcest resource inefficiently. Restrictions also cut pollution at street level, where pedestrians and shopkeepers spend their days, and reduce the noise that makes ground-floor housing unattractive.\n\nThe fairness objection deserves an answer. A ban that falls on everyone hurts those who cannot afford to live near the centre or to change cars. Exemptions for residents, delivery vehicles and disabled drivers, together with park-and-ride schemes and frequent buses, make the policy bearable.\n\nRestriction is not a punishment for drivers. It is a decision about what a street is for.",
+      "ph": [
+        "absorb the trips 承接这些出行",
+        "The case rests on ... 理由在于……",
+        "The fairness objection deserves an answer. 公平性异议值得回应。",
+        "what a street is for 街道是为什么而存在"
+      ]
+    },
+    {
+      "id": "w029",
+      "tp": "观点论证",
+      "ti": "网课能否替代线下课",
+      "dir": "Directions: Online courses have become common. Some say they can replace face-to-face classes. Do you agree? Write an essay of 120 to 180 words.",
+      "ol": [
+        "不同意完全替代",
+        "网课的优势与适用场景",
+        "线下课不可替代的部分"
+      ],
+      "fr": [
+        "第一段：否定「替代」，主张混合",
+        "第二段：网课优势（可回看、跨地域、自定进度）",
+        "第三段：线下课的不可替代性（节奏、互动、责任感）+ 结论"
+      ],
+      "es": "Can online courses replace face-to-face classes? They can replace some of them, but not the part that matters most.\n\nOnline courses have genuine advantages. A recorded lecture can be paused and replayed, which helps students whose first language is not the language of instruction. Geography stops mattering too: a student in a small town can attend a course given by a specialist a thousand miles away.\n\nWhat the screen struggles to reproduce is rhythm and obligation. In a room, a teacher reads confusion in five faces and slows down; a seminar forces each student to speak, and the awareness that one must speak is itself a form of learning. Deadlines set by a person whom you will meet on Thursday carry more weight than a timestamp on a platform.\n\nThe sensible arrangement is blended learning: lectures online, discussion and laboratory work in person. The question is not which mode is better, but which tasks belong to which.",
+      "ph": [
+        "the part that matters most 最重要的部分",
+        "Geography stops mattering. 地理位置不再重要。",
+        "carry more weight than 比……更有分量",
+        "which tasks belong to which 哪种任务属于哪种模式"
+      ]
+    },
+    {
+      "id": "w030",
+      "tp": "观点论证",
+      "ti": "大学生是否应创业",
+      "dir": "Directions: Some people encourage university students to start businesses while studying. Others think students should focus on their studies. Discuss both views and give your opinion. Write an essay of 120 to 180 words.",
+      "ol": [
+        "说明两种观点各自的道理",
+        "创业的教育价值与风险",
+        "给出条件性建议"
+      ],
+      "fr": [
+        "第一段：呈现两种立场",
+        "第二段：创业的价值（真实反馈、能力）+ 风险（时间、资金、失败成本）",
+        "第三段：我的判断：支持小规模试错，反对盲目投入"
+      ],
+      "es": "Should university students start businesses while they are still studying? Both camps have a point, and the disagreement is really about scale.\n\nSupporters argue that a small venture teaches faster than a classroom. A student who tries to sell a product discovers within weeks whether anyone wants it. Critics reply that a start-up consumes the time that should go into a degree, and that most student businesses close within a year, leaving debts and missed courses.\n\nMy view is that the two positions can be reconciled by size. A project that can be run in ten hours a week, with little capital and a clear stop date, is educational. Borrowing money or delaying graduation to chase an idea is a different decision, and it should not be encouraged by policy or by fashion.\n\nLearning to build something is valuable; risking everything to prove it is not.",
+      "ph": [
+        "Both camps have a point 双方都有道理",
+        "the disagreement is really about scale 分歧其实在于规模",
+        "Failure at twenty-two is cheaper than ... 二十二岁失败比……代价小",
+        "reconcile A by B 通过 B 调和 A"
+      ]
+    },
+    {
+      "id": "w031",
+      "tp": "现象分析",
+      "ti": "大学生熬夜",
+      "dir": "Directions: Write an essay analysing why many university students stay up late and what can be done about it. You should write 120 to 180 words.",
+      "ol": [
+        "描述现象与数据感",
+        "分析两三个原因",
+        "提出可行的改善办法"
+      ],
+      "fr": [
+        "第一段：现象描述，给出具体场景",
+        "第二段：原因（作息惯性、宿舍环境、屏幕）",
+        "第三段：影响 + 建议"
+      ],
+      "es": "Walk through any dormitory at one in the morning and you will still see screens glowing. Late sleeping has become normal among university students, and the reasons are not simply laziness.\n\nThree causes stand out. The first is a timetable mismatch: classes may start at eight, but the most productive hours for many young people are late at night, when the corridor is finally quiet. The second is the dormitory itself. One student's keyboard clicks and another's video call keep everyone awake, so the whole room drifts later together. The third is the phone, which offers endless short videos that make stopping feel like a decision rather than a default.\n\nThe effects are cumulative: poor concentration in morning classes, irregular meals and lower immunity. Simple countermeasures help more than lectures on willpower — switching off the main light at eleven, agreeing on quiet hours, and charging phones outside the bed.",
+      "ph": [
+        "stand out 突出、显眼",
+        "drift later together 一起越睡越晚",
+        "make stopping feel like a decision 让「停下来」变成一个需要决定的事",
+        "countermeasure 对策"
+      ]
+    },
+    {
+      "id": "w032",
+      "tp": "现象分析",
+      "ti": "短视频占据碎片时间",
+      "dir": "Directions: Write an essay analysing the popularity of short videos and its effects on young people. You should write 120 to 180 words.",
+      "ol": [
+        "描述短视频的普及程度",
+        "分析其吸引力来源",
+        "讨论影响与应对"
+      ],
+      "fr": [
+        "第一段：现象与规模",
+        "第二段：吸引力（即时反馈、低门槛、算法）",
+        "第三段：双面影响 + 建议"
+      ],
+      "es": "Short videos have become the default way to fill a spare minute. On buses, in queues and between classes, the same gesture appears: thumb down, thumb up, repeat.\n\nThe attraction is well designed. Each clip delivers a complete reward in fifteen seconds, which is short enough to avoid boredom and long enough to feel satisfying. Production is cheap, so anyone can appear. Above all, the recommendation system learns quickly; after a few swipes it knows which topics hold your attention, and the next clip is always slightly better than the last.\n\nThe effects run both ways. Short videos spread practical knowledge fast — a cooking technique or a grammar point can reach millions in a day. But they also train attention to expect constant novelty, making a forty-page chapter feel unbearably slow.\n\nThe useful response is not abstinence but boundaries: a fixed time, a place where the app is not installed, and one long task finished before the first clip.",
+      "ph": [
+        "the default way to fill a spare minute 填补空闲时间的默认方式",
+        "The attraction is well designed. 吸引力是被精心设计的。",
+        "run both ways 有两面性",
+        "not abstinence but boundaries 不是戒断，而是设边界"
+      ]
+    },
+    {
+      "id": "w033",
+      "tp": "现象分析",
+      "ti": "考研热",
+      "dir": "Directions: Write an essay analysing the growing number of students applying for postgraduate study. You should write 120 to 180 words.",
+      "ol": [
+        "描述报考人数增长",
+        "分析原因（就业门槛、专业兴趣、缓冲）",
+        "讨论隐忧与理性选择"
+      ],
+      "fr": [
+        "第一段：现象描述",
+        "第二段：三重原因",
+        "第三段：隐忧（盲目跟风、资源错配）+ 建议"
+      ],
+      "es": "The number of students sitting the postgraduate entrance examination has risen for most of the past decade, and in some provinces it now exceeds the number of undergraduates graduating.\n\nThree forces are at work. Employers increasingly use a master's degree as a filter, so a bachelor's certificate buys fewer interviews than it did ten years ago. Some students genuinely want to go deeper into a subject; a third group uses the examination as a buffer against a discouraging job market.\n\nThere is nothing wrong with any of these motives, but the third deserves scrutiny. A degree taken only to delay adulthood can leave graduates older but no clearer about their direction, and it adds to the mismatch between training and demand.\n\nThe sensible question before registering is not what others are doing but what the degree will let you do that you cannot do now.",
+      "ph": [
+        "Three forces are at work. 有三股力量在起作用。",
+        "buys fewer interviews 换来更少的面试机会",
+        "deserves scrutiny 值得审视",
+        "no clearer about their direction 对方向并没有更清楚"
+      ]
+    },
+    {
+      "id": "w034",
+      "tp": "现象分析",
+      "ti": "城市养宠增多",
+      "dir": "Directions: Write an essay analysing why more urban households keep pets and what problems need attention. You should write 120 to 180 words.",
+      "ol": [
+        "描述现象",
+        "分析原因（独居、情感需求、消费）",
+        "指出问题与管理建议"
+      ],
+      "fr": [
+        "第一段：现象与规模",
+        "第二段：原因（居住形态、情感补偿、社交媒体）",
+        "第三段：问题（弃养、扰民、医疗）+ 建议"
+      ],
+      "es": "Pets have moved from the courtyard into the apartment. In many Chinese cities, the number of registered dogs and cats has grown faster than the number of households.\n\nThe reasons are partly structural. Smaller families and later marriages mean more people live alone, and a dog provides a routine and a reason to go outside. Emotional need is the second factor: a pet offers company without the complications of human relationships, and for elderly residents it may be the main daily conversation. Social media has amplified the trend by making pet ownership look like a lifestyle rather than a responsibility.\n\nThe problems are equally visible. Abandonment rises after holidays, barking disputes occupy neighbourhood committees, and veterinary costs surprise new owners. Registration, mandatory vaccination and a simple licence fee would help, but the deeper need is education before purchase: a pet is a fifteen-year commitment, not a purchase to be returned.",
+      "ph": [
+        "moved from the courtyard into the apartment 从院子搬进了公寓",
+        "amplify the trend 放大这一趋势",
+        "occupy neighbourhood committees 占用居委会的精力",
+        "a fifteen-year commitment 十五年的承诺"
+      ]
+    },
+    {
+      "id": "w035",
+      "tp": "现象分析",
+      "ti": "「躺平」话语",
+      "dir": "Directions: Write an essay analysing the spread of the phrase 'lying flat' among young Chinese people. You should write 120 to 180 words.",
+      "ol": [
+        "说明该说法指什么、不等于什么",
+        "分析其社会背景",
+        "给出理性看法"
+      ],
+      "fr": [
+        "第一段：界定概念，避免误读",
+        "第二段：背景（竞争强度、成本、期望落差）",
+        "第三段：评价：是信号不是方案"
+      ],
+      "es": "The phrase 'lying flat' spread quickly among young Chinese people, and it is often misunderstood. It rarely means refusing to work; more often it means declining an extra promotion, an unpaid weekend or a competition whose prize seems unreachable.\n\nCompetition for good university places and stable jobs intensified at the same time as housing costs rose, so the distance between effort and reward widened. Many young people also grew up being told that any goal was achievable, and discovered in their twenties that this was not quite true.\n\nAs a slogan it is honest; as a plan it is weak. Withdrawing from competition may protect a person's health for a year, but it does not create the conditions for a better life.\n\nThe more useful reading is that the phrase is a signal. It tells employers and policymakers where the return on effort has become too low, and it invites them to respond.",
+      "ph": [
+        "declining an extra promotion 拒绝额外的晋升",
+        "the distance between effort and reward widened 努力与回报之间的距离拉大",
+        "give that gap a name 给这种落差一个名字",
+        "the return on effort 努力的回报"
+      ]
+    },
+    {
+      "id": "w036",
+      "tp": "现象分析",
+      "ti": "电子支付普及",
+      "dir": "Directions: Write an essay analysing the near-total adoption of mobile payment in Chinese cities and its consequences. You should write 120 to 180 words.",
+      "ol": [
+        "描述普及程度",
+        "分析效率收益",
+        "讨论被忽略的代价与补救"
+      ],
+      "fr": [
+        "第一段：现象，从现金到扫码",
+        "第二段：效率、卫生、可追溯",
+        "第三段：代价（数字鸿沟、隐私、断网）+ 补救"
+      ],
+      "es": "In most Chinese cities, paying with cash now feels unusual. From street vendors to hospitals, a QR code has replaced the note and the coin.\n\nThe efficiency gains are real. A queue moves faster when no one is counting change, small transactions become economically possible, and records are automatic, which helps both households and tax authorities. Contactless payment also reduced physical contact during the pandemic and cut the cost of handling cash.\n\nThe costs are less visible. Elderly people who cannot operate a smartphone find ordinary shopping difficult, and tourists without a local account are locked out of many services. Every payment also produces a data trail that can be used for profiling. And a payment system that depends on electricity and signal fails exactly when a crowd most needs it.\n\nThe remedy is not to reject the technology but to keep alternatives alive: cash must remain legal tender, and machines should still accept cards.",
+      "ph": [
+        "street vendors 街头小贩",
+        "locked out of 被排除在外",
+        "a data trail 数据痕迹",
+        "legal tender 法定货币"
+      ]
+    },
+    {
+      "id": "w037",
+      "tp": "现象分析",
+      "ti": "博物馆热",
+      "dir": "Directions: Write an essay analysing why museums have become popular among young people. You should write 120 to 180 words.",
+      "ol": [
+        "描述参观热潮",
+        "分析原因（文化认同、社交分享、产品创新）",
+        "指出隐忧与建议"
+      ],
+      "fr": [
+        "第一段：现象，预约一票难求",
+        "第二段：三方面原因",
+        "第三段：隐忧（打卡式参观）+ 建议"
+      ],
+      "es": "Tickets for major museums now disappear within minutes of release. A decade ago, the same institutions were quiet on weekday afternoons.\n\nThree factors explain the change. First, cultural confidence: young visitors are less inclined to treat Western art as the default standard and more curious about their own history. Second, the visit has become social content; a well-lit exhibition hall is a good place for photographs, and sharing them signals taste. Third, museums have learned to design: creative products, themed cafés and evening openings turn a hall of objects into an experience.\n\nThe risk is that the queue becomes the point. Visitors who spend forty minutes photographing and ten minutes looking learn little, and crowded halls make deep viewing impossible.\n\nThe remedy lies with the museums themselves: timed entry, quieter routes for those who want to read labels, and exhibitions that reward attention rather than a camera.",
+      "ph": [
+        "disappear within minutes of release 放票几分钟内就没了",
+        "less inclined to treat A as the default 不太会把 A 当作默认标准",
+        "turn A into B 把 A 变成 B",
+        "reward attention rather than a camera 奖励专注而非相机"
+      ]
+    },
+    {
+      "id": "w038",
+      "tp": "现象分析",
+      "ti": "乡村民宿兴起",
+      "dir": "Directions: Write an essay analysing the growth of rural guesthouses in China. You should write 120 to 180 words.",
+      "ol": [
+        "描述增长",
+        "分析驱动因素",
+        "讨论同质化与社区影响"
+      ],
+      "fr": [
+        "第一段：现象",
+        "第二段：需求端 + 供给端",
+        "第三段：问题（同质化、房价、社区）+ 建议"
+      ],
+      "es": "Rural guesthouses have multiplied along the edges of cities. What began as a few converted farmhouses is now an industry with design awards and booking platforms.\n\nOn the demand side, travel habits have changed. After years of rushed sightseeing, urban families want shorter trips with slower schedules, and a two-night stay in a village fits a weekend better than a flight. On the supply side, improved roads and internet access made remote locations viable, while local governments offered subsidies to encourage renovation.\n\nThe problems appear once the model succeeds. Villages begin to look alike, with the same white walls, the same swing and the same breakfast, so price becomes the only difference. Rents rise, and young villagers may be priced out of their own community.\n\nWhat sustains a destination is not decoration but distinctiveness: local food, local crafts and hosts who actually live there. Subsidies should reward that, not the number of rooms.",
+      "ph": [
+        "converted farmhouses 改造过的农舍",
+        "fit a weekend better than a flight 比坐飞机更适合周末",
+        "be priced out of 因价格被挤出",
+        "What sustains a destination is ... 支撑一个目的地的是……"
+      ]
+    },
+    {
+      "id": "w039",
+      "tp": "现象分析",
+      "ti": "健身热潮",
+      "dir": "Directions: Write an essay analysing the fitness boom among urban Chinese. You should write 120 to 180 words.",
+      "ol": [
+        "描述健身人群扩大",
+        "分析原因",
+        "讨论消费化倾向与理性健身"
+      ],
+      "fr": [
+        "第一段：现象（健身房、跑步、居家训练）",
+        "第二段：健康意识、审美变化、社交平台",
+        "第三段：隐忧（办卡不练、过度消费）+ 建议"
+      ],
+      "es": "Fitness has become a visible part of urban life. Gyms open before seven, parks fill with runners at dusk, and home workout videos collect millions of views.\n\nThe motives have shifted. Twenty years ago, exercise was mostly associated with competition or weight loss; today it is presented as a way of managing stress and energy. Health check-ups that report fatty liver or high blood pressure persuade people in their thirties, while social platforms make progress visible and therefore comparable. Cheap wearable devices add a daily number to aim at.\n\nThere is a commercial side that deserves scepticism. Annual memberships are sold on the assumption that most buyers will stop coming after February, and supplements promise results that training alone would deliver.\n\nThe healthy version of the trend is unglamorous: three sessions a week, a routine that fits the schedule, and progress measured in months rather than in purchases.",
+      "ph": [
+        "collect millions of views 获得数百万播放",
+        "persuade people in their thirties 让三十多岁的人下决心",
+        "deserves scepticism 值得怀疑",
+        "unglamorous 不光鲜的"
+      ]
+    },
+    {
+      "id": "w040",
+      "tp": "现象分析",
+      "ti": "网络用语进入日常",
+      "dir": "Directions: Write an essay analysing the influence of internet slang on everyday language. You should write 120 to 180 words.",
+      "ol": [
+        "描述现象",
+        "分析其功能与风险",
+        "提出语言使用的态度"
+      ],
+      "fr": [
+        "第一段：现象（口语、作文、广告）",
+        "第二段：功能（效率、认同）+ 风险（表达粗糙、语境错位）",
+        "第三段：态度：分场合"
+      ],
+      "es": "Internet slang has moved from comment sections into classrooms, advertisements and even examination scripts. A phrase invented for a joke can become the standard way to describe an emotion within a year.\n\nSlang does real work. It compresses a complicated feeling into two characters, which is useful in fast conversation, and it signals membership in a group. For young people, using the current word is a way of saying 'I belong here'.\n\nThe risk is a narrowing of expression. If every disappointment is described by the same word, the difference between disappointment, irritation and grief disappears. Slang also dates quickly: a phrase that sounds natural to a fifteen-year-old may sound absurd to an examiner, and using it in a formal essay costs marks.\n\nThe sensible attitude is register awareness. Slang belongs in chat and in friendly speech; formal writing requires words that will still mean the same thing in ten years.",
+      "ph": [
+        "does real work 有其实际功能",
+        "a narrowing of expression 表达的窄化",
+        "date quickly 很快过时",
+        "register awareness 语域意识"
+      ]
+    },
+    {
+      "id": "w041",
+      "tp": "现象分析",
+      "ti": "独居青年增多",
+      "dir": "Directions: Write an essay analysing the rise of solo living among young adults. You should write 120 to 180 words.",
+      "ol": [
+        "描述数据趋势",
+        "分析原因（婚育推迟、迁移、经济）",
+        "讨论影响与应对"
+      ],
+      "fr": [
+        "第一段：现象与规模",
+        "第二段：三重原因",
+        "第三段：影响（自由与孤独）+ 社会应对"
+      ],
+      "es": "More young adults in Chinese cities now live alone than at any time in the past. The trend is visible in the housing market: small flats and single-room rentals are the fastest-growing segment.\n\nThree factors drive it. Marriage and childbirth are happening later, so there is a longer period between graduation and forming a household. Internal migration separates young workers from their hometowns, and renting alone is often cheaper than sharing a flat in a convenient location. Rising incomes also make solitude purchasable, which was not true a generation ago.\n\nSolo living has real benefits: control over time, no negotiation over housework, and space to develop habits. Its cost is loneliness, which arrives not in dramatic moments but on ordinary evenings, and which research links to poorer health.\n\nThe response should be social rather than moral. Shared kitchens, community sports and public spaces that make casual contact possible do more than advising young people to marry sooner.",
+      "ph": [
+        "the fastest-growing segment 增长最快的部分",
+        "solitude purchasable 独处成为可购买的商品",
+        "arrives not in dramatic moments but on ordinary evenings 不在戏剧性时刻到来，而在普通夜晚",
+        "casual contact 随意的接触"
+      ]
+    },
+    {
+      "id": "w042",
+      "tp": "现象分析",
+      "ti": "二手交易流行",
+      "dir": "Directions: Write an essay analysing the popularity of second-hand trading among young consumers. You should write 120 to 180 words.",
+      "ol": [
+        "描述现象",
+        "分析动因（经济、环保、新奇）",
+        "讨论信任问题与规范化"
+      ],
+      "fr": [
+        "第一段：现象",
+        "第二段：三重动因",
+        "第三段：问题（真假、售后）+ 建议"
+      ],
+      "es": "Buying used has lost its stigma. Second-hand platforms now list everything from textbooks to designer bags, and a large share of their users are under thirty.\n\nRents and living costs take a bigger share of a young salary than for their parents, so paying half price for a desk or a bicycle is simply rational. Environmental concern is the second: a generation that has heard about carbon footprints finds it inconsistent to buy new furniture for a one-year lease. The third motive is discovery — a used item is unique, and hunting for it is entertaining in a way that a shopping cart is not.\n\nPhotographs can hide damage, descriptions can be optimistic, and returning an item to a private seller is difficult. Platforms that offer authentication, escrow payment and standard returns grow faster than those that do not.\n\nSecond-hand trading is not a temporary response to hard times; it is a more efficient use of things already made.",
+      "ph": [
+        "lose its stigma 不再带有污名",
+        "take a bigger share of 占更大比例",
+        "find it inconsistent to do 觉得做某事不合逻辑",
+        "escrow payment 担保支付"
+      ]
+    },
+    {
+      "id": "w043",
+      "tp": "现象分析",
+      "ti": "城市马拉松热",
+      "dir": "Directions: Write an essay analysing why marathons have become popular in Chinese cities. You should write 120 to 180 words.",
+      "ol": [
+        "描述赛事增长",
+        "分析参与者与城市两方面的动机",
+        "讨论问题与改进"
+      ],
+      "fr": [
+        "第一段：现象",
+        "第二段：个人动机（健康、目标感）+ 城市动机（形象、消费）",
+        "第三段：问题（中签难、扰民、安全）+ 建议"
+      ],
+      "es": "A generation ago, a marathon in a Chinese city was a rare event organised for professional athletes. Today dozens of cities hold races each year, and entry places are allocated by lottery.\n\nFor runners, the appeal is a goal with a date. Training for 42 kilometres imposes structure on an otherwise flexible week, and finishing provides a sense of achievement that a gym session cannot. For cities, a race is compact publicity: roads are closed for a morning, and images of the skyline travel further than most advertising campaigns.\n\nThe problems are predictable. Residents complain about closed roads, medical staff worry about untrained runners who ignore warnings, and the lottery leaves many disappointed. Some races have also become expensive exhibitions of equipment.\n\nImprovements are straightforward: more half-marathons for beginners, better medical screening, and routes that disturb fewer neighbourhoods. A race works when it belongs to the city, not only to the sponsor.",
+      "ph": [
+        "allocated by lottery 通过抽签分配",
+        "imposes structure on 给……强加结构",
+        "compact publicity 紧凑的宣传",
+        "belongs to the city 属于这座城市"
+      ]
+    },
+    {
+      "id": "w044",
+      "tp": "现象分析",
+      "ti": "国潮消费",
+      "dir": "Directions: Write an essay analysing the rise of 'national trend' consumption among Chinese young people. You should write 120 to 180 words.",
+      "ol": [
+        "描述消费现象",
+        "分析原因（设计提升、文化认同、供应链）",
+        "指出风险与长期之道"
+      ],
+      "fr": [
+        "第一段：现象（国产运动品牌、联名、非遗元素）",
+        "第二段：三重原因",
+        "第三段：风险（符号化、溢价）+ 长期建议"
+      ],
+      "es": "Products labelled 'national trend' now fill the shelves that foreign brands once dominated. Sneakers with embroidered patterns, tea drinks named after poems and cosmetics packaged like porcelain are bought by consumers in their twenties.\n\nDesign quality explains part of it. Chinese brands hired the same designers who once worked for international labels, and the gap in appearance closed quickly. Cultural confidence explains another part: young buyers no longer assume that imported means better, and they enjoy recognising a reference that older generations also understand. Finally, the supply chain is local, so a new idea can reach shops in weeks rather than seasons.\n\nThe risk is that the label replaces the product. When a plain T-shirt costs twice as much because of a printed character, the trend becomes a tax on patriotism, and customers notice.\n\nThe brands that last will be those whose quality survives without the label. Culture sells the first purchase; only the product sells the second.",
+      "ph": [
+        "fill the shelves 摆满货架",
+        "the gap in appearance closed 外观上的差距缩小了",
+        "a tax on patriotism 对爱国情绪的征税",
+        "Culture sells the first purchase 文化带来第一次购买"
+      ]
+    },
+    {
+      "id": "w045",
+      "tp": "现象分析",
+      "ti": "远程办公的常态化",
+      "dir": "Directions: Write an essay analysing the normalisation of remote work and its effects. You should write 120 to 180 words.",
+      "ol": [
+        "描述变化",
+        "分析对个人与组织的影响",
+        "讨论混合模式的边界"
+      ],
+      "fr": [
+        "第一段：现象，从应急到常态",
+        "第二段：收益（通勤、专注、地域）+ 代价（边界模糊、协作变慢）",
+        "第三段：混合模式的关键规则"
+      ],
+      "es": "Remote work began as an emergency measure and has settled into a routine. Many companies now allow two or three days at home each week, and job advertisements list flexibility alongside salary.\n\nThe gains are clear. Removing the commute returns one to two hours a day, and those hours often go into work or sleep rather than leisure. Concentrated tasks such as writing and coding proceed faster without interruptions. Companies benefit too, because they can hire beyond commuting distance.\n\nThe costs are less obvious but real. Home and office merge, so the working day expands at both ends, and junior employees lose the incidental learning that comes from overhearing a senior colleague. Decisions that once took a corridor conversation now take three days of messages.\n\nThe hybrid model works only with explicit rules: fixed days together for discussion, clear expectations about response time, and meetings that have an agenda. Flexibility without structure becomes invisibility for those who are least assertive.",
+      "ph": [
+        "settled into a routine 变成常态",
+        "incidental learning 附带的学习",
+        "corridor conversation 走廊里的对话",
+        "invisibility for those who are least assertive 对最不善表达的人而言就是被忽视"
+      ]
+    },
+    {
+      "id": "w046",
+      "tp": "名言评论",
+      "ti": "关于「行胜于言」",
+      "dir": "Directions: Comment on the saying 'A journey of a thousand miles begins with a single step.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释名言的真正含义",
+        "说明为何「第一步」常被高估或低估",
+        "给出自己的体会"
+      ],
+      "fr": [
+        "第一段：释义，指出重点不在「千里」而在「一步」",
+        "第二段：反面现象（计划代替行动）+ 正面例子",
+        "第三段：结论，把大目标切成可执行的第一步"
+      ],
+      "es": "Laozi's observation that a journey of a thousand miles begins with a single step is often quoted and rarely practised. Its point is not that the journey is long, but that length is irrelevant until movement starts.\n\nMost people who fail to begin do not lack ambition; they lack a first step small enough to take today. A student who plans to read fifty books this year may read none, because the plan implies a commitment that feels heavy; the same student will finish a book if this evening's task is twenty pages.\n\nThe saying also warns against a different error: treating the first step as the whole journey. Starting is easy to celebrate and hard to repeat. What produces the thousand miles is the second step, and the hundredth, taken when no one is watching.\n\nBegin small, then keep the size of the beginning.",
+      "ph": [
+        "is often quoted and rarely practised 常被引用，很少被实践",
+        "small enough to take today 小到今天就能迈出",
+        "cheap enough to survive a bad day 代价小到能在糟糕的一天里完成",
+        "treat A as B 把 A 当作 B"
+      ]
+    },
+    {
+      "id": "w047",
+      "tp": "名言评论",
+      "ti": "关于「知识就是力量」",
+      "dir": "Directions: Comment on Francis Bacon's saying 'Knowledge is power.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释这句话的历史语境",
+        "指出知识转化为力量的条件",
+        "联系当下，给出判断"
+      ],
+      "fr": [
+        "第一段：解释原意（知识改变人对自然的关系）",
+        "第二段：转化条件（应用、判断、分享）",
+        "第三段：今天更需警惕「有知识无判断」"
+      ],
+      "es": "When Francis Bacon wrote that knowledge is power, he was arguing against a view of learning as decoration. Knowledge, in his account, is power because it allows people to predict and therefore to act.\n\nThe claim needs a condition. Information stored is not power; it becomes power when it is applied to a decision. A physician who has read every paper on a disease but cannot explain a diagnosis to a frightened patient has knowledge and little power. The same is true of a student who memorises formulas without knowing when they fail.\n\nOur era adds a new problem. Access to information has become almost free, so the scarce resource is no longer knowledge itself but judgement about which knowledge to trust. Someone who forwards a plausible chart without checking its source has more information and less power than before.\n\nBacon's sentence therefore remains true, but with a qualification: knowledge becomes power only when it is tested, applied and communicated.",
+      "ph": [
+        "argue against a view of ... 反对把……看作……的观点",
+        "in his account 在他看来",
+        "The claim needs a condition. 这一说法需要条件。",
+        "with a qualification 附带一个限定"
+      ]
+    },
+    {
+      "id": "w048",
+      "tp": "名言评论",
+      "ti": "关于「反复做的事」",
+      "dir": "Directions: Comment on the saying 'We are what we repeatedly do.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释习惯与身份的关系",
+        "举例说明习惯的复利效应",
+        "讨论如何改变习惯"
+      ],
+      "fr": [
+        "第一段：释义，习惯塑造身份",
+        "第二段：正例与反例（每天二十分钟与每天刷两小时）",
+        "第三段：改变的方法（环境设计、最小单位）"
+      ],
+      "es": "The saying that we are what we repeatedly do, usually attributed to Aristotle, is a claim about identity rather than achievement. It suggests that character is not chosen in a single decision but accumulated in small repetitions.\n\nTwenty minutes of reading a day is roughly twelve books a year; two hours of short videos a day is a month of waking life. Neither choice feels important on a Tuesday evening, which is precisely why the choice is important.\n\nWillpower is a poor instrument because it is exhausted by use. Environment works better: a book on the pillow, the app removed from the first screen, a friend who expects you at seven in the morning. Starting with a unit so small that refusing it would be absurd also helps, because the difficulty of beginning is the main obstacle.\n\nWe become what we repeat, so the useful work is designing what gets repeated.",
+      "ph": [
+        "a claim about identity 关于身份的主张",
+        "The arithmetic is unglamorous. 算术本身并不光鲜。",
+        "Willpower is a poor instrument 意志力不是好工具",
+        "the difficulty of beginning 开始的难度"
+      ]
+    },
+    {
+      "id": "w049",
+      "tp": "名言评论",
+      "ti": "关于「阅读使人充实」",
+      "dir": "Directions: Comment on Bacon's line 'Reading makes a full man.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释「full」的多重含义",
+        "辨析阅读与经验的关系",
+        "给出阅读建议"
+      ],
+      "fr": [
+        "第一段：解释 full（知识、语言、判断）",
+        "第二段：阅读的局限，需要经验校验",
+        "第三段：如何读（带着问题、读写结合）"
+      ],
+      "es": "Bacon's line that reading makes a full man is usually read as praise of books. It is also a description of what reading does to a mind: it supplies material that experience alone cannot provide.\n\nA reader gains three things. The first is range: a person who has read history recognises a pattern in the news that others see as unprecedented. The second is language: sentences are learned by exposure, and a student who reads good prose begins to write differently without studying grammar. The third is judgement, though this is where the claim needs care.\n\nReading can also make a person full of other people's opinions. Bacon himself added that reading should be combined with discussion and writing, because material unprocessed becomes weight rather than strength.\n\nThe practical conclusion is to read with a question and to write something after reading. A book that changes no sentence you write has probably not been read, only finished.",
+      "ph": [
+        "is usually read as 通常被理解为",
+        "supplies material that experience alone cannot provide 提供单靠经验无法获得的材料",
+        "this is where the claim needs care 正是在这里需要谨慎",
+        "material unprocessed becomes weight 未经处理的材料会变成负担"
+      ]
+    },
+    {
+      "id": "w050",
+      "tp": "名言评论",
+      "ti": "关于「热爱你的工作」",
+      "dir": "Directions: Comment on Steve Jobs' advice 'The only way to do great work is to love what you do.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "承认热爱的价值",
+        "指出这句话的适用边界",
+        "给出更现实的表述"
+      ],
+      "fr": [
+        "第一段：肯定热爱带来的投入",
+        "第二段：边界（多数人无法先热爱再选择；热爱也可后天形成）",
+        "第三段：改写这句话"
+      ],
+      "es": "Steve Jobs told graduates that the only way to do great work is to love what you do. The advice is inspiring and slightly incomplete.\n\nIt is right about effort. A programmer who enjoys debugging will stay an hour longer than one who does not, and over a decade those hours compound.\n\nBut the sentence assumes that love comes first. For most people, work is chosen under constraints: a visa, a family obligation, a salary that must cover rent. Telling them to find their passion can turn a structural problem into a personal failure. In practice, interest often grows after competence: a person becomes good at something, is trusted with harder tasks, and begins to care.\n\nA more honest version would be: do work you can respect, get good at it, and let affection follow. Love is often a result of mastery rather than a precondition for it.",
+      "ph": [
+        "is slightly incomplete 略有欠缺",
+        "compound 累积",
+        "turn a structural problem into a personal failure 把结构性问题变成个人失败",
+        "a precondition for 的前提"
+      ]
+    },
+    {
+      "id": "w051",
+      "tp": "名言评论",
+      "ti": "关于「未审视的人生」",
+      "dir": "Directions: Comment on Socrates' statement 'The unexamined life is not worth living.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释「审视」指什么",
+        "说明反思的价值与风险",
+        "给出可操作的反思方式"
+      ],
+      "fr": [
+        "第一段：释义，审视指追问依据",
+        "第二段：价值（纠错、方向）+ 风险（过度反思导致瘫痪）",
+        "第三段：方法（定期复盘、写作、他人反馈）"
+      ],
+      "es": "Socrates' claim that the unexamined life is not worth living is a strong statement, and it is worth taking seriously without taking it literally.\n\nTo examine a life is to ask why one is doing what one is doing: whether the goal is chosen or inherited, whether the method actually works, whether the cost is acceptable. This is uncomfortable because the answers are often no. But a person who never asks will spend years optimising a route to a destination someone else selected.\n\nEndless self-analysis can replace action, and a habit of doubting every motive produces paralysis rather than clarity. Reflection is useful when it ends in a decision and harmful when it becomes a substitute for one.\n\nA workable version is periodic rather than constant: a monthly review of what was planned and what happened, a page of writing when a choice feels difficult, and one honest friend who will tell you what you avoid.",
+      "ph": [
+        "without taking it literally 不必照字面理解",
+        "inherited 承袭而来的",
+        "optimising a route to a destination someone else selected 优化一条通往别人选定目的地的路线",
+        "a substitute for one 行动的替代品"
+      ]
+    },
+    {
+      "id": "w052",
+      "tp": "名言评论",
+      "ti": "关于「天才与勤奋」",
+      "dir": "Directions: Comment on Edison's remark that genius is one percent inspiration and ninety-nine percent perspiration. Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释这句话针对的偏见",
+        "讨论灵感与勤奋的真实关系",
+        "给出对学习者的启示"
+      ],
+      "fr": [
+        "第一段：解释爱迪生的话针对「天赋论」",
+        "第二段：灵感并非可省略，但需积累承接",
+        "第三段：对备考者的具体启示"
+      ],
+      "es": "Edison's remark that genius is one percent inspiration and ninety-nine percent perspiration is usually quoted to encourage effort. Its sharper point is that the one percent only becomes visible after the ninety-nine.\n\nMost people who study a field long enough produce several plausible ideas a year; what separates them is the willingness to test one, fail, and test again. The metaphor is slightly unfair to inspiration, because a good question is worth more than a hundred routine experiments. Yet good questions rarely arrive to beginners; they arrive after enough exposure for a pattern to be noticed.\n\nRe-reading notes feels productive and changes little, because it produces familiarity rather than recall. Attempting questions, getting them wrong and correcting the errors is unpleasant and effective.\n\nEdison's percentages need not be taken literally. The direction is what matters: effort is the part you control, and it is also the part that makes the other one percent possible.",
+      "ph": [
+        "Its sharper point is that ... 更锋利的一点是……",
+        "be unfair to 对……不公平",
+        "arrive after enough exposure 在足够接触之后才出现",
+        "familiarity rather than recall 熟悉感而非提取"
+      ]
+    },
+    {
+      "id": "w053",
+      "tp": "名言评论",
+      "ti": "关于「独行与同行」",
+      "dir": "Directions: Comment on the proverb 'If you want to go fast, go alone; if you want to go far, go together.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "辨析「快」与「远」的取舍",
+        "说明协作的代价与收益",
+        "给出自己的判断"
+      ],
+      "fr": [
+        "第一段：解释谚语的两面",
+        "第二段：独行的效率与协作的复利",
+        "第三段：判断：短期独行，长期协作"
+      ],
+      "es": "The proverb that you go fast alone and far together contains a useful distinction: speed and distance are different objectives, and they are served by different arrangements.\n\nDecisions take minutes rather than meetings, and a single person can hold a whole problem in mind without translating it for others. This is why the early stage of a project is often best done by one person. But most substantial goals exceed one person's knowledge. A team brings different training, catches errors that its author cannot see, and continues after any individual leaves.\n\nThe cost of cooperation is coordination. Every additional member adds communication channels, and a group can spend more time agreeing than doing. That is why teams need a clear owner, a shared document and a deadline, rather than endless consensus.\n\nMy reading is that the proverb describes a sequence rather than a choice: go alone to find the direction, then go together to cover the distance.",
+      "ph": [
+        "a useful distinction 一个有用的区分",
+        "hold a whole problem in mind 把整个问题装在心里",
+        "exceed one person's knowledge 超出个人知识范围",
+        "describes a sequence rather than a choice 描述的是一段顺序，而非一个选择"
+      ]
+    },
+    {
+      "id": "w054",
+      "tp": "名言评论",
+      "ti": "关于「失败」",
+      "dir": "Directions: Comment on the saying 'Failure is the condiment that gives success its flavour.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释比喻的含义",
+        "区分「有价值的失败」与「重复的失败」",
+        "提出对待失败的方法"
+      ],
+      "fr": [
+        "第一段：释义，失败提供对照",
+        "第二段：有价值的失败有条件（复盘、可控代价）",
+        "第三段：方法：记录、归因、再试"
+      ],
+      "es": "The image of failure as a condiment is appealing: without something bitter, success would taste bland. As a description of how memory works, it is accurate. People recall the exam they failed far longer than the one they passed easily.\n\nBut not every failure is nutritious. A failure becomes useful under two conditions. The first is a review: what went wrong, at which step, and what would be done differently. The second is a bearable cost: a failed course can be retaken, but a failure that consumes a family's savings teaches nothing worth the price.\n\nThe practical habit is to separate the event from the judgement. 'I did not prepare the listening section' is a fact that can be acted on; 'I am bad at English' is a verdict that cannot. The first leads to a plan, the second to nothing.\n\nFailure flavours success only when it is digested.",
+      "ph": [
+        "As a description of how memory works 作为对记忆机制的描述",
+        "nutritious 有营养的（比喻）",
+        "a bearable cost 可承受的代价",
+        "only when it is digested 只有被消化之后"
+      ]
+    },
+    {
+      "id": "w055",
+      "tp": "名言评论",
+      "ti": "关于「时间」",
+      "dir": "Directions: Comment on the saying 'Time is the most valuable thing a man can spend.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释时间与金钱的差异",
+        "说明「花费时间」的判断标准",
+        "联系学生生活"
+      ],
+      "fr": [
+        "第一段：时间不可储存、不可再生",
+        "第二段：判断标准（不可替代性、复利）",
+        "第三段：学生的具体取舍"
+      ],
+      "es": "The saying that time is the most valuable thing a person can spend is easy to agree with and hard to act on, because time does not feel scarce until it is gone.\n\nMoney differs from time: it can be stored, and it can be earned again. Time can do neither, so a rich person may be poor in the one currency that cannot be replenished.\n\nIf time is the currency, the question becomes how to spend it well. Two criteria help. The first is irreplaceability: some hours produce things that cannot be bought later, such as a conversation with a grandparent or the first year of a child's life. The second is compounding: an hour spent learning a language or building a habit pays again every year, while an hour of scrolling pays once.\n\nFor students, this is not an argument for constant study. It is an argument for spending the irreplaceable hours deliberately and the rest without guilt.",
+      "ph": [
+        "does not feel scarce until it is gone 直到失去才觉得稀缺",
+        "This asymmetry explains ... 这种不对称解释了……",
+        "irreplaceability 不可替代性",
+        "an argument for ... 一个支持……的理由"
+      ]
+    },
+    {
+      "id": "w056",
+      "tp": "名言评论",
+      "ti": "关于「教与学」",
+      "dir": "Directions: Comment on the saying 'Tell me and I forget; teach me and I remember; involve me and I learn.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释三个层次的差别",
+        "用学习科学的视角说明原因",
+        "给出可操作的学习方式"
+      ],
+      "fr": [
+        "第一段：解释从听讲到参与的递进",
+        "第二段：原因（提取练习、输出倒逼理解）",
+        "第三段：方法（讲给别人、做项目、写总结）"
+      ],
+      "es": "The saying that telling makes us forget, teaching makes us remember and involvement makes us learn describes a ladder that most students climb too slowly.\n\nListening is the weakest form because it creates a feeling of understanding without testing it. Teaching is stronger: to explain something, a person must select the essential points and arrange them in order, and the gaps become obvious in the attempt. Involvement is strongest because it requires decisions under conditions that cannot be fully anticipated, which is where real understanding is revealed.\n\nThe psychology agrees. Recall practice strengthens memory more than re-reading, and explaining forces recall at the level of structure rather than detail. This is why study groups often help the explainer more than the listener.\n\nThe practical implication is uncomfortable: the activities that feel least efficient — explaining to a classmate, writing a summary from memory, solving a problem without looking at the answer — are usually the ones that work.",
+      "ph": [
+        "climb too slowly 爬得太慢",
+        "the gaps become obvious 漏洞变得明显",
+        "The psychology agrees. 心理学研究也支持这一点。",
+        "The practical implication is uncomfortable 实践含义令人不适"
+      ]
+    },
+    {
+      "id": "w057",
+      "tp": "名言评论",
+      "ti": "关于「简单」",
+      "dir": "Directions: Comment on the saying 'Simplicity is the ultimate sophistication.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释「简单」不等于「容易」",
+        "说明简单背后的复杂工作",
+        "联系写作与设计"
+      ],
+      "fr": [
+        "第一段：辨析简单与简陋",
+        "第二段：简单需要取舍与理解",
+        "第三段：在学习与写作中的应用"
+      ],
+      "es": "The claim that simplicity is the ultimate sophistication is often misunderstood as a preference for the plain. In fact, simplicity is expensive: it is what remains after everything unnecessary has been removed.\n\nA simple explanation is not a short one; it is one in which the reader never has to hold two contradictory ideas at once. Producing it requires the writer to understand the subject well enough to decide what to leave out, and leaving things out is harder than adding them.\n\nThe opposite of simplicity is not complexity but clutter — complexity that serves no purpose. A medical textbook is complex because the body is complex; a form with twelve unnecessary fields is merely untidy.\n\nThe lesson for students is practical. When a summary grows longer than the original, the problem is not the subject but the understanding.",
+      "ph": [
+        "what remains after everything unnecessary has been removed 去掉一切不必要之物后剩下的东西",
+        "justify its place 证明自己该在这里",
+        "The opposite of simplicity is not complexity but clutter 简单的反面不是复杂，而是杂乱",
+        "grows longer than the original 比原文还长"
+      ]
+    },
+    {
+      "id": "w058",
+      "tp": "名言评论",
+      "ti": "关于「好奇心」",
+      "dir": "Directions: Comment on the saying 'The important thing is not to stop questioning.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释提问为何重要",
+        "说明提问能力如何被削弱",
+        "给出保持提问的方法"
+      ],
+      "fr": [
+        "第一段：释义，提问是认知的起点",
+        "第二段：提问能力被什么削弱（效率压力、评价体系）",
+        "第三段：方法（记录疑问、追问一层）"
+      ],
+      "es": "Einstein's advice not to stop questioning sounds like encouragement, but it is closer to a warning. Curiosity is not a fixed trait; it is a habit that can be trained or extinguished.\n\nA student who asks why a formula works will recognise its limits; one who only memorises it will apply it where it fails. Questions also drive the acquisition of knowledge, since an answer sticks better when it responds to something one wondered about.\n\nWhat extinguishes curiosity is usually the environment. A timetable with no empty space leaves no time to follow an interest, and an examination system that rewards the correct answer punishes the interesting question. Adults are also efficient: answering is faster than exploring a doubt.\n\nKeeping curiosity therefore requires small deliberate habits: writing questions in the margin instead of resolving them immediately, and following each answer one step further than required. The point is not to doubt everything, but to keep the door open.",
+      "ph": [
+        "closer to a warning 更接近于警告",
+        "a habit that can be trained or extinguished 可以被训练也可以被消磨的习惯",
+        "responds to something one actually wondered about 回应了自己真正好奇的东西",
+        "in the margin 在页边"
+      ]
+    },
+    {
+      "id": "w059",
+      "tp": "名言评论",
+      "ti": "关于「比较」",
+      "dir": "Directions: Comment on the saying 'Comparison is the thief of joy.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释比较为何偷走快乐",
+        "区分有害比较与有益比较",
+        "给出做法"
+      ],
+      "fr": [
+        "第一段：释义，比较改变注意对象",
+        "第二段：参照系问题 + 有益比较的条件",
+        "第三段：做法（与自己比、控制信息源）"
+      ],
+      "es": "The saying that comparison is the thief of joy identifies a mechanism rather than a moral failing. Comparison does not reduce what a person has; it changes what that person looks at.\n\nA student who has finished a difficult chapter sees a classmate's award, and the chapter stops counting. The reference group also shifts upward: once a person is surrounded by high achievers, an objectively good result feels ordinary.\n\nComparing your current work with your own earlier work is the basis of improvement, and comparing methods rather than outcomes can be instructive. The damage comes from comparing outcomes with people whose circumstances differ in ways the comparison ignores.\n\nThe practical response is to change the reference point and the input. Keep a record of what you did last month, and reduce the time spent on feeds that make other lives look effortless. Joy is not stolen by ambition but by a badly chosen mirror.",
+      "ph": [
+        "identifies a mechanism rather than a moral failing 指出的是一种机制，而非道德缺陷",
+        "reference group 参照群体",
+        "The damage comes from ... 伤害来自……",
+        "a badly chosen mirror 选错的镜子"
+      ]
+    },
+    {
+      "id": "w060",
+      "tp": "名言评论",
+      "ti": "关于「勇气」",
+      "dir": "Directions: Comment on the saying 'Courage is not the absence of fear, but the ability to act in spite of it.' Write an essay of 120 to 180 words.",
+      "ol": [
+        "解释勇气的定义",
+        "说明恐惧的功能与过度",
+        "给出训练勇气的方法"
+      ],
+      "fr": [
+        "第一段：释义，勇气是带着恐惧行动",
+        "第二段：恐惧的功能（预警）与过度（瘫痪）",
+        "第三段：方法（分步暴露、预案、榜样）"
+      ],
+      "es": "The definition of courage as acting in spite of fear is more useful than the popular image of the fearless hero, because the fearless hero does not exist in ordinary life.\n\nFear has a function: it warns a person before a real risk and prepares the body to respond. The problem is that the same system responds to social risk — public speaking, disagreeing with a supervisor — with the same intensity as physical danger.\n\nCourage can therefore be trained in small steps. A student afraid of speaking can begin by asking one question in a seminar, then by presenting for three minutes, then by chairing a discussion. A written plan for the worst outcome also reduces fear, because vagueness is what makes it large.\n\nThe point is not to eliminate the feeling but to stop letting it decide. Courage is a decision made while the hands are still shaking.",
+      "ph": [
+        "in spite of 尽管",
+        "responds to social risk with the same intensity 以同样的强度回应社交风险",
+        "removes the opportunity 也去掉了机会",
+        "Vagueness is what makes it large. 让它变大的正是模糊。"
+      ]
+    },
+    {
+      "id": "w061",
+      "tp": "对比选择",
+      "ti": "住宿舍还是租房",
+      "dir": "Directions: Some students live in dormitories, others rent flats outside campus. Which do you think is better for university students? Write an essay of 120 to 180 words.",
+      "ol": [
+        "提出比较标准（成本、社交、独立性）",
+        "比较两种选择",
+        "给出分阶段的建议"
+      ],
+      "fr": [
+        "第一段：不宜一概而论，要看年级与专业",
+        "第二段：宿舍的优势与局限",
+        "第三段：租房的优势与风险 + 结论"
+      ],
+      "es": "Should students live in a dormitory or rent a flat? The answer depends less on preference than on what a student needs at a particular stage.\n\nA first-year student who lives with five others learns about different provinces, different habits and different ways of studying, and the cost of a room is often a fifth of the market rate. The limitation is control: noise, schedules and storage are shared, and a single inconsiderate roommate can ruin a term.\n\nRenting offers privacy and a fixed routine, which matters for students preparing for a serious examination or working night shifts. It also teaches practical skills — contracts, bills, repairs. The risks are cost and isolation; a student who moves out in the first year may find that the friends were made without them.\n\nMy suggestion is therefore sequential: live in a dormitory for the first two years to build a network, then rent if a specific need appears.",
+      "ph": [
+        "socially dense 社交密度高",
+        "a fixed routine 固定的作息",
+        "matters for 对……重要",
+        "live in a dormitory for the first two years 前两年住宿舍"
+      ]
+    },
+    {
+      "id": "w062",
+      "tp": "对比选择",
+      "ti": "读纸质书还是听有声书",
+      "dir": "Directions: Some people prefer printed books, others prefer audiobooks. Which do you prefer and why? Write an essay of 120 to 180 words.",
+      "ol": [
+        "说明选择取决于书的类型与目的",
+        "比较两种方式的优劣",
+        "给出自己的搭配方案"
+      ],
+      "fr": [
+        "第一段：提出按目的分工",
+        "第二段：有声书的场景优势与记忆劣势",
+        "第三段：纸质书的优势 + 我的搭配"
+      ],
+      "es": "Printed books or audiobooks? I use both, and the choice depends on what I want from the text.\n\nAudiobooks are excellent for certain situations. They fill the walk to the laboratory, the bus ride and the washing-up, time that would otherwise be empty. For narrative works — memoirs, popular history, novels — a good reader adds rhythm and emphasis that silent reading may miss. Their weakness is navigation: it is difficult to go back three pages to check a name, and difficult passages slide past while attention drifts.\n\nPrinted books, or their electronic equivalent, remain better for material that must be studied. Highlighting, marginal notes and the physical position of a paragraph all support memory, and the eye can move backwards as easily as forwards.\n\nMy arrangement is simple: listen to books that I could otherwise not finish, and read the ones I need to argue with. The format should serve the purpose, not become an identity.",
+      "ph": [
+        "The choice depends on what I want from the text 选择取决于我想从文本中得到什么",
+        "adds rhythm and emphasis 增加节奏与重音",
+        "slide past while attention drifts 在注意力游移时滑过去",
+        "argue with 与……辩驳（指精读）"
+      ]
+    },
+    {
+      "id": "w063",
+      "tp": "对比选择",
+      "ti": "大班课还是小班课",
+      "dir": "Directions: Some students prefer large lectures, others prefer small classes. Which do you think is more effective? Write an essay of 120 to 180 words.",
+      "ol": [
+        "说明两者适合不同目标",
+        "比较大班与小班的效率差异",
+        "给出组合建议"
+      ],
+      "fr": [
+        "第一段：分别定位（知识覆盖 / 能力训练）",
+        "第二段：大班的规模优势与互动缺失",
+        "第三段：小班的深度 + 结论"
+      ],
+      "es": "Large lectures and small classes are not competing formats; they do different jobs.\n\nA lecture is an efficient way to deliver a framework. Three hundred students can hear a leading scholar explain how a field is organised, and the cost per student is low. The weakness is that understanding is assumed rather than checked: a student can follow every sentence and still be unable to use the idea a week later.\n\nA small class is expensive and slower, but it forces production. When twelve people must respond to a case, silence is not an option, and the instructor can see who has misunderstood. This is where skills such as argument and analysis actually develop.\n\nThe sensible design uses both: lectures for orientation, small classes for practice. If a student must choose only one, the small class offers more per hour, because the hours spent speaking are the hours that change what one can do.",
+      "ph": [
+        "do different jobs 承担不同职能",
+        "the cost per student is low 人均成本低",
+        "understanding is assumed rather than checked 理解被视为理所当然，而非被检验",
+        "offers more per hour 每小时收获更多"
+      ]
+    },
+    {
+      "id": "w064",
+      "tp": "对比选择",
+      "ti": "独自学习还是小组学习",
+      "dir": "Directions: Some students study alone, others prefer group study. Which is more effective for you? Write an essay of 120 to 180 words.",
+      "ol": [
+        "区分任务类型",
+        "比较两种模式的效果",
+        "给出自己的组合方式"
+      ],
+      "fr": [
+        "第一段：按任务分工",
+        "第二段：独自学习的深度与小组的纠错",
+        "第三段：我的做法（先独后组）"
+      ],
+      "es": "Studying alone or in a group? The question is poorly framed, because the two modes suit different tasks.\n\nUnderstanding a difficult text requires uninterrupted time. In a group, the conversation moves at the speed of the fastest speaker, and a quiet member may leave believing she understood. Alone, a reader can stop at a paragraph for twenty minutes, which is often what comprehension requires.\n\nGroups are better at exposing error. When you explain a concept to a classmate, the part you cannot state clearly is the part you do not know. Groups also supply pressure: a scheduled session at seven in the evening is harder to skip than a private intention.\n\nMy own arrangement is sequential. I read and take notes alone, then meet once a week to teach what I have understood. The solitary session produces the material; the group session tests it. Neither is sufficient alone, and the order matters more than the choice.",
+      "ph": [
+        "The question is poorly framed 这个问题问得不好",
+        "moves at the speed of the fastest speaker 以最快者的速度推进",
+        "expose error 暴露错误",
+        "the order matters more than the choice 顺序比选择更重要"
+      ]
+    },
+    {
+      "id": "w065",
+      "tp": "对比选择",
+      "ti": "国内读研还是出国读研",
+      "dir": "Directions: Some graduates pursue a master's degree at home, others go abroad. Which do you think is a better choice? Write an essay of 120 to 180 words.",
+      "ol": [
+        "提出判断维度（专业资源、成本、职业规划）",
+        "比较两条路径",
+        "给出条件性结论"
+      ],
+      "fr": [
+        "第一段：取决于专业与目标",
+        "第二段：出国的收益与成本",
+        "第三段：国内的优势 + 结论"
+      ],
+      "es": "Should a graduate study at home or abroad? The answer depends on the field and on where the student intends to work.\n\nGoing abroad offers access to laboratories, libraries and supervisors that may not exist domestically, and it forces a student to operate in a second language, which is itself training. The costs are substantial: tuition, living costs, and the risk that a degree earned abroad is undervalued by employers who cannot judge the institution.\n\nTuition is lower, the supervisor's network is local, and internships during the programme are easier to arrange. For fields where regulation and practice differ sharply between countries — law, public administration, clinical medicine — local training is often more directly useful.\n\nThe decision should therefore follow the work, not the prestige. If the research requires equipment available only in a few places, go where the equipment is. If the career will be built domestically, choose the programme that puts you in contact with domestic employers.",
+      "ph": [
+        "access to 获得……的机会",
+        "is itself training 本身就是一种训练",
+        "follow the work, not the prestige 依据工作而非名声做决定",
+        "put you in contact with 让你接触到"
+      ]
+    },
+    {
+      "id": "w066",
+      "tp": "对比选择",
+      "ti": "先工作还是先读研",
+      "dir": "Directions: Some students pursue a master's degree immediately after graduation; others work for a few years first. Which do you think is wiser? Write an essay of 120 to 180 words.",
+      "ol": [
+        "说明两种路径的适用条件",
+        "比较信息与成本",
+        "给出建议"
+      ],
+      "fr": [
+        "第一段：取决于是否需要先了解行业",
+        "第二段：先工作的收益与代价",
+        "第三段：直接读研的适用情形 + 结论"
+      ],
+      "es": "Should a graduate continue studying immediately or work first? The deciding factor is whether the student knows what the degree is for.\n\nAfter two years in an industry, a person knows which problems are worth studying and which credentials actually matter. That knowledge makes a master's degree more focused and often more productive. The cost is momentum: salaries rise, obligations accumulate, and returning to a student schedule becomes harder each year.\n\nStudying first suits fields where the degree is a prerequisite rather than an upgrade — academic research, clinical practice, certain engineering specialisms. It also suits students whose undergraduate training was too general to enter the job they want.\n\nThe worst version of either path is the one chosen by default. A degree taken because one does not know what else to do delays the question without answering it, and a job taken only to avoid an examination teaches little. Choose the path that produces the information you currently lack.",
+      "ph": [
+        "supplies information that no career test can provide 提供任何职业测试都无法提供的信息",
+        "a prerequisite rather than an upgrade 是先决条件而非提升手段",
+        "chosen by default 默认选择的",
+        "the information you currently lack 你当前缺少的信息"
+      ]
+    },
+    {
+      "id": "w067",
+      "tp": "对比选择",
+      "ti": "早起学习还是熬夜学习",
+      "dir": "Directions: Some students study early in the morning, others late at night. Which do you think is more efficient? Write an essay of 120 to 180 words.",
+      "ol": [
+        "承认个体差异",
+        "比较两种时段的学习质量",
+        "给出可执行建议"
+      ],
+      "fr": [
+        "第一段：生物节律存在差异",
+        "第二段：早起的优势（干扰少、记忆巩固）",
+        "第三段：熬夜的代价 + 建议"
+      ],
+      "es": "Early mornings or late nights? Individual body clocks differ, but the two periods are not equally good for study.\n\nThe morning has two structural advantages. Interruptions are rare, because messages and meetings arrive later. And sleep after learning supports consolidation, so material studied at night is retained better if reviewed the next morning.\n\nLate-night study has a real appeal. The house is quiet, and there is a pleasant sense of having finally caught up. The evidence, however, is unkind: after midnight, attention and judgement decline while confidence stays high, which is why errors made at that hour are often not noticed until the next day.\n\nA practical arrangement is to protect the first ninety minutes of the morning for the hardest task and to use the evening for review and routine work. If a student is genuinely a night person, the same principle applies: put the difficult task in the first hour after waking, whenever that is.",
+      "ph": [
+        "sleep after learning supports consolidation 学习后的睡眠有助于记忆巩固",
+        "The evidence, however, is unkind 然而证据并不留情",
+        "confidence stays high 自信仍然很高",
+        "protect the first ninety minutes 守住起床后的前九十分钟"
+      ]
+    },
+    {
+      "id": "w068",
+      "tp": "对比选择",
+      "ti": "纸质笔记还是电子笔记",
+      "dir": "Directions: Some students take notes by hand, others type them. Which method do you think is better? Write an essay of 120 to 180 words.",
+      "ol": [
+        "比较记笔记的目的",
+        "比较两种方式的效果",
+        "给出搭配方案"
+      ],
+      "fr": [
+        "第一段：记笔记的两个目的（记录、理解）",
+        "第二段：手写的理解优势",
+        "第三段：电子的检索优势 + 结论"
+      ],
+      "es": "Handwritten notes or typed notes? The answer depends on which purpose of note-taking matters more in a given class.\n\nNotes serve two purposes: storing information and processing it. Typing is unbeatable for the first. A fast typist can record almost every sentence, and the file can be searched, reorganised and shared. The problem is that recording everything requires no thought, so the notes may be complete and the understanding shallow.\n\nWriting by hand is slow, and the slowness is the point. Unable to copy every word, the student must decide what matters, compress it and connect it to something already known. Research on recall consistently favours this effortful selection, especially for conceptual material.\n\nThe sensible combination is to write by hand in seminars and theory classes, where the structure matters, and to type in lectures that are essentially factual, where speed and searchability matter. The tool should follow the kind of thinking the class demands.",
+      "ph": [
+        "unbeatable for 在……方面无人能敌",
+        "the slowness is the point 慢正是关键",
+        "favour this effortful selection 支持这种费力的选择",
+        "searchability 可检索性"
+      ]
+    },
+    {
+      "id": "w069",
+      "tp": "对比选择",
+      "ti": "参加社团还是专注学业",
+      "dir": "Directions: Some students join many student societies, others focus only on their studies. Which do you think is better? Write an essay of 120 to 180 words.",
+      "ol": [
+        "说明两者的收益性质不同",
+        "指出过度投入的风险",
+        "给出平衡方案"
+      ],
+      "fr": [
+        "第一段：不是非此即彼",
+        "第二段：社团的不可替代收益",
+        "第三段：过度的代价 + 建议"
+      ],
+      "es": "Should students join societies or concentrate on coursework? Framed as a choice, the question ignores that the two produce different kinds of capital.\n\nSocieties supply what classrooms rarely do: organising an event, negotiating with a venue, persuading someone who does not report to you. These experiences are difficult to acquire later and are valued by employers precisely because they cannot be taught from a textbook. A student who has run a fifty-person activity has learned something about failure that no lecture provides.\n\nThe risk is diffusion. A student in four organisations attends six meetings a week, holds two nominal titles and produces nothing substantial in any of them. The academic cost appears slowly, in the third year, when grades matter most.\n\nA workable rule is one serious role and one light membership. Depth in a single organisation teaches more than titles across four, and it leaves enough hours for the degree that will still be on the transcript.",
+      "ph": [
+        "produce different kinds of capital 产生不同种类的资本",
+        "someone who does not report to you 不归你管的人",
+        "diffusion 分散",
+        "nominal titles 名义上的头衔"
+      ]
+    },
+    {
+      "id": "w070",
+      "tp": "对比选择",
+      "ti": "在校兼职还是专心学习",
+      "dir": "Directions: Some university students take part-time jobs, others spend all their time studying. Which do you think is better? Write an essay of 120 to 180 words.",
+      "ol": [
+        "区分兼职类型",
+        "比较收益与代价",
+        "给出条件性建议"
+      ],
+      "fr": [
+        "第一段：兼职的质量差异很大",
+        "第二段：有价值的兼职特征",
+        "第三段：低价值兼职的代价 + 建议"
+      ],
+      "es": "Should students take part-time jobs? The question cannot be answered without asking what kind of job, because part-time work ranges from tutoring that reinforces a subject to unpaid labour in a shop that teaches only endurance.\n\nA good part-time job has two features: it develops a skill the student wants, and it pays enough to be worth the hours. Tutoring, translation, laboratory assistance and internships in a target industry all meet this test.\n\nA poor part-time job consumes the hours that should go into study and returns money at a rate that will look small after graduation. The hidden cost is opportunity: the reading not done, the project not joined, the sleep not taken.\n\nThe reasonable rule is a ceiling — no more than twelve hours a week during term — and a purpose. If the job cannot be described in one sentence that would interest an employer or a supervisor, it is probably time sold too cheaply.",
+      "ph": [
+        "ranges from A to B 从 A 到 B 不等",
+        "meet this test 满足这一标准",
+        "The hidden cost is opportunity 隐性成本是机会",
+        "a ceiling 上限"
+      ]
+    },
+    {
+      "id": "w071",
+      "tp": "对比选择",
+      "ti": "跟团游还是自由行",
+      "dir": "Directions: Some travellers prefer package tours, others prefer independent travel. Which do you prefer? Write an essay of 120 to 180 words.",
+      "ol": [
+        "比较两种方式的核心差异",
+        "分别说明适用人群",
+        "给出自己的选择与理由"
+      ],
+      "fr": [
+        "第一段：不选边，按目的地与经验判断",
+        "第二段：跟团的价值（效率、安全）",
+        "第三段：自由行的价值 + 我的偏好"
+      ],
+      "es": "Package tours or independent travel? The choice should follow the destination and the traveller rather than a general preference for freedom.\n\nTransport, tickets and language are handled, which matters in places where a missed connection ruins a week. It is also safer for inexperienced travellers and cheaper per day, because agencies buy in bulk. The cost is time: a schedule designed for forty people moves at the speed of the slowest, and shopping stops are rarely optional.\n\nIndependent travel is slower and less efficient, and that is precisely its value. A traveller who spends an extra afternoon in a small town because the light is good will remember it longer than a photograph taken from a bus window.\n\nMy own preference is independent travel with a fixed first night and a return ticket. Beyond those two anchors, plans should stay loose, because the best hours of a trip are usually the unplanned ones.",
+      "ph": [
+        "moves at the speed of the slowest 以最慢者的速度前进",
+        "buy in bulk 批量采购",
+        "precisely its value 正是它的价值",
+        "two anchors 两个锚点"
+      ]
+    },
+    {
+      "id": "w072",
+      "tp": "对比选择",
+      "ti": "地铁还是自行车通勤",
+      "dir": "Directions: In cities, some people commute by subway, others by bicycle. Which do you think is better? Write an essay of 120 to 180 words.",
+      "ol": [
+        "比较距离、天气、成本三个维度",
+        "说明各自优势",
+        "给出组合方案"
+      ],
+      "fr": [
+        "第一段：取决于距离与城市条件",
+        "第二段：地铁的稳定性",
+        "第三段：自行车的灵活与健康 + 组合"
+      ],
+      "es": "Subway or bicycle? For most urban commuters the honest answer is both, depending on distance and weather.\n\nThe subway wins on reliability. It is unaffected by traffic and rain, and a journey of ten kilometres takes a predictable twenty-five minutes. Its weaknesses are crowding and access: the walk to the station and the wait on the platform are part of the commute.\n\nA bicycle is faster for distances under five kilometres, because it goes door to door and ignores one-way restrictions. It also inserts exercise into a part of the day that would otherwise be wasted, which is worth more than the money saved.\n\nThe practical arrangement is a bicycle for the short leg and the subway for the long one, with a folding bike or a shared bike at each end. Neither mode is superior; the mistake is to use one for every journey.",
+      "ph": [
+        "wins on reliability 在可靠性上胜出",
+        "goes door to door 门到门",
+        "inserts exercise into 把运动插入",
+        "the short leg 短途那一段"
+      ]
+    },
+    {
+      "id": "w073",
+      "tp": "对比选择",
+      "ti": "背单词还是大量阅读",
+      "dir": "Directions: Some learners memorise word lists, others learn vocabulary through extensive reading. Which is more effective? Write an essay of 120 to 180 words.",
+      "ol": [
+        "指出两者解决不同问题",
+        "比较效率与深度",
+        "给出组合方法与比例"
+      ],
+      "fr": [
+        "第一段：词汇学习有两个目标（广度、深度）",
+        "第二段：背单词的效率边界",
+        "第三段：阅读的作用 + 组合建议"
+      ],
+      "es": "Word lists or extensive reading? The two methods solve different problems, and treating them as rivals produces poor results.\n\nA word list is efficient for breadth. A learner can meet 2,000 high-frequency words in a few months, which is enough to make simple texts readable. The limitation is that a word learned from a list is known in one context only: the learner recognises the definition but not the collocations that determine whether a sentence sounds natural.\n\nReading supplies exactly what lists cannot. A word encountered eight times in different sentences acquires grammar, connotation and partners. It also arrives with a reason to be remembered, which lists never provide.\n\nThe practical combination is a list for the first 3,000 words and reading for everything after. For an examination candidate, twenty words a day plus twenty minutes of reading is more effective than either alone, because one builds the base and the other builds the sense.",
+      "ph": [
+        "solve different problems 解决不同问题",
+        "known in one context only 只在一个语境中被认识",
+        "acquires grammar, connotation and partners 获得语法、色彩与搭配",
+        "builds the base 打好基础"
+      ]
+    },
+    {
+      "id": "w074",
+      "tp": "对比选择",
+      "ti": "大公司还是创业公司",
+      "dir": "Directions: Some graduates prefer to work for large companies, others for start-ups. Which do you think is better for a first job? Write an essay of 120 to 180 words.",
+      "ol": [
+        "说明首份工作的核心目标",
+        "比较大公司与创业公司的培养方式",
+        "给出建议"
+      ],
+      "fr": [
+        "第一段：首份工作主要买的是训练",
+        "第二段：大公司的体系化训练",
+        "第三段：创业公司的广度与风险 + 结论"
+      ],
+      "es": "For a first job, should a graduate choose a large company or a start-up? The first job is mainly a purchase of training, so the question is where training is better.\n\nA large company teaches a method. A junior employee sees how a project is scoped, reviewed and documented, and learns standards that are difficult to acquire alone. The cost is narrowness: a new hire may spend a year on one small part of a process.\n\nA graduate may handle recruiting, customer support and product testing in the same month, and the results of a decision appear within weeks. The risk is the absence of a teacher: without a senior colleague, bad habits formed in the first year can persist for a decade.\n\nThe order that works for most people is a large company first, to learn how good work is done, then a smaller one, to apply it broadly. The reverse order is possible but harder to repair.",
+      "ph": [
+        "a purchase of training 一次对训练的购买",
+        "see how a project is scoped 看项目如何界定范围",
+        "The cost is narrowness 代价是视野狭窄",
+        "The reverse order is possible but harder to repair 反过来也可以，但更难弥补"
+      ]
+    },
+    {
+      "id": "w075",
+      "tp": "对比选择",
+      "ti": "计划还是随性",
+      "dir": "Directions: Some people plan their days in detail, others prefer to stay flexible. Which do you think leads to a better life? Write an essay of 120 to 180 words.",
+      "ol": [
+        "辨析两种方式的适用场景",
+        "说明计划的收益与副作用",
+        "给出弹性计划的做法"
+      ],
+      "fr": [
+        "第一段：不是性格问题，而是任务问题",
+        "第二段：计划降低启动成本",
+        "第三段：过度计划的代价 + 弹性方案"
+      ],
+      "es": "Detailed planning or spontaneous flexibility? The choice is less about personality than about the kind of work a day contains.\n\nA student who has written 'seven to eight, listening practice' does not spend the first twenty minutes of the evening deciding what to do, and does not feel guilty while doing nothing. Planning also makes overload visible: a list with eleven hours of tasks on a six-hour day is an honest warning.\n\nA schedule with no gaps cannot absorb a phone call from a friend, a delayed bus or an idea worth following. And a plan that fails by ten in the morning often takes the whole day with it, because the day is judged lost rather than adjusted.\n\nThe middle path is a plan with three fixed blocks and deliberate empty space, reviewed at midday. Structure where it matters, slack where life happens. What matters is not the timetable but the ability to restart it.",
+      "ph": [
+        "removes decisions 省去决策",
+        "makes overload visible 让超载变得可见",
+        "cannot absorb 无法容纳",
+        "slack where life happens 在生活发生的地方留白"
+      ]
+    },
+    {
+      "id": "w076",
+      "tp": "建议措施",
+      "ti": "如何提高英语口语",
+      "dir": "Directions: Many Chinese students can read English well but speak poorly. Write an essay suggesting how to improve spoken English. You should write 120 to 180 words.",
+      "ol": [
+        "点明问题：输入多、输出少",
+        "提出三条措施",
+        "说明坚持的关键"
+      ],
+      "fr": [
+        "第一段：问题界定，不是词汇不足而是缺少输出",
+        "第二段：三条措施（固定口语时段、录音回听、真实交流）",
+        "第三段：执行要点（短而频繁）"
+      ],
+      "es": "Many Chinese students read English comfortably yet freeze when they must speak. The problem is rarely vocabulary; it is the absence of practice in producing sentences under time pressure.\n\nThree measures help. First, set a daily ten-minute speaking slot in which no Chinese is allowed, even if the sentences are simple. Second, record yourself and listen once. Most learners are unaware of repeated fillers and flat intonation until they hear their own voice. Third, find one real conversation partner — a language exchange app, a classmate, a teacher's office hour — because speaking to a screen does not reproduce the pressure of being understood.\n\nWhat matters is frequency rather than duration. Twenty minutes twice a day builds the habit; a three-hour session on Sunday does not. Progress will feel slow for about six weeks, then suddenly audible in a recording. The method is unglamorous, but it is the only one that transfers to a real conversation.",
+      "ph": [
+        "freeze when they must speak 一到开口就卡住",
+        "under time pressure 在时间压力下",
+        "unaware of repeated fillers 没意识到重复的口头填充词",
+        "frequency rather than duration 频率而非时长"
+      ]
+    },
+    {
+      "id": "w077",
+      "tp": "建议措施",
+      "ti": "如何减少食物浪费",
+      "dir": "Directions: Food waste is serious on many campuses. Write an essay suggesting how to reduce it. You should write 120 to 180 words.",
+      "ol": [
+        "描述浪费的规模与环节",
+        "从食堂、学生、制度三方面提措施",
+        "说明可行性"
+      ],
+      "fr": [
+        "第一段：指出浪费集中在哪些环节",
+        "第二段：三条措施（份量可选、临期折扣、称重反馈）",
+        "第三段：为什么这些措施能落地"
+      ],
+      "es": "On many campuses, food waste happens less in kitchens than on trays: rice left half-eaten, dishes ordered and abandoned. Reducing it requires changes at three points.\n\nFirst, canteens should offer two portion sizes at two prices. Most students do not intend to waste food; they simply cannot finish the standard portion. Second, unsold food near closing time should be discounted rather than discarded, with a clear time label so that freshness is not compromised. Third, some universities have begun weighing leftovers and publishing daily totals per canteen; visibility alone reduces waste, because no one wants to be the worst performer on a public board.\n\nStudent action matters too. A campaign that asks diners to order one dish fewer and add later if still hungry is easy to run and easy to follow.\n\nNone of these measures requires new technology. They require a decision to measure, and a willingness to make the smaller portion normal.",
+      "ph": [
+        "happens less in kitchens than on trays 与其说发生在厨房，不如说在餐盘上",
+        "near closing time 临近打烊",
+        "so that freshness is not compromised 以免影响新鲜度",
+        "make the smaller portion normal 让小份变成常态"
+      ]
+    },
+    {
+      "id": "w078",
+      "tp": "建议措施",
+      "ti": "如何缓解考试焦虑",
+      "dir": "Directions: Many students suffer from exam anxiety. Write an essay suggesting ways to cope with it. You should write 120 to 180 words.",
+      "ol": [
+        "区分有益紧张与有害焦虑",
+        "提出三条可操作措施",
+        "强调早期干预"
+      ],
+      "fr": [
+        "第一段：界定问题，焦虑的两种形态",
+        "第二段：措施（模拟考试、呼吸训练、认知重构）",
+        "第三段：何时寻求专业帮助"
+      ],
+      "es": "Exam anxiety is not a single condition. A certain level of tension improves performance by focusing attention; the problem begins when physical symptoms — a racing heart, a blank mind — prevent a student from using what she knows.\n\nFirst, practise under the conditions of the real examination: same duration, same silence, no phone. Familiarity removes a large part of the fear, because the unknown is what the body reacts to. Second, learn a simple breathing routine, four counts in and six counts out, and use it in the two minutes before entering the hall. Third, replace the thought 'I must not fail' with 'I will do the first question, then the second', because the mind cannot hold a vague threat and a concrete task at the same time.\n\nIf anxiety persists for weeks, affects sleep, or appears without any examination in sight, the student should speak to a counsellor. Early help is far more effective than last-minute endurance.",
+      "ph": [
+        "a racing heart 心跳加速",
+        "practise under the conditions of the real examination 在真实考试条件下练习",
+        "the unknown is what the body reacts to 身体反应的是未知",
+        "in sight 在望、即将到来"
+      ]
+    },
+    {
+      "id": "w079",
+      "tp": "建议措施",
+      "ti": "如何提高图书馆利用率",
+      "dir": "Directions: A university library is well equipped but underused. Write an essay suggesting how to make better use of it. You should write 120 to 180 words.",
+      "ol": [
+        "分析闲置原因",
+        "从空间、服务、推广三方面提建议",
+        "给出评估方式"
+      ],
+      "fr": [
+        "第一段：说明「设备好但人少」的原因",
+        "第二段：三条建议（分区、嵌入课程、数据驱动采购）",
+        "第三段：如何衡量效果"
+      ],
+      "es": "A library with new furniture and few readers is a common paradox. The cause is usually not the building but the mismatch between what it offers and how students actually work.\n\nThree changes would help. First, divide the space by function: a silent floor, a discussion floor and a floor where food and calls are allowed. Students avoid libraries when they cannot predict which rule applies where. Second, embed the library in teaching. When a course requires a session with a subject librarian, usage rises immediately and stays higher, because students learn what the databases contain. Third, let borrowing data shape purchases; buying more of what is actually requested is more effective than buying according to a list.\n\nSuccess should be measured by seats occupied at three in the afternoon, not by the number of volumes held. A library is working when it is difficult to find a chair.",
+      "ph": [
+        "a common paradox 常见的悖论",
+        "the mismatch between A and B A 与 B 之间的错配",
+        "embed the library in teaching 把图书馆嵌入教学",
+        "Seats occupied ... not by the number of volumes 以座位使用率而非藏书量衡量"
+      ]
+    },
+    {
+      "id": "w080",
+      "tp": "建议措施",
+      "ti": "如何推动校园体育",
+      "dir": "Directions: Many university students do little exercise. Write an essay suggesting how to encourage them to take part in sports. You should write 120 to 180 words.",
+      "ol": [
+        "说明不运动的真实原因",
+        "提出降低门槛的三条措施",
+        "说明激励机制的设计"
+      ],
+      "fr": [
+        "第一段：原因不是懒，而是门槛与时间",
+        "第二段：措施（短时段课程、同伴组队、场地预约透明）",
+        "第三段：激励如何避免形式化"
+      ],
+      "es": "Most students who avoid sport are not lazy; they face three practical barriers: no time, no partner and no idea where to start.\n\nThe first barrier is best addressed with short sessions. A thirty-minute class at lunchtime attracts people who will never commit to a ninety-minute training. The second is social: team registration with a friend doubles attendance, because skipping means letting someone down. The third is information: a single page showing which courts are free tonight, updated hourly, removes the frustration of arriving at a full gym.\n\nIncentives need care. Requiring a fixed number of exercise sessions invites students to swipe a card and leave. It is better to reward participation in a league or a course that meets weekly, where attendance is visible and the activity has a social cost.\n\nThe goal is not to produce athletes but to make one hour of movement a normal part of the week.",
+      "ph": [
+        "face three practical barriers 面临三个实际障碍",
+        "commit to 承诺投入",
+        "letting someone down 让某人失望",
+        "invites students to swipe a card and leave 促使学生刷个卡就走"
+      ]
+    },
+    {
+      "id": "w081",
+      "tp": "建议措施",
+      "ti": "如何减少宿舍矛盾",
+      "dir": "Directions: Conflicts in dormitories are common. Write an essay suggesting how to reduce them. You should write 120 to 180 words.",
+      "ol": [
+        "指出矛盾的真正来源",
+        "提出三条措施",
+        "说明冲突处理机制"
+      ],
+      "fr": [
+        "第一段：矛盾多源于未说出口的默认规则",
+        "第二段：措施（入住时定规则、轮值、冷却机制）",
+        "第三段：第三方调解的作用"
+      ],
+      "es": "Dormitory conflicts are rarely about the obvious issues. They start with rules that no one stated: whether the light goes off at eleven, whether a friend may stay overnight, who buys the cleaning supplies.\n\nThree measures reduce the friction. First, the first week should produce a short written agreement — five points are enough — because a rule agreed in advance is easier to invoke than a complaint invented in anger. Second, rotate responsibilities monthly, since the person who has taken out the rubbish for a term resents it more.\n\nSome conflicts need a third party. A resident adviser who is trained to mediate, rather than to judge, can convert a shouting match into a negotiation about specific behaviour.\n\nThe aim is not friendship but predictability. Most people can live with difference; almost no one can live with uncertainty.",
+      "ph": [
+        "rules that no one stated 没人明说过的规则",
+        "invoke 援引（规则）",
+        "rotate responsibilities 轮值",
+        "convert a shouting match into a negotiation 把吵架变成协商"
+      ]
+    },
+    {
+      "id": "w082",
+      "tp": "建议措施",
+      "ti": "如何提高课堂参与度",
+      "dir": "Directions: Many students stay silent in class. Write an essay suggesting how to increase participation. You should write 120 to 180 words.",
+      "ol": [
+        "分析沉默的原因",
+        "从教师设计角度提三条建议",
+        "说明学生自身可做的改变"
+      ],
+      "fr": [
+        "第一段：沉默不等于没想法",
+        "第二段：措施（先写后说、小组预热、点名可预期）",
+        "第三段：学生侧的准备"
+      ],
+      "es": "Silence in class is usually not ignorance. Students report three reasons for not speaking: they need time to formulate a thought, they fear sounding foolish in front of a large group, and they do not know whether the point is welcome.\n\nA teacher can remove all three obstacles with small design changes. Asking students to write for two minutes before discussion gives the slow thinkers something to read from. Starting in pairs, then merging pairs into fours, lowers the cost of a first contribution. Announcing that the first five minutes belong to questions, and that no question will be judged, sets an expectation that makes speaking normal.\n\nStudents have their own work to do. Reading the assigned text and writing one question before class changes the experience entirely, because a person with a prepared question is no longer improvising.\n\nParticipation is a habit produced by design and preparation, not a personality trait distributed unevenly among students.",
+      "ph": [
+        "sound foolish 显得愚蠢",
+        "lower the cost of a first contribution 降低第一次发言的成本",
+        "no longer improvising 不再即兴发挥",
+        "distributed unevenly 分配不均"
+      ]
+    },
+    {
+      "id": "w083",
+      "tp": "建议措施",
+      "ti": "如何应对信息过载",
+      "dir": "Directions: Students are overwhelmed by information. Write an essay suggesting how to manage it. You should write 120 to 180 words.",
+      "ol": [
+        "说明信息过载的实质",
+        "提出三条管理措施",
+        "强调输出导向"
+      ],
+      "fr": [
+        "第一段：过载不是信息太多，而是筛选成本太高",
+        "第二段：措施（固定信息时段、来源白名单、笔记沉淀）",
+        "第三段：以输出为标准"
+      ],
+      "es": "Information overload is usually described as having too much to read. In practice, the difficulty is different: the cost of deciding what to ignore has become higher than the cost of reading.\n\nThree measures help. First, confine intake to fixed periods — twenty minutes in the morning, twenty in the evening — rather than checking continuously, which fragments attention without adding knowledge. Second, keep a short list of trusted sources and read them thoroughly instead of sampling twenty accounts superficially. Third, write something after reading: three sentences summarising the argument are worth more than a saved bookmark that will never be opened.\n\nThe test of a reading habit is not how much has been consumed but what can be reproduced. A student who can explain one article a day to a friend is better informed than one who has skimmed forty.\n\nInformation becomes knowledge only when it is processed. Everything else is noise with a timestamp.",
+      "ph": [
+        "the cost of deciding what to ignore 决定忽略什么的成本",
+        "confine intake to fixed periods 把信息摄入限制在固定时段",
+        "sampling ... superficially 浅层浏览",
+        "noise with a timestamp 带时间戳的噪音"
+      ]
+    },
+    {
+      "id": "w084",
+      "tp": "建议措施",
+      "ti": "如何鼓励毕业生到基层工作",
+      "dir": "Directions: Some regions lack skilled graduates. Write an essay suggesting how to encourage graduates to work there. You should write 120 to 180 words.",
+      "ol": [
+        "说明毕业生顾虑的核心",
+        "提出三条措施",
+        "强调长期发展而非一次性补贴"
+      ],
+      "fr": [
+        "第一段：顾虑不是待遇单一因素",
+        "第二段：措施（职业通道、生活配套、服务期限弹性）",
+        "第三段：政策设计的关键"
+      ],
+      "es": "Encouraging graduates to work in less developed regions fails when policy addresses only salary. The deeper concerns are career progression, daily life and the fear of being forgotten.\n\nThree measures are more effective than a one-off subsidy. First, create a visible promotion path: a young teacher or doctor sent to a county should know that excellent work leads to further training and a route back to a larger institution, not to permanent exile. Second, fix the practical basics — housing, childcare, internet and transport — because these determine whether a spouse will agree to come. Third, allow flexible service periods, such as two years with an option to extend, which lowers the perceived commitment and attracts those who would never sign for five.\n\nMoney helps, but it cannot compensate for a career that appears to end at arrival. The message should be that service in a difficult region is a stage with a future, not a detour from one.",
+      "ph": [
+        "a one-off subsidy 一次性补贴",
+        "permanent exile 永久流放",
+        "fix the practical basics 解决基本生活配套",
+        "a detour from one 绕离正路"
+      ]
+    },
+    {
+      "id": "w085",
+      "tp": "建议措施",
+      "ti": "如何改善城市空气质量",
+      "dir": "Directions: Air pollution remains a problem in some cities. Write an essay suggesting how to improve air quality. You should write 120 to 180 words.",
+      "ol": [
+        "指出污染源的结构",
+        "提出三条措施",
+        "说明协同治理的必要"
+      ],
+      "fr": [
+        "第一段：污染来源分散，单一措施无效",
+        "第二段：措施（能源、交通、区域联防）",
+        "第三段：长期监测与公众参与"
+      ],
+      "es": "Air quality cannot be fixed by one measure, because the sources are distributed across several systems.\n\nThree interventions matter most. First, the energy structure: replacing coal-fired heating and small industrial boilers with gas or electricity removes a large share of winter particulate matter. Second, transport: converting buses and taxis to electric power, and charging congestion fees in the centre, reduces nitrogen oxides where people actually breathe. Third, regional coordination: pollution does not respect administrative boundaries, so a city that cleans its own streets while its neighbour expands steel capacity will not see the benefit.\n\nMonitoring should be public and continuous. When hourly data are available at street level, residents can adjust their behaviour and officials cannot claim improvement that the instruments deny.\n\nClean air is a long project with visible milestones. The measurable target should be the number of days below the standard, not the number of meetings held.",
+      "ph": [
+        "distributed across several systems 分布在多个系统中",
+        "does not respect administrative boundaries 不分行政边界",
+        "cannot claim improvement that the instruments deny 无法宣称仪器否认的改善",
+        "visible milestones 可见的里程碑"
+      ]
+    },
+    {
+      "id": "w086",
+      "tp": "建议措施",
+      "ti": "如何保护地方方言",
+      "dir": "Directions: Local dialects are declining. Write an essay suggesting how to protect them. You should write 120 to 180 words.",
+      "ol": [
+        "说明方言消失的机制",
+        "提出三条措施",
+        "说明保护与推广普通话不冲突"
+      ],
+      "fr": [
+        "第一段：消失源于代际传递中断",
+        "第二段：措施（家庭使用、学校社团、数字记录）",
+        "第三段：澄清与普通话的关系"
+      ],
+      "es": "Dialects disappear not because people stop liking them but because the chain of transmission breaks. When parents speak Mandarin to children and grandparents are the only dialect speakers, a language loses its next generation within thirty years.\n\nFirst, families should keep one domain for the dialect — meals, calls to grandparents, festivals — so that children hear it in emotional contexts rather than as a performance. Second, schools can support dialect clubs and local opera performances as extracurricular activities, without adding to the examination burden. Third, universities and libraries should record elderly speakers systematically, including everyday conversation rather than only formal vocabulary, since it is the ordinary register that is vanishing fastest.\n\nProtecting a dialect does not compete with promoting standard Chinese. A person can write in one and joke in the other, and most of the world's multilingual speakers do exactly that. The loss would not be a loss of communication but of a way of seeing.",
+      "ph": [
+        "the chain of transmission breaks 传承链条断裂",
+        "keep one domain for 为……保留一个场景",
+        "the ordinary register 日常语域",
+        "compete with 与……冲突"
+      ]
+    },
+    {
+      "id": "w087",
+      "tp": "建议措施",
+      "ti": "如何提高公交吸引力",
+      "dir": "Directions: Public transport is losing passengers to private cars. Write an essay suggesting how to attract more riders. You should write 120 to 180 words.",
+      "ol": [
+        "分析乘客流失的原因",
+        "提出三条改进措施",
+        "说明优先级"
+      ],
+      "fr": [
+        "第一段：流失不是价格问题",
+        "第二段：措施（准点率、换乘体验、专用道）",
+        "第三段：为何可靠性优先"
+      ],
+      "es": "Passengers rarely abandon buses because of the fare. They leave because the bus is unpredictable, the transfer is unpleasant, or the journey takes twice as long as driving.\n\nThree improvements follow directly. First, reliability: a bus that arrives every eight minutes does not require a timetable, and passengers stop checking apps. This depends on dedicated lanes, which are politically difficult but decisive. Second, transfers: a single ticket valid for ninety minutes across buses and the subway removes the penalty for changing vehicles. Third, information and shelter: real-time arrival displays and a roof at every stop cost little and change how the wait feels.\n\nPriority matters. Reliability comes first, because a comfortable bus that arrives late is still useless. Frequency comes second, because waiting is the largest part of the perceived journey. Comfort comes third.\n\nA city that makes the bus dependable does not need to persuade drivers to give up their cars; the arithmetic does it.",
+      "ph": [
+        "abandon buses 放弃公交",
+        "dedicated lanes 公交专用道",
+        "removes the penalty for changing vehicles 取消换乘的额外成本",
+        "the perceived journey 感知到的行程时间"
+      ]
+    },
+    {
+      "id": "w088",
+      "tp": "建议措施",
+      "ti": "如何帮助新生适应大学",
+      "dir": "Directions: Many freshmen find it hard to adapt to university life. Write an essay suggesting how to help them. You should write 120 to 180 words.",
+      "ol": [
+        "指出适应困难的三个方面",
+        "提出对应措施",
+        "说明谁应负责"
+      ],
+      "fr": [
+        "第一段：困难（学习方法、社交、生活自理）",
+        "第二段：措施（学业导师、朋辈辅导、生活课程）",
+        "第三段：责任分工"
+      ],
+      "es": "Freshmen struggle with three things at once: a method of study that no longer works, a social world that must be rebuilt, and daily life that must be managed without parents.\n\nThe first difficulty is often invisible to the student. Someone who succeeded at school by memorising may fail at university, not from laziness but from using the wrong method; a short course on note-taking in the first month prevents a term of quiet failure. The second is social, and the third is daily life.\n\nResponsibility should be shared rather than delegated. The university provides structure, the department provides mentors, and senior students provide the informal knowledge that makes an institution navigable.\n\nAdaptation is not a personality test that some students fail. It is a skill that can be taught before it is needed.",
+      "ph": [
+        "a social world that must be rebuilt 必须重建的社交世界",
+        "prevents a term of quiet failure 避免一整学期的无声失败",
+        "the questions that no one dares to ask 没人敢问的问题",
+        "navigable 可被摸清的"
+      ]
+    },
+    {
+      "id": "w089",
+      "tp": "建议措施",
+      "ti": "如何减少一次性塑料",
+      "dir": "Directions: Single-use plastics cause serious pollution. Write an essay suggesting how to reduce their use on campus. You should write 120 to 180 words.",
+      "ol": [
+        "说明一次性塑料的使用场景",
+        "提出替代与制度两类措施",
+        "说明行为改变的条件"
+      ],
+      "fr": [
+        "第一段：用量集中在几个场景",
+        "第二段：替代方案 + 制度设计（押金、自带优惠）",
+        "第三段：便利性是关键"
+      ],
+      "es": "On a campus, single-use plastic appears in a few predictable places: takeaway containers, drink cups, bags and delivery packaging. Because the sources are concentrated, they can be attacked directly.\n\nSubstitution is the first step. Canteens can offer a reusable box with a small deposit, refunded on return; the deposit must be high enough to matter and low enough not to deter. Cafes can give a one-yuan discount to anyone who brings a cup.\n\nConvenience decides whether these measures survive. A reuse scheme that requires washing the box at home will fail in a dormitory without a kitchen; one with a washing station beside the collection point will work.\n\nReduction is not about heroism. It is about making the reusable option the easier one.",
+      "ph": [
+        "can be attacked directly 可以被直接针对",
+        "high enough to matter and low enough not to deter 高到有约束力，低到不吓退人",
+        "by default rather than by request 默认而非按需",
+        "making the reusable option the easier one 让可重复使用成为更省事的选择"
+      ]
+    },
+    {
+      "id": "w090",
+      "tp": "建议措施",
+      "ti": "如何完善社区养老",
+      "dir": "Directions: China's population is ageing quickly. Write an essay suggesting how to improve community care for the elderly. You should write 120 to 180 words.",
+      "ol": [
+        "说明社区养老的定位",
+        "提出三条措施",
+        "说明人力问题的解决"
+      ],
+      "fr": [
+        "第一段：社区养老介于家庭与机构之间",
+        "第二段：措施（助餐、日间照料、上门医疗）",
+        "第三段：人力与支付"
+      ],
+      "es": "Community care sits between the family and the institution, and it is the only model that can serve most older people at a cost the country can afford.\n\nThree services matter most. The first is a meal service: a canteen that delivers lunch to those over eighty costs less than institutional care and removes the most common daily risk, a skipped meal. The second is day care, which gives family carers a few hours of relief.\n\nCare work is poorly paid and rarely seen as a career. Training programmes, recognised certificates and a clear promotion path would help, and so would allowing younger volunteers to earn course credit.\n\nCommunity care succeeds when it is close, cheap and reliable. Everything else is detail.",
+      "ph": [
+        "sits between A and B 处于 A 与 B 之间",
+        "at a cost the country can afford 以国家负担得起的成本",
+        "gives family carers a few hours of relief 让家庭照护者喘口气",
+        "Everything else is detail 其余都是细节"
+      ]
+    }
+  ]
+}

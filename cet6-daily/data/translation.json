@@ -1,0 +1,1084 @@
+{
+  "items": [
+    {
+      "id": "t001",
+      "lv": "easy",
+      "tp": "文化",
+      "zh": "中国是茶的故乡。早在几千年前，中国人就开始种植和饮用茶叶。如今，茶不仅是一种日常饮品，更成为待客和修身的重要方式。",
+      "en": "China is the homeland of tea. As early as several thousand years ago, the Chinese began to grow and drink tea. Today, tea is not only a daily beverage but also an important way of receiving guests and cultivating one's character.",
+      "tip": [
+        "「故乡」用 homeland，比 hometown 更贴合文化语境",
+        "「修身」意译为 cultivating one's character，直译会失真",
+        "as early as 引导时间状语，置于句首最自然"
+      ]
+    },
+    {
+      "id": "t002",
+      "lv": "easy",
+      "tp": "交通",
+      "zh": "中国高速铁路运营里程已超过四万公里，居世界第一。高铁把许多城市之间的旅行时间缩短了一半以上，也让沿线的小城市获得了新的发展机会。",
+      "en": "China's high-speed rail network has exceeded 40,000 kilometres in operation, ranking first in the world. High-speed trains have cut travel time between many cities by more than half and have brought new opportunities to smaller cities along the lines.",
+      "tip": [
+        "「运营里程」译为里程加 in operation，不必逐字对应",
+        "「缩短了一半以上」用 cut ... by more than half，by 表幅度",
+        "ranking first 作结果状语，与主句共主语"
+      ]
+    },
+    {
+      "id": "t003",
+      "lv": "easy",
+      "tp": "科技",
+      "zh": "在中国，用手机付款已经成为习惯。无论是买菜还是乘地铁，人们只需扫一下二维码。这种支付方式极大地方便了日常生活，也减少了现金的使用。",
+      "en": "In China, paying by mobile phone has become a habit. Whether buying vegetables or taking the subway, people only need to scan a QR code. This form of payment has greatly facilitated daily life and reduced the use of cash.",
+      "tip": [
+        "Whether ... or ... 引导让步状语，主语仍是 people",
+        "「扫码」固定说法是 scan a QR code",
+        "facilitate 及物，后面不加 for"
+      ]
+    },
+    {
+      "id": "t004",
+      "lv": "easy",
+      "tp": "社会",
+      "zh": "共享单车出现在中国许多城市的街头。它解决了从地铁站到家的最后一段路程，也鼓励更多人选择绿色出行。不过，乱停乱放仍然是城市管理需要面对的问题。",
+      "en": "Shared bicycles have appeared on the streets of many Chinese cities. They solve the last leg of the journey from the subway station to home and encourage more people to choose green travel. However, random parking remains a problem for city management.",
+      "tip": [
+        "「最后一段路程」用 the last leg，比 the last part 更地道",
+        "remains 后直接接名词，表示「仍然是」",
+        "green travel 为环保类固定搭配"
+      ]
+    },
+    {
+      "id": "t005",
+      "lv": "easy",
+      "tp": "节日",
+      "zh": "春节是中国最重要的传统节日。无论离家多远，人们都会尽量赶回家中与亲人团聚。年夜饭、贴春联和守岁是最具代表性的习俗。",
+      "en": "The Spring Festival is the most important traditional festival in China. However far they are from home, people try their best to return and reunite with their families. The New Year's Eve dinner, pasting spring couplets and staying up late are the most typical customs.",
+      "tip": [
+        "However far ... 引导让步状语从句，语序不倒装",
+        "「守岁」译为 staying up late on New Year's Eve",
+        "三个并列主语较长，谓语用 are 保持一致"
+      ]
+    },
+    {
+      "id": "t006",
+      "lv": "easy",
+      "tp": "医药",
+      "zh": "中医已有两千多年的历史。它强调人与自然的平衡，通过草药、针灸和推拿等方法治疗疾病。近年来，越来越多的外国人开始接受中医治疗。",
+      "en": "Traditional Chinese medicine has a history of more than 2,000 years. It emphasises the balance between humans and nature, treating diseases with herbal medicine, acupuncture and massage. In recent years, more and more foreigners have begun to accept TCM treatment.",
+      "tip": [
+        "「针灸」是 acupuncture，「推拿」可译 massage 或 tuina",
+        "treating ... 现在分词作方式状语",
+        "have begun to 与 In recent years 搭配，用现在完成时"
+      ]
+    },
+    {
+      "id": "t007",
+      "lv": "easy",
+      "tp": "教育",
+      "zh": "中国的公共图书馆大多免费向公众开放。读者不仅可以借书，还可以参加讲座、展览和读书会。一些图书馆延长了开放时间，为备考的学生提供安静的场所。",
+      "en": "Most public libraries in China are open to the public free of charge. Readers can not only borrow books but also attend lectures, exhibitions and reading clubs. Some libraries have extended their opening hours to provide a quiet place for students preparing for exams.",
+      "tip": [
+        "free of charge 作状语，位置放在句末最稳",
+        "extend opening hours 为图书馆类文本高频搭配",
+        "preparing for exams 现在分词作后置定语"
+      ]
+    },
+    {
+      "id": "t008",
+      "lv": "easy",
+      "tp": "生态",
+      "zh": "大熊猫主要生活在四川、陕西和甘肃的山区。过去几十年，中国建立了多个自然保护区，使大熊猫的数量稳步回升。它也因此成为生物多样性保护的象征。",
+      "en": "Giant pandas mainly live in the mountains of Sichuan, Shaanxi and Gansu. Over the past decades, China has established many nature reserves, which have brought the panda population back steadily. The animal has therefore become a symbol of biodiversity conservation.",
+      "tip": [
+        "which 引导非限制性定语从句，指代前面整件事",
+        "「回升」用 bring ... back 或 recover",
+        "biodiversity conservation 为生态类固定表达"
+      ]
+    },
+    {
+      "id": "t009",
+      "lv": "easy",
+      "tp": "艺术",
+      "zh": "书法是中国传统艺术之一。练习书法不仅要求掌握笔画的技巧，还需要耐心与专注。许多家长让孩子从小学书法，希望他们从中体会传统文化的魅力。",
+      "en": "Calligraphy is one of the traditional Chinese arts. Practising calligraphy requires not only a command of strokes but also patience and concentration. Many parents let their children learn calligraphy from an early age, hoping that they will appreciate the charm of traditional culture.",
+      "tip": [
+        "a command of 表示「对……的掌握」，比 skill of 更准确",
+        "hoping that ... 现在分词作伴随状语",
+        "「笔画」是 stroke，不要写成 pen line"
+      ]
+    },
+    {
+      "id": "t010",
+      "lv": "easy",
+      "tp": "城市",
+      "zh": "近年来，中国许多城市修建了免费的公园和绿道。居民可以在那里散步、跑步和骑车。这些开放空间改善了城市环境，也为邻里交往提供了场所。",
+      "en": "In recent years, many Chinese cities have built parks and greenways that are free to enter. Residents can walk, run and cycle there. These open spaces have improved the urban environment and provided places for neighbours to meet.",
+      "tip": [
+        "that are free to enter 作定语从句，也可简化为 free parks",
+        "「绿道」greenway，属于专有名词",
+        "improved 与 provided 并列，共用助动词 have"
+      ]
+    },
+    {
+      "id": "t011",
+      "lv": "easy",
+      "tp": "学习",
+      "zh": "随着智能手机的普及，越来越多的人利用碎片时间学习。他们在地铁上背单词，在排队时听英语。移动学习灵活方便，但也需要更强的自律。",
+      "en": "With the popularity of smartphones, more and more people use fragmented time to study. They memorise words on the subway and listen to English while queuing. Mobile learning is flexible and convenient, but it also calls for stronger self-discipline.",
+      "tip": [
+        "With the popularity of ... 作原因状语，是说明社会现象的常用开头",
+        "「碎片时间」fragmented time",
+        "call for 在此表示「需要」，比 need 更正式"
+      ]
+    },
+    {
+      "id": "t012",
+      "lv": "easy",
+      "tp": "乡村",
+      "zh": "乡村旅游在中国迅速发展。城市居民利用周末到乡村体验农事、品尝农家菜。这不仅增加了农民收入，也让更多人了解农村的生活。",
+      "en": "Rural tourism has developed rapidly in China. Urban residents spend weekends in the countryside, trying farm work and tasting home-grown food. This has not only raised farmers' incomes but also helped more people understand rural life.",
+      "tip": [
+        "spend weekends doing 为固定结构，doing 用现在分词",
+        "「农家菜」home-grown food 或 country cooking",
+        "raise income 提高收入，比 increase 更贴切"
+      ]
+    },
+    {
+      "id": "t013",
+      "lv": "easy",
+      "tp": "文化",
+      "zh": "中国的博物馆数量在过去十年里大幅增加。许多博物馆免费开放，并通过数字技术展示藏品。年轻人逐渐把参观博物馆当作一种新的休闲方式。",
+      "en": "The number of museums in China has increased substantially over the past decade. Many of them are free to visit and display their collections through digital technology. Young people are gradually treating museum visits as a new form of leisure.",
+      "tip": [
+        "substantially 比 greatly 正式，适合书面语",
+        "display collections 展出藏品",
+        "treat A as B 表示「把 A 当作 B」"
+      ]
+    },
+    {
+      "id": "t014",
+      "lv": "easy",
+      "tp": "环保",
+      "zh": "垃圾分类已在中国许多城市推行。居民需要把垃圾分成不同类别，投放到指定的桶中。这一做法有助于减少污染，提高资源的利用率。",
+      "en": "Waste sorting has been introduced in many Chinese cities. Residents are required to divide their waste into different categories and put it into the designated bins. This practice helps reduce pollution and improve the efficiency of resource use.",
+      "tip": [
+        "be required to do 为被动结构，施动者不必出现",
+        "designated bins 指定垃圾桶，designated 是过去分词作定语",
+        "the efficiency of resource use 资源利用率"
+      ]
+    },
+    {
+      "id": "t015",
+      "lv": "easy",
+      "tp": "社会",
+      "zh": "中国人口老龄化程度不断加深。越来越多的老年人使用智能手机与子女视频通话，也在网上购物、看病挂号。数字技术正在改变他们的生活方式。",
+      "en": "China's population is ageing steadily. More and more elderly people use smartphones to make video calls with their children, and they also shop online and register for medical appointments. Digital technology is changing the way they live.",
+      "tip": [
+        "ageing 为英式拼写，美式写作 aging",
+        "「挂号」register for a medical appointment",
+        "the way they live 后省略了 that，是定语从句"
+      ]
+    },
+    {
+      "id": "t016",
+      "lv": "easy",
+      "tp": "教育",
+      "zh": "为了减轻学生的课业负担，中国的中小学减少了作业量，也规范了校外培训。学校和家长开始重视体育、艺术和劳动教育。",
+      "en": "To reduce students' workload, primary and secondary schools in China have cut the amount of homework and regulated after-school tutoring. Schools and parents have begun to attach importance to physical education, art and labour education.",
+      "tip": [
+        "To reduce ... 目的状语置于句首，用不定式",
+        "attach importance to 重视，to 为介词",
+        "「劳动教育」labour education，英式拼写"
+      ]
+    },
+    {
+      "id": "t017",
+      "lv": "easy",
+      "tp": "饮食",
+      "zh": "过去几十年，中国人的饮食结构发生了明显变化。肉、蛋和奶制品的消费量上升，粗粮的摄入量下降。营养学家建议人们保持均衡饮食。",
+      "en": "Over the past few decades, the Chinese diet has changed markedly. The consumption of meat, eggs and dairy products has risen, while the intake of coarse grains has fallen. Nutritionists advise people to keep a balanced diet.",
+      "tip": [
+        "while 连接两个分句表对比，不能换成分号",
+        "intake 摄入量，常与 of 连用",
+        "advise sb to do，不用 advise sb doing"
+      ]
+    },
+    {
+      "id": "t018",
+      "lv": "easy",
+      "tp": "社会",
+      "zh": "在中国，越来越多的年轻人参加志愿服务活动。他们在社区帮助老人，在大型赛事中担任引导员。志愿服务不仅帮助了他人，也让参与者获得了成长。",
+      "en": "In China, more and more young people take part in volunteer work. They help the elderly in their communities and act as guides at major sporting events. Volunteering not only helps others but also enables participants to grow.",
+      "tip": [
+        "act as 担任，as 不能省",
+        "enable sb to do 使某人能够做某事",
+        "volunteer work 不可数，不加 s"
+      ]
+    },
+    {
+      "id": "t019",
+      "lv": "easy",
+      "tp": "城市",
+      "zh": "交通拥堵是大城市面临的共同难题。一些城市通过提高停车费、限制车牌和扩建地铁来缓解压力。专家认为，发展公共交通才是长远的解决办法。",
+      "en": "Traffic congestion is a common problem facing big cities. Some cities ease the pressure by raising parking fees, restricting licence plates and expanding subway lines. Experts believe that developing public transport is the long-term solution.",
+      "tip": [
+        "facing big cities 现在分词作后置定语",
+        "by doing 表示方式，三个动名词并列",
+        "the long-term solution 长远之计，long-term 需连字符"
+      ]
+    },
+    {
+      "id": "t020",
+      "lv": "easy",
+      "tp": "语言",
+      "zh": "汉字是世界上最古老的文字之一。它不仅记录语言，也承载着中国人的思维方式。如今，越来越多的外国人开始学习汉字。",
+      "en": "Chinese characters are among the oldest writing systems in the world. They not only record language but also carry the Chinese way of thinking. Today, more and more foreigners are beginning to learn Chinese characters.",
+      "tip": [
+        "「之一」用 among the oldest，不能用 one of the oldest 加单数谓语",
+        "writing system 文字系统",
+        "carry 在此意为承载，比 hold 更抽象"
+      ]
+    },
+    {
+      "id": "t021",
+      "lv": "easy",
+      "tp": "经济",
+      "zh": "网上购物已经成为中国人日常生活的一部分。消费者可以在几分钟内比较价格、下单并查看物流。电商平台的发展也带动了快递行业的繁荣。",
+      "en": "Online shopping has become part of everyday life in China. Consumers can compare prices, place orders and track deliveries within minutes. The growth of e-commerce platforms has also boosted the express delivery industry.",
+      "tip": [
+        "place an order 下单，order 在此为名词",
+        "track deliveries 查看物流",
+        "boost 带动、促进，比 make 准确"
+      ]
+    },
+    {
+      "id": "t022",
+      "lv": "easy",
+      "tp": "历史",
+      "zh": "长城是中国古代最伟大的工程之一。它修建于两千多年前，主要用来抵御外敌。如今，长城每年吸引数百万游客前来参观。",
+      "en": "The Great Wall is one of the greatest engineering projects of ancient China. It was built more than 2,000 years ago, mainly to defend against invaders. Today it attracts millions of visitors every year.",
+      "tip": [
+        "engineering project 工程，不用 works",
+        "defend against 抵御，against 不可省",
+        "was built 用被动，强调被修建"
+      ]
+    },
+    {
+      "id": "t023",
+      "lv": "easy",
+      "tp": "环保",
+      "zh": "低碳生活正在被越来越多的中国人接受。人们骑自行车上班，用布袋代替塑料袋，并把空调温度调高一度。这些小小的改变可以减少能源消耗。",
+      "en": "A low-carbon lifestyle is being accepted by more and more Chinese people. They cycle to work, use cloth bags instead of plastic ones and turn up the air conditioner by one degree. These small changes can reduce energy consumption.",
+      "tip": [
+        "is being accepted 为现在进行时被动语态",
+        "instead of plastic ones 用 ones 替代 bags",
+        "turn up 调高温度，介词 by 表幅度"
+      ]
+    },
+    {
+      "id": "t024",
+      "lv": "easy",
+      "tp": "经济",
+      "zh": "快递业的发展改变了中国人的购物方式。如今，许多农村地区也能在两天内收到包裹。快递员成为城市中熟悉的面孔。",
+      "en": "The growth of the express delivery industry has changed the way Chinese people shop. Today, many rural areas can receive parcels within two days. Delivery workers have become a familiar sight in cities.",
+      "tip": [
+        "the way ... shop 后接定语从句，省略了 in which",
+        "parcel 包裹，比 package 更常用于邮寄语境",
+        "a familiar sight 熟悉的面孔／景象"
+      ]
+    },
+    {
+      "id": "t025",
+      "lv": "easy",
+      "tp": "社会",
+      "zh": "外卖服务在中国非常普遍。人们用手机下单，半小时内就能收到热饭。外卖也给餐饮业带来了新的机会和挑战。",
+      "en": "Food delivery is very common in China. People place orders on their phones and receive a hot meal within half an hour. Delivery services have also brought new opportunities and challenges to the restaurant industry.",
+      "tip": [
+        "「外卖」food delivery；「外卖员」delivery rider",
+        "within half an hour 表时间范围",
+        "bring opportunities and challenges to 为常见搭配"
+      ]
+    },
+    {
+      "id": "t026",
+      "lv": "easy",
+      "tp": "体育",
+      "zh": "近年来，马拉松在中国越来越受欢迎。许多城市每年举办比赛，吸引数万名跑者参加。跑步逐渐成为一种健康的生活方式。",
+      "en": "In recent years, marathons have become increasingly popular in China. Many cities hold races every year, attracting tens of thousands of runners. Running has gradually become a healthy lifestyle.",
+      "tip": [
+        "attracting ... 现在分词作结果状语",
+        "hold a race 举办比赛",
+        "increasingly popular 越来越受欢迎"
+      ]
+    },
+    {
+      "id": "t027",
+      "lv": "easy",
+      "tp": "文化",
+      "zh": "剪纸是中国古老的民间艺术。人们用剪刀在红纸上剪出花鸟和人物。每逢春节，许多家庭会把剪纸贴在窗户上。",
+      "en": "Paper-cutting is an ancient folk art in China. People use scissors to cut flowers, birds and figures out of red paper. During the Spring Festival, many families paste paper-cuts on their windows.",
+      "tip": [
+        "cut A out of B 从 B 中剪出 A",
+        "figure 在此指人物",
+        "paper-cut 作名词，paper-cutting 指这门技艺"
+      ]
+    },
+    {
+      "id": "t028",
+      "lv": "easy",
+      "tp": "文化",
+      "zh": "丝绸是中国对世界的重要贡献。两千多年前，中国丝绸通过丝绸之路运往西方。今天，丝绸仍然是受欢迎的高档面料。",
+      "en": "Silk is an important contribution China has made to the world. More than 2,000 years ago, Chinese silk was carried to the West along the Silk Road. Today, silk remains a popular luxury fabric.",
+      "tip": [
+        "China has made 为省略 that 的定语从句",
+        "along the Silk Road 沿丝绸之路",
+        "luxury fabric 高档面料"
+      ]
+    },
+    {
+      "id": "t029",
+      "lv": "easy",
+      "tp": "文化",
+      "zh": "瓷器在中国已有上千年的历史。景德镇被称为瓷都，那里的工匠至今仍用手工绘制图案。精美的瓷器被出口到世界各地。",
+      "en": "Porcelain has a history of more than a thousand years in China. Jingdezhen is known as the porcelain capital, where craftsmen still paint patterns by hand. Exquisite porcelain is exported all over the world.",
+      "tip": [
+        "be known as 被称为，as 后接身份",
+        "where 引导非限制性定语从句",
+        "exquisite 精美的，比 beautiful 精确"
+      ]
+    },
+    {
+      "id": "t030",
+      "lv": "easy",
+      "tp": "文化",
+      "zh": "苏州园林是中国古典园林的代表。园林中的假山、水池和亭子相互映衬，营造出宁静的氛围。每年有大量游客前来参观。",
+      "en": "Suzhou gardens are representative of classical Chinese gardens. The rockeries, ponds and pavilions set each other off, creating a peaceful atmosphere. Every year a large number of tourists come to visit.",
+      "tip": [
+        "set each other off 相互映衬，为固定搭配",
+        "creating ... 现在分词作结果状语",
+        "rockery 假山，pavilion 亭子"
+      ]
+    },
+    {
+      "id": "t031",
+      "lv": "easy",
+      "tp": "历史",
+      "zh": "故宫是中国最大的古代宫殿建筑群。它曾经是明清两代的皇宫，如今成为一座博物馆。游客可以在这里了解中国的历史与文化。",
+      "en": "The Palace Museum is the largest complex of ancient palace buildings in China. It used to be the imperial palace of the Ming and Qing dynasties and is now a museum. Visitors can learn about Chinese history and culture there.",
+      "tip": [
+        "the Palace Museum 故宫的官方英文名",
+        "used to be 过去曾是，注意与 be used to 区分",
+        "complex 建筑群，作名词"
+      ]
+    },
+    {
+      "id": "t032",
+      "lv": "easy",
+      "tp": "民俗",
+      "zh": "二十四节气是中国古人根据气候变化总结出的时间体系。它指导农业生产，也影响着人们的饮食和习俗。2016 年，它被列入联合国非物质文化遗产名录。",
+      "en": "The 24 solar terms are a time system that ancient Chinese people developed from changes in climate. They guide farming and also influence people's diet and customs. In 2016, they were added to the UN list of intangible cultural heritage.",
+      "tip": [
+        "solar term 节气，为固定译法",
+        "that 引导定语从句，先行词是 system",
+        "be added to the list 被列入名录"
+      ]
+    },
+    {
+      "id": "t033",
+      "lv": "easy",
+      "tp": "节日",
+      "zh": "中秋节是家人团聚的日子。人们在这一天赏月、吃月饼。月饼圆圆的形状象征着团圆和美满。",
+      "en": "The Mid-Autumn Festival is a day for family reunions. People admire the moon and eat mooncakes on this day. The round shape of the mooncake symbolises reunion and happiness.",
+      "tip": [
+        "admire the moon 赏月，动词不用 enjoy",
+        "symbolise 象征，英式拼写",
+        "a day for ... 表用途"
+      ]
+    },
+    {
+      "id": "t034",
+      "lv": "easy",
+      "tp": "节日",
+      "zh": "端午节在农历五月初五。人们吃粽子、赛龙舟，纪念古代诗人屈原。这一节日已被列入法定假日。",
+      "en": "The Dragon Boat Festival falls on the fifth day of the fifth lunar month. People eat zongzi and hold dragon boat races in memory of the ancient poet Qu Yuan. The festival has been made a public holiday.",
+      "tip": [
+        "fall on 用于日期，主语是节日",
+        "in memory of 纪念",
+        "be made a public holiday 被定为法定假日"
+      ]
+    },
+    {
+      "id": "t035",
+      "lv": "easy",
+      "tp": "饮食",
+      "zh": "火锅是中国很受欢迎的一种饮食方式。人们把肉和蔬菜放进滚烫的汤里煮熟，再蘸调料食用。吃火锅也是朋友聚会的好机会。",
+      "en": "Hotpot is a popular way of eating in China. People boil meat and vegetables in bubbling soup and then dip them in sauce. Eating hotpot is also a good chance for friends to get together.",
+      "tip": [
+        "boil 煮，dip 蘸，两个动词按顺序排列",
+        "bubbling soup 滚烫的汤",
+        "a chance for sb to do"
+      ]
+    },
+    {
+      "id": "t036",
+      "lv": "easy",
+      "tp": "教育",
+      "zh": "许多中国大学鼓励学生参加社会实践。学生可以利用假期到企业实习，或到农村支教。这些经历帮助他们更好地了解社会。",
+      "en": "Many Chinese universities encourage students to take part in social practice. Students can do internships in companies or teach in rural schools during holidays. These experiences help them understand society better.",
+      "tip": [
+        "encourage sb to do",
+        "do an internship 实习，不用 join",
+        "help sb do sth，better 置于句末"
+      ]
+    },
+    {
+      "id": "t037",
+      "lv": "easy",
+      "tp": "城市",
+      "zh": "城市漫步成为年轻人喜爱的一种休闲方式。他们不设目的地，在街上慢慢走，观察建筑和店铺。这种方式让人重新发现身边的城市。",
+      "en": "City walks have become a popular form of leisure among young people. They walk slowly along the streets without a destination, observing buildings and shops. This way of travelling helps people rediscover the city around them.",
+      "tip": [
+        "without a destination 无目的地，作状语",
+        "observing ... 现在分词表伴随",
+        "rediscover 重新发现，前缀 re- 表再次"
+      ]
+    },
+    {
+      "id": "t038",
+      "lv": "easy",
+      "tp": "经济",
+      "zh": "宠物经济在中国快速增长。越来越多的家庭养猫养狗，愿意为宠物购买食品、玩具和医疗服务。相关产业因此迅速扩大。",
+      "en": "The pet economy is growing rapidly in China. More and more families keep cats and dogs and are willing to buy food, toys and medical services for them. Related industries have therefore expanded quickly.",
+      "tip": [
+        "be willing to do 愿意做",
+        "for them 指宠物，代词位置在句末",
+        "expand 扩大，与 industry 搭配"
+      ]
+    },
+    {
+      "id": "t039",
+      "lv": "easy",
+      "tp": "城市",
+      "zh": "夜间经济为城市带来了新的活力。许多商场和小吃街营业到深夜，年轻人下班后仍有地方消费和放松。",
+      "en": "The night-time economy has brought new vitality to cities. Many shopping malls and snack streets stay open late into the night, so young people still have places to spend money and relax after work.",
+      "tip": [
+        "stay open 保持营业，open 为形容词",
+        "late into the night 直到深夜",
+        "so 引导结果状语从句"
+      ]
+    },
+    {
+      "id": "t040",
+      "lv": "easy",
+      "tp": "体育",
+      "zh": "北京冬奥会之后，冰雪运动在中国迅速普及。越来越多的南方城市建起了室内滑雪场，孩子们也有机会学习滑冰。",
+      "en": "After the Beijing Winter Olympics, winter sports spread rapidly in China. More and more southern cities have built indoor ski resorts, and children now have the chance to learn skating.",
+      "tip": [
+        "Winter Olympics 冬奥会，首字母大写",
+        "indoor ski resort 室内滑雪场",
+        "have the chance to do"
+      ]
+    },
+    {
+      "id": "t041",
+      "lv": "easy",
+      "tp": "社会",
+      "zh": "无障碍设施的建设体现了一座城市的文明程度。坡道、盲道和电梯让老年人和残障人士出行更加方便。",
+      "en": "The construction of barrier-free facilities reflects the civility of a city. Ramps, tactile paths and lifts make it easier for elderly people and people with disabilities to get around.",
+      "tip": [
+        "barrier-free facilities 无障碍设施",
+        "make it easier for sb to do，it 为形式宾语",
+        "get around 出行，比 travel 更口语"
+      ]
+    },
+    {
+      "id": "t042",
+      "lv": "easy",
+      "tp": "科技",
+      "zh": "人工智能正在进入中国人的日常生活。它可以帮人写邮件、翻译文章，也能辅助医生诊断疾病。人们既期待它带来的便利，也担心隐私问题。",
+      "en": "Artificial intelligence is entering the daily life of Chinese people. It can help people write emails and translate articles, and it can also assist doctors in diagnosing diseases. People look forward to the convenience it brings but also worry about privacy.",
+      "tip": [
+        "assist sb in doing 协助某人做某事",
+        "look forward to 后接名词或动名词",
+        "the convenience it brings 省略 that 的定语从句"
+      ]
+    },
+    {
+      "id": "t043",
+      "lv": "easy",
+      "tp": "乡村",
+      "zh": "越来越多的年轻人回到家乡创业。他们开网店、做直播，把当地的农产品卖到全国各地。这为乡村振兴注入了新的动力。",
+      "en": "More and more young people are returning to their hometowns to start businesses. They open online shops and livestream, selling local farm produce across the country. This has injected new energy into rural revitalisation.",
+      "tip": [
+        "start a business 创业",
+        "livestream 作动词，直播",
+        "inject ... into 为比喻用法，乡村振兴固定译 rural revitalisation"
+      ]
+    },
+    {
+      "id": "t044",
+      "lv": "easy",
+      "tp": "环境",
+      "zh": "新能源汽车在中国街头越来越常见。充电桩的数量不断增加，续航里程也在提高。政府提供补贴，鼓励人们购买环保汽车。",
+      "en": "New energy vehicles are becoming increasingly common on Chinese streets. The number of charging piles keeps growing, and driving ranges are improving. The government offers subsidies to encourage people to buy green cars.",
+      "tip": [
+        "new energy vehicle 新能源汽车，缩写 NEV",
+        "charging pile 充电桩，driving range 续航里程",
+        "subsidy 补贴，可数名词"
+      ]
+    },
+    {
+      "id": "t045",
+      "lv": "easy",
+      "tp": "文化",
+      "zh": "博物馆的文创产品受到年轻人欢迎。它们把文物元素融入日常用品，让历史走进生活。一些热门产品常常一上架就售罄。",
+      "en": "Cultural products from museums are popular with young people. They integrate elements of cultural relics into everyday objects, bringing history into daily life. Some popular items sell out as soon as they hit the shelves.",
+      "tip": [
+        "be popular with 受……欢迎，不用 by",
+        "integrate A into B 把 A 融入 B",
+        "sell out 售罄，as soon as 引导时间状语从句"
+      ]
+    },
+    {
+      "id": "t046",
+      "lv": "hard",
+      "tp": "环境",
+      "zh": "中国提出力争在 2060 年前实现碳中和。这一目标要求能源结构发生根本性转变，煤炭消费比重要大幅下降，风能和太阳能将成为主要电力来源。实现这一目标既需要技术突破，也需要全社会的配合。",
+      "en": "China has pledged to achieve carbon neutrality before 2060. This goal calls for a fundamental shift in the energy mix: the share of coal consumption must fall sharply, and wind and solar power will become the main sources of electricity. Meeting the target requires both technological breakthroughs and cooperation across society.",
+      "tip": [
+        "pledge to do 承诺做，比 promise 更正式",
+        "冒号后的两个分句用来解释 shift 的具体内容",
+        "Meeting the target 动名词作主语，谓语用单数"
+      ]
+    },
+    {
+      "id": "t047",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "数字经济已成为中国经济增长的重要引擎。电子商务、移动支付和在线服务创造了大量就业岗位，也改变了传统的商业模式。与此同时，如何保护用户数据安全成为监管面临的新课题。",
+      "en": "The digital economy has become an important engine of China's economic growth. E-commerce, mobile payment and online services have created a large number of jobs and reshaped traditional business models. At the same time, protecting user data has become a new challenge for regulators.",
+      "tip": [
+        "engine of growth 增长引擎，为常见比喻",
+        "reshaped 改写、重塑，比 changed 更有分量",
+        "how 引导的从句在此改写为动名词短语作主语，更简洁"
+      ]
+    },
+    {
+      "id": "t048",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "过去四十年，中国的城镇化率从不足百分之二十提高到百分之六十五以上。数亿人从农村迁入城市，为工业和服务业提供了充足的劳动力。但城乡之间在教育和医疗资源上的差距依然存在。",
+      "en": "Over the past four decades, China's urbanisation rate has risen from less than 20 percent to more than 65 percent. Hundreds of millions of people have moved from the countryside to cities, supplying ample labour for industry and services. Nevertheless, gaps between urban and rural areas in education and medical resources remain.",
+      "tip": [
+        "from ... to ... 表变化区间，两个百分数都要保留",
+        "supplying ... 现在分词作结果状语",
+        "Nevertheless 表转折，比 But 正式，其后用逗号"
+      ]
+    },
+    {
+      "id": "t049",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "中国正快速进入老龄化社会。预计到 2035 年，六十岁以上人口将超过四亿。这给养老金体系和医疗服务带来巨大压力，也催生了养老产业的巨大市场。",
+      "en": "China is rapidly becoming an ageing society. It is estimated that by 2035 the population over 60 will exceed 400 million. This places enormous pressure on the pension system and medical services, and it has also created a huge market for the elderly care industry.",
+      "tip": [
+        "It is estimated that ... 为数据类文本常用句式",
+        "places pressure on 给……带来压力",
+        "elderly care industry 养老产业"
+      ]
+    },
+    {
+      "id": "t050",
+      "lv": "hard",
+      "tp": "乡村",
+      "zh": "乡村振兴战略的实施，使许多偏远村庄的面貌发生了改变。新修的公路把农产品运往城市，网络让村民可以直接面对消费者。然而，如何留住年轻人仍然是这些地区面临的难题。",
+      "en": "The implementation of the rural revitalisation strategy has changed the face of many remote villages. Newly built roads carry farm produce to cities, and the internet allows villagers to reach consumers directly. Yet keeping young people in these areas remains a difficult problem.",
+      "tip": [
+        "implementation 实施，比 carrying out 更书面",
+        "allows sb to do 允许某人做",
+        "keeping ... 动名词作主语，谓语用 remains"
+      ]
+    },
+    {
+      "id": "t051",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "中国的航天计划在最近二十年取得了一系列突破。从载人飞行到月球采样，从空间站建设到火星探测，每一步都建立在长期投入和大量试验之上。航天技术的进步也带动了材料、通信等相关产业的发展。",
+      "en": "China's space programme has made a series of breakthroughs over the past two decades. From crewed flights to lunar sampling, from building a space station to exploring Mars, every step has rested on long-term investment and extensive testing. Progress in space technology has also driven the growth of related industries such as materials and communications.",
+      "tip": [
+        "crewed flight 载人飞行，不用 manned（性别中立表达）",
+        "rest on 建立在……之上，比 depend on 更贴切",
+        "drive the growth of 带动……发展"
+      ]
+    },
+    {
+      "id": "t052",
+      "lv": "hard",
+      "tp": "生态",
+      "zh": "湿地被称为「地球之肾」，在蓄水防洪和调节气候方面发挥着不可替代的作用。过去几十年，围垦和污染使大量湿地消失。近年来，中国通过建立保护区和退耕还湿，逐步恢复了部分湿地生态。",
+      "en": "Wetlands, known as the kidneys of the earth, play an irreplaceable role in storing water, controlling floods and regulating the climate. Over the past few decades, reclamation and pollution caused a large number of wetlands to disappear. In recent years, China has gradually restored some wetland ecosystems by establishing reserves and returning farmland to wetland.",
+      "tip": [
+        "known as ... 过去分词短语作插入语",
+        "play a role in doing 在……方面起作用",
+        "returning farmland to wetland 退耕还湿，仿 return grain to forest 结构"
+      ]
+    },
+    {
+      "id": "t053",
+      "lv": "hard",
+      "tp": "生态",
+      "zh": "库布其沙漠曾经被称为「死亡之海」。经过三十多年的治理，当地植被覆盖率显著提高，沙尘天气明显减少。这一案例被视为全球荒漠化治理的成功范例。",
+      "en": "The Kubuqi Desert was once called the sea of death. After more than thirty years of treatment, vegetation coverage there has risen markedly and dusty weather has decreased noticeably. The case is regarded as a successful example of desertification control worldwide.",
+      "tip": [
+        "vegetation coverage 植被覆盖率",
+        "be regarded as 被视为，比 be seen as 正式",
+        "desertification control 荒漠化治理"
+      ]
+    },
+    {
+      "id": "t054",
+      "lv": "hard",
+      "tp": "医药",
+      "zh": "中医药正在走向世界。目前，针灸已在许多国家获得合法地位，中药也进入了部分国家的医保体系。不过，要让更多人接受中医，还需要用现代科学方法说明其疗效。",
+      "en": "Traditional Chinese medicine is moving onto the world stage. Acupuncture has now gained legal status in many countries, and herbal medicines have entered the medical insurance systems of some of them. Nevertheless, winning wider acceptance for TCM requires explaining its efficacy through modern scientific methods.",
+      "tip": [
+        "gain legal status 获得合法地位",
+        "some of them 指代国家，避免重复 countries",
+        "efficacy 疗效，医学文本术语"
+      ]
+    },
+    {
+      "id": "t055",
+      "lv": "hard",
+      "tp": "文化",
+      "zh": "非物质文化遗产的保护面临两难：过度商业化会损害其本真性，完全封闭又可能使它失去活力。近年来，一些地方尝试让传承人走进校园和直播间，在传播中寻找新的生存空间。",
+      "en": "Protecting intangible cultural heritage involves a dilemma: excessive commercialisation damages its authenticity, while complete isolation may deprive it of vitality. In recent years, some places have tried bringing inheritors into schools and livestreaming rooms, seeking new room to survive through wider exposure.",
+      "tip": [
+        "dilemma 两难，后用冒号展开两方面",
+        "deprive sb of sth 使某人失去某物",
+        "seeking ... 现在分词作伴随状语"
+      ]
+    },
+    {
+      "id": "t056",
+      "lv": "hard",
+      "tp": "教育",
+      "zh": "职业教育的地位正在提升。随着制造业升级，企业需要大量能够操作智能设备的技术工人。一些职业院校与企业合作办学，学生在校期间就能接触真实的生产线。",
+      "en": "The status of vocational education is rising. As manufacturing upgrades, companies need large numbers of skilled workers who can operate intelligent equipment. Some vocational colleges run joint programmes with enterprises, so that students can work with real production lines while still at school.",
+      "tip": [
+        "vocational education 职业教育，为固定译法",
+        "who 引导定语从句修饰 workers",
+        "so that 引导目的状语从句"
+      ]
+    },
+    {
+      "id": "t057",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "中国消费者的需求正在从「有没有」转向「好不好」。人们愿意为品质、设计和体验支付更高的价格，也更关注产品的环保属性。这一变化促使企业重新思考自己的竞争策略。",
+      "en": "The demands of Chinese consumers are shifting from quantity to quality. People are willing to pay more for quality, design and experience, and they care more about how environmentally friendly a product is. This shift has prompted companies to rethink their competitive strategies.",
+      "tip": [
+        "shift from A to B 从 A 转向 B",
+        "how environmentally friendly a product is 名词性从句作宾语",
+        "prompt sb to do 促使某人做"
+      ]
+    },
+    {
+      "id": "t058",
+      "lv": "hard",
+      "tp": "城市",
+      "zh": "城市群正在成为中国新型城镇化的主体形态。长三角、珠三角和京津冀地区以不到十分之一的国土面积，创造了全国近一半的经济总量。如何让这些地区内部的公共服务更加均衡，是未来规划的重点。",
+      "en": "City clusters are becoming the main form of China's new urbanisation. The Yangtze River Delta, the Pearl River Delta and the Beijing-Tianjin-Hebei region together account for nearly half of the country's economic output on less than one tenth of its land. How to make public services more evenly distributed within these regions is a priority for future planning.",
+      "tip": [
+        "account for 占（比例），主语为地区",
+        "on less than one tenth of its land 用 on 表面积基础",
+        "How to ... 不定式短语作主语，谓语用单数"
+      ]
+    },
+    {
+      "id": "t059",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "中国在深海探测领域取得了重要进展。载人潜水器多次下潜到万米深处，采集了大量生物和地质样本。这些数据有助于科学家理解深海生态系统的运行机制。",
+      "en": "China has made significant progress in deep-sea exploration. Its crewed submersibles have dived to depths of 10,000 metres several times, collecting a large number of biological and geological samples. Such data help scientists understand how deep-sea ecosystems function.",
+      "tip": [
+        "crewed submersible 载人潜水器",
+        "dive to depths of 在潜水语境中 dive 不及物",
+        "how ... function 名词性从句，不用语序倒装"
+      ]
+    },
+    {
+      "id": "t060",
+      "lv": "hard",
+      "tp": "环境",
+      "zh": "空气质量的改善是北京过去十年最显著的变化之一。通过压减燃煤、淘汰老旧车辆和迁移重工业企业，细颗粒物年均浓度下降了一半以上。不过，臭氧污染在夏季仍然突出。",
+      "en": "The improvement in air quality is one of the most visible changes in Beijing over the past decade. By cutting coal use, retiring old vehicles and relocating heavy industry, the city has reduced average annual concentrations of fine particulate matter by more than half. Ozone pollution, however, remains serious in summer.",
+      "tip": [
+        "by doing 表示方式，三个动名词并列",
+        "reduce ... by more than half，by 表降幅",
+        "however 插入句中，前后用逗号"
+      ]
+    },
+    {
+      "id": "t061",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "灵活就业在中国越来越普遍。外卖骑手、网约车司机和自由职业者构成了一个新的劳动群体。他们工作时间自由，却往往缺少稳定的社会保障。如何在灵活与保障之间取得平衡，是政策制定者需要回答的问题。",
+      "en": "Flexible employment is becoming increasingly common in China. Delivery riders, ride-hailing drivers and freelancers form a new group of workers. They enjoy flexible hours but often lack stable social security. How to strike a balance between flexibility and protection is a question policymakers must answer.",
+      "tip": [
+        "ride-hailing driver 网约车司机",
+        "strike a balance between A and B 在两者间取得平衡",
+        "policymakers must answer 省略 who 的定语从句"
+      ]
+    },
+    {
+      "id": "t062",
+      "lv": "hard",
+      "tp": "文化",
+      "zh": "汉语热在全球范围内持续升温。目前，已有七十多个国家将汉语纳入国民教育体系。学习汉语不仅是为了职业发展，也成为许多人了解中国文化的途径。",
+      "en": "Interest in learning Chinese continues to grow around the world. More than seventy countries have now included Chinese in their national education systems. Learning the language serves not only career development but also, for many people, a way to understand Chinese culture.",
+      "tip": [
+        "interest in doing 对……的兴趣，比 Chinese fever 更地道",
+        "include ... in ... 把……纳入",
+        "serves ... a way 中 serve 表「充当」，注意与 serve as 区分"
+      ]
+    },
+    {
+      "id": "t063",
+      "lv": "hard",
+      "tp": "教育",
+      "zh": "在线教育在偏远地区发挥了重要作用。通过直播课堂，山区的学生可以听到城市名师的讲解。但要真正缩小教育差距，还需要解决网络覆盖和师资培养等根本问题。",
+      "en": "Online education has played an important role in remote areas. Through live-streamed classes, students in mountainous regions can attend lectures given by outstanding teachers in cities. Yet closing the education gap truly requires addressing fundamental issues such as internet coverage and teacher training.",
+      "tip": [
+        "play a role in 在……中起作用",
+        "lectures given by ... 过去分词作后置定语",
+        "require doing 需要做，address issues 解决问题"
+      ]
+    },
+    {
+      "id": "t064",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "知识产权保护力度的大小，直接影响企业创新的意愿。近年来，中国修改了专利法和商标法，提高了侵权赔偿标准。越来越多的外国企业因此愿意在中国申请专利。",
+      "en": "The strength of intellectual property protection directly affects companies' willingness to innovate. In recent years, China has amended its patent and trademark laws and raised the standards of compensation for infringement. As a result, more and more foreign companies are willing to apply for patents in China.",
+      "tip": [
+        "willingness to do 做……的意愿，名词化更书面",
+        "compensation for infringement 侵权赔偿",
+        "As a result 引出结果，用逗号与主句隔开"
+      ]
+    },
+    {
+      "id": "t065",
+      "lv": "hard",
+      "tp": "生态",
+      "zh": "长江十年禁渔计划于 2021 年全面启动。这一措施旨在让鱼类资源得到恢复，也迫使数万名渔民转产转业。监测显示，部分江段的鱼类种群数量已出现回升迹象。",
+      "en": "A ten-year fishing ban on the Yangtze River took full effect in 2021. The measure aims to restore fish stocks and has forced tens of thousands of fishermen to change their trades. Monitoring shows that fish populations in some sections of the river have begun to recover.",
+      "tip": [
+        "take effect 生效，比 start 正式",
+        "aim to do 旨在做",
+        "change one's trade 转产转业，trade 指行业"
+      ]
+    },
+    {
+      "id": "t066",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "中国的生育率持续走低，2022 年人口出现负增长。高昂的住房和教育成本被认为是主要原因之一。各地陆续出台补贴和延长产假等措施，但效果尚待观察。",
+      "en": "China's fertility rate has continued to fall, and the population shrank in 2022. The high cost of housing and education is regarded as one of the main reasons. Local governments have introduced measures such as subsidies and longer parental leave, but their effects remain to be seen.",
+      "tip": [
+        "shrank 为 shrink 的过去式，指人口负增长",
+        "be regarded as 被认为，被动结构",
+        "remain to be seen 尚待观察，为固定表达"
+      ]
+    },
+    {
+      "id": "t067",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "5G 网络的商用推动了工业互联网的发展。在智能工厂里，机器之间可以实时交换数据，生产线能够根据订单自动调整。这种变化提高了效率，也对工人的技能提出了更高要求。",
+      "en": "The commercial use of 5G networks has driven the development of the industrial internet. In smart factories, machines exchange data in real time, and production lines can adjust automatically to orders. Such changes raise efficiency and also place higher demands on workers' skills.",
+      "tip": [
+        "commercial use 商用，名词短语作主语",
+        "in real time 实时，固定搭配",
+        "place demands on 对……提出要求"
+      ]
+    },
+    {
+      "id": "t068",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "生成式人工智能的快速普及引发了广泛讨论。它能显著提高写作和编程的效率，也可能被用于制造虚假信息。因此，如何在鼓励创新与防范风险之间找到平衡，成为各国共同面对的难题。",
+      "en": "The rapid spread of generative artificial intelligence has triggered widespread debate. It can significantly improve the efficiency of writing and programming, but it may also be used to produce disinformation. Finding a balance between encouraging innovation and preventing risks has therefore become a shared challenge for all countries.",
+      "tip": [
+        "generative AI 生成式人工智能，为通用译法",
+        "be used to do 被用来做，注意与 used to do 区分",
+        "Finding ... 动名词短语作主语"
+      ]
+    },
+    {
+      "id": "t069",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "平台经济的迅速扩张带来了新的监管问题。大型平台掌握着海量数据和流量入口，容易形成市场支配地位。近年来，中国加强了反垄断执法，要求平台不得强迫商家「二选一」。",
+      "en": "The rapid expansion of the platform economy has created new regulatory problems. Large platforms control massive amounts of data and gateways to online traffic, which makes it easy for them to gain a dominant market position. In recent years, China has strengthened antitrust enforcement, requiring platforms not to force merchants to choose between them.",
+      "tip": [
+        "gateway to traffic 流量入口",
+        "which 引导非限制性定语从句，指代前句",
+        "requiring ... 现在分词作伴随状语"
+      ]
+    },
+    {
+      "id": "t070",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "社会保障体系的覆盖面不断扩大。目前，基本医疗保险覆盖十三亿多人，基本养老保险参保人数超过十亿。不过，不同群体之间的待遇差距仍然明显，制度整合仍需推进。",
+      "en": "The coverage of the social security system has kept expanding. Basic medical insurance now covers more than 1.3 billion people, and the number of people enrolled in basic pension insurance exceeds one billion. However, gaps in benefits between different groups remain obvious, and institutional integration still needs to be advanced.",
+      "tip": [
+        "coverage 覆盖面，为社保类文本核心词",
+        "be enrolled in 参加（保险、课程）",
+        "institutional integration 制度整合"
+      ]
+    },
+    {
+      "id": "t071",
+      "lv": "hard",
+      "tp": "环境",
+      "zh": "全国碳排放权交易市场于 2021 年上线。发电企业需要为超额排放购买配额，减排效率高的企业则可以出售剩余配额获利。这一机制试图用市场价格引导企业减排。",
+      "en": "The national carbon emissions trading market was launched in 2021. Power companies must buy allowances for emissions beyond their quota, while companies that cut emissions efficiently can profit by selling surplus allowances. The mechanism seeks to guide companies towards lower emissions through market prices.",
+      "tip": [
+        "emissions trading market 碳排放权交易市场",
+        "beyond one's quota 超出配额",
+        "guide sb towards 引导某人走向"
+      ]
+    },
+    {
+      "id": "t072",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "芯片是现代工业的基础，也是国际竞争的焦点。中国每年进口芯片的金额超过石油，对外依存度较高。提升本土设计和制造能力，需要长期的基础研究投入和人才培养。",
+      "en": "Chips are the foundation of modern industry and a focus of international competition. China spends more on imported chips each year than on oil, which reflects a high degree of dependence on foreign supply. Strengthening domestic design and manufacturing capacity requires long-term investment in basic research and talent development.",
+      "tip": [
+        "spend on 在……上花费，比较对象用 than on oil",
+        "which 引导定语从句，指代前句事实",
+        "domestic 本土的，与 foreign 相对"
+      ]
+    },
+    {
+      "id": "t073",
+      "lv": "hard",
+      "tp": "教育",
+      "zh": "科研评价体系正在从「唯论文」转向更加多元的标准。一些高校不再把论文数量作为晋升的唯一依据，而是更看重成果的实际贡献。这一改革能否真正落地，取决于配套制度的完善。",
+      "en": "The research evaluation system is shifting from a sole focus on published papers to more diverse criteria. Some universities no longer treat the number of papers as the only basis for promotion and attach greater weight to the real impact of research. Whether this reform can be truly implemented depends on the improvement of supporting institutions.",
+      "tip": [
+        "shift from A to B 从 A 转向 B",
+        "attach weight to 重视，weight 前可加 greater",
+        "Whether ... 主语从句，谓语用 depends"
+      ]
+    },
+    {
+      "id": "t074",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "养老服务需求快速增长，传统的家庭养老模式难以独力承担。社区养老和机构养老因此迅速发展，但专业护理人员严重不足。如何吸引年轻人进入这一行业，是亟待解决的问题。",
+      "en": "Demand for elderly care is growing rapidly, and the traditional model of family-based care can no longer bear the burden alone. Community-based and institutional care have therefore developed quickly, yet professional carers are in serious shortage. How to attract young people into the industry is an urgent problem to be solved.",
+      "tip": [
+        "bear the burden 承担负担",
+        "be in shortage 短缺，也可用 be in short supply",
+        "an urgent problem to be solved 不定式被动作定语"
+      ]
+    },
+    {
+      "id": "t075",
+      "lv": "hard",
+      "tp": "环境",
+      "zh": "光伏产业的成本在过去十年下降了约九成。中国已成为全球最大的光伏组件生产国，产品出口到两百多个国家和地区。但产能过剩和价格战也给行业带来压力。",
+      "en": "The cost of solar power has fallen by about 90 percent over the past decade. China has become the world's largest producer of photovoltaic modules, exporting its products to more than 200 countries and regions. Overcapacity and price wars, however, have also put pressure on the industry.",
+      "tip": [
+        "fall by 下降幅度用 by，下降到用 to",
+        "photovoltaic module 光伏组件",
+        "overcapacity 产能过剩，为经济类高频词"
+      ]
+    },
+    {
+      "id": "t076",
+      "lv": "hard",
+      "tp": "文化",
+      "zh": "中国影视作品正在加快「出海」步伐。一些剧集通过流媒体平台进入东南亚和非洲市场，受到当地观众欢迎。不过，文化差异和翻译质量仍是影响传播效果的关键因素。",
+      "en": "Chinese films and television dramas are speeding up their going-global efforts. Some series have entered Southeast Asian and African markets through streaming platforms and are well received by local audiences. Cultural differences and translation quality, however, remain key factors affecting how widely they spread.",
+      "tip": [
+        "going-global efforts 出海，用引号词转译",
+        "be well received 受到欢迎，为固定被动结构",
+        "how widely they spread 名词性从句作宾语"
+      ]
+    },
+    {
+      "id": "t077",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "中小企业贡献了中国一半以上的税收和八成以上的城镇就业。但它们获得的银行贷款比例却明显偏低。近年来，政府推动普惠金融，希望缓解中小企业融资难的问题。",
+      "en": "Small and medium-sized enterprises contribute more than half of China's tax revenue and over 80 percent of urban employment. Yet the share of bank loans they receive is markedly low. In recent years, the government has promoted inclusive finance in the hope of easing their difficulty in obtaining credit.",
+      "tip": [
+        "contribute 占（比例），主语为企业",
+        "the share ... they receive 省略 that 的定语从句",
+        "in the hope of doing 希望做"
+      ]
+    },
+    {
+      "id": "t078",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "储能技术是可再生能源大规模应用的关键。风能和太阳能发电受天气影响，容易出现波动。只有把多余的电储存起来，电网才能保持稳定运行。",
+      "en": "Energy storage technology is key to the large-scale use of renewable energy. Power generated from wind and solar sources fluctuates with the weather. Only by storing surplus electricity can the grid maintain stable operation.",
+      "tip": [
+        "be key to 是……的关键，to 为介词",
+        "fluctuate with 随……波动",
+        "Only by ... can ... 部分倒装结构"
+      ]
+    },
+    {
+      "id": "t079",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "「共同富裕」并不意味着平均分配。政策的目标是扩大中等收入群体，提高低收入者的收入水平。为此，需要在教育、就业和税收等方面进行系统性改革。",
+      "en": "Common prosperity does not mean equal distribution. The goal of the policy is to expand the middle-income group and raise the incomes of low-income earners. Achieving this requires systematic reform in areas such as education, employment and taxation.",
+      "tip": [
+        "common prosperity 共同富裕，为固定译法",
+        "middle-income group 中等收入群体",
+        "Achieving this 动名词作主语，回指上句"
+      ]
+    },
+    {
+      "id": "t080",
+      "lv": "hard",
+      "tp": "教育",
+      "zh": "出国留学的人数在经历多年增长后趋于平稳。与此同时，回国发展的留学生比例不断上升。国内就业市场的竞争加剧，使「海归」的光环逐渐淡化。",
+      "en": "The number of students studying abroad has levelled off after years of growth. Meanwhile, the proportion of overseas graduates returning home has kept rising. Intensified competition in the domestic job market has gradually dimmed the lustre of a foreign degree.",
+      "tip": [
+        "level off 趋于平稳，为图表类高频动词",
+        "the proportion of ... has kept rising 主谓一致",
+        "dim the lustre 使光环淡化，为比喻表达"
+      ]
+    },
+    {
+      "id": "t081",
+      "lv": "hard",
+      "tp": "文化",
+      "zh": "国际传播能力的提升，不仅取决于语言水平，也取决于叙事方式。生硬的宣传难以引起共鸣，真实具体的故事更容易被接受。因此，讲述者需要了解受众的文化背景和关注点。",
+      "en": "Improving international communication capacity depends not only on language proficiency but also on narrative approach. Rigid propaganda rarely strikes a chord, whereas authentic and specific stories are more readily accepted. Storytellers therefore need to understand their audiences' cultural backgrounds and concerns.",
+      "tip": [
+        "depend on 取决于",
+        "strike a chord 引起共鸣，为固定搭配",
+        "whereas 表对比，连接两个并列分句"
+      ]
+    },
+    {
+      "id": "t082",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "绿色金融为环保项目提供了新的资金来源。银行发行绿色债券，把募集的资金投向清洁能源和污染治理。但如何界定「绿色」，仍需统一的标准和第三方认证。",
+      "en": "Green finance provides a new source of funding for environmental projects. Banks issue green bonds and channel the proceeds into clean energy and pollution control. Yet defining what counts as green still requires unified standards and third-party certification.",
+      "tip": [
+        "channel ... into 把……投入，动词用法",
+        "proceeds 募集资金，常用复数",
+        "what counts as green 名词性从句作宾语"
+      ]
+    },
+    {
+      "id": "t083",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "医疗保险的异地结算让流动人口受益。过去，患者需要先垫付费用再回原籍报销；如今，在就医地就能直接结算。这一改变看似技术问题，实则涉及制度衔接。",
+      "en": "Cross-regional settlement of medical insurance benefits migrant populations. In the past, patients had to pay upfront and then claim reimbursement back in their home province; today they can settle bills directly where they receive treatment. What looks like a technical change actually involves linking different institutional systems.",
+      "tip": [
+        "cross-regional settlement 异地结算",
+        "pay upfront 垫付，claim reimbursement 报销",
+        "What looks like ... 主语从句，谓语用 involves"
+      ]
+    },
+    {
+      "id": "t084",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "自动驾驶技术正从试验场走向城市道路。部分城市已允许无人驾驶出租车在特定区域运营。但事故责任如何认定、数据如何监管，相关法律仍不完善。",
+      "en": "Self-driving technology is moving from test tracks onto city roads. Some cities now allow robotaxis to operate in designated areas. Yet the law remains incomplete on how to assign liability in accidents and how to regulate data.",
+      "tip": [
+        "robotaxi 无人驾驶出租车，为行业通用词",
+        "assign liability 认定责任",
+        "remains incomplete on ... 在……方面仍不完善"
+      ]
+    },
+    {
+      "id": "t085",
+      "lv": "hard",
+      "tp": "环境",
+      "zh": "极端天气事件的频率和强度都在上升。城市排水系统在暴雨面前显得脆弱，内涝造成严重损失。建设「海绵城市」，通过透水路面和绿地蓄水，成为应对之策。",
+      "en": "Extreme weather events are increasing in both frequency and intensity. Urban drainage systems appear fragile in the face of heavy rain, and waterlogging causes serious losses. Building sponge cities, which absorb water through permeable pavements and green spaces, has become a response.",
+      "tip": [
+        "in frequency and intensity 在频率和强度上",
+        "in the face of 面对，比 facing 更书面",
+        "which 引导定语从句，指代 sponge cities"
+      ]
+    },
+    {
+      "id": "t086",
+      "lv": "hard",
+      "tp": "经济",
+      "zh": "直播带货在短短几年内成长为万亿级市场。主播通过实时演示和互动促成交易，缩短了消费者的决策过程。但虚假宣传和售后缺失等问题也随之出现。",
+      "en": "Livestream shopping has grown into a trillion-yuan market in just a few years. Hosts close deals through live demonstrations and interaction, shortening consumers' decision-making process. Yet problems such as false advertising and poor after-sales service have emerged alongside it.",
+      "tip": [
+        "livestream shopping 直播带货",
+        "close a deal 促成交易",
+        "alongside it 随之，it 指前句现象"
+      ]
+    },
+    {
+      "id": "t087",
+      "lv": "hard",
+      "tp": "文化",
+      "zh": "电子竞技已进入亚运会正式比赛项目。职业选手的训练强度不亚于传统运动员，但职业寿命往往更短。如何保障退役选手的转型，是行业需要面对的问题。",
+      "en": "Esports has become an official event at the Asian Games. Professional players train as intensively as traditional athletes, yet their careers are often shorter. How to support retired players in changing careers is a problem the industry has to face.",
+      "tip": [
+        "official event 正式比赛项目",
+        "as intensively as 与……同等强度",
+        "support sb in doing 支持某人做"
+      ]
+    },
+    {
+      "id": "t088",
+      "lv": "hard",
+      "tp": "社会",
+      "zh": "住房问题牵动着大城市的年轻人。房价收入比居高不下，租房成为多数人的现实选择。近年来，保障性租赁住房的建设规模不断扩大，试图缓解这一矛盾。",
+      "en": "Housing concerns young people in big cities. With the price-to-income ratio remaining high, renting has become the realistic choice for most of them. In recent years, the construction of subsidised rental housing has been scaled up in an attempt to ease the tension.",
+      "tip": [
+        "price-to-income ratio 房价收入比",
+        "With ... remaining high 独立主格结构",
+        "be scaled up 规模扩大，被动语态"
+      ]
+    },
+    {
+      "id": "t089",
+      "lv": "hard",
+      "tp": "科技",
+      "zh": "开源软件支撑着现代数字基础设施，却常由少数志愿者维护。一旦关键项目出现安全漏洞，影响会迅速扩散。如何为开源生态提供可持续的资金支持，已成为业界关注的话题。",
+      "en": "Open-source software underpins modern digital infrastructure, yet it is often maintained by a small number of volunteers. Once a critical project develops a security flaw, the impact spreads quickly. How to provide sustainable funding for the open-source ecosystem has become a topic of concern in the industry.",
+      "tip": [
+        "underpin 支撑，比 support 更强调基础性",
+        "Once 引导条件状语从句，主句用一般现在时",
+        "funding 资金，不可数"
+      ]
+    },
+    {
+      "id": "t090",
+      "lv": "hard",
+      "tp": "教育",
+      "zh": "高校学科调整的速度正在加快。一些传统专业因就业市场萎缩而被撤销，人工智能、集成电路等方向则不断增设。这种调整反映了产业结构的变迁，也给学生选择专业带来不确定性。",
+      "en": "The adjustment of university disciplines is accelerating. Some traditional majors have been discontinued as their job markets shrink, while programmes in artificial intelligence and integrated circuits keep being added. Such adjustments reflect changes in the industrial structure and bring uncertainty to students choosing their majors.",
+      "tip": [
+        "discontinue a major 撤销专业",
+        "while 表对比，连接两个分句",
+        "bring uncertainty to 给……带来不确定性"
+      ]
+    }
+  ]
+}

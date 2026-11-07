@@ -1,6 +1,6 @@
 # 六级打卡台 · CET-6 Daily
 
-> [Prompt Lab](../..) / projects / cet6-daily
+> [Prompt Lab](../README.md) / cet6-daily
 
 > 一个**单文件、零依赖、打开即用**的六级备考打卡台。
 > 每天自动抽出「今天该背哪些词、读哪两篇、听哪几段、翻哪一段、写哪一题」，
@@ -8,11 +8,9 @@
 
 ![今日任务](docs/screenshots/desktop-today.png)
 
-提示词与算法细节全部公开：
-[docs/prompt.md](docs/prompt.md)（当初那份提示词，逐字保留）· [docs/prompt-notes.md](docs/prompt-notes.md)（带导读与写作经验）· [docs/algorithm.md](docs/algorithm.md)
+这份产物的完整提示词就放在仓库根目录，[**PROMPT.md**](../PROMPT.md)，逐字保留；抽取算法与存档结构见 [docs/design.md](docs/design.md)。
 
-> 想直接用：直接下载 `index.html` 双击打开即可，不需要任何环境。
-> 本仓库的 Pages 由 GitHub Actions 自动发布（`.github/workflows/pages.yml`），推送到 `main` 后一分钟内生效。
+> 想直接用：下载 `index.html` 双击打开即可，不需要任何环境。仓库的 Pages 由 GitHub Actions 自动发布（`.github/workflows/pages.yml`），推送到 `main` 后一分钟内生效。
 
 ---
 
@@ -128,7 +126,7 @@
 
 ![打卡统计](docs/screenshots/desktop-stats.png)
 
-完整规则（含听力凑时长、自建素材置顶、记录上限）见 [docs/algorithm.md](docs/algorithm.md)。
+完整规则（含听力凑时长、自建素材置顶、记录上限）见 [docs/design.md](docs/design.md) 的上篇。
 
 ---
 
@@ -177,7 +175,7 @@ URL 截取**排除中文标点**，否则「看这个 https://a.com/x，很有�
 }
 ```
 
-字段级说明见 [docs/data-model.md](docs/data-model.md)。
+字段级说明见 [docs/design.md](docs/design.md) 的下篇。
 
 ---
 
@@ -195,27 +193,25 @@ cet6-daily/
 ├── data/
 │   ├── vocab.json          # 3920 词条 + 四个词库的窗口定义
 │   ├── reading.json        # 阅读 180（易 90 / 难 90）
-│   ├── listening.json      # 听力 145（B 站真实视频页，带分钟数）
-│   ├── translation_*.json  # 翻译 90（易 45 / 难 45）
-│   └── writing_*.json      # 写作 90（六类各 15）
+│   ├── listening.json      # 听力原始 193 条（构建时取 145，B 站真实视频页，带分钟数）
+│   ├── translation.json    # 翻译 90（易 45 / 难 45）
+│   └── writing.json        # 写作 90（六类各 15）
 ├── tools/
 │   ├── build.py            # 把 src + data 打成 index.html，并校验题库规模
 │   ├── build_vocab.py      # 从开源词书生成 vocab.json
 │   ├── harvest_reading.py  # 抓 RSS/Atom 生成 reading.json
 │   ├── harvest_listening.py # 抓 B 站搜索页生成 listening.json
-│   ├── shots.py            # 无头浏览器出截图
-│   └── probe.py            # 布局溢出诊断
+│   └── shots.py            # 无头浏览器出截图
 ├── tests/
 │   ├── parse.test.js       # 素材解析 13 条用例
 │   ├── draw.test.js        # 400 天抽取压力测试
 │   └── smoke.test.js       # 页面渲染 + 交互冒烟
 └── docs/
-    ├── prompt.md           # 当初那份提示词（原文，逐字保留）
-    ├── prompt-notes.md     # 提示词导读：结构、写法与经验
-    ├── algorithm.md        # 抽取算法与边界
-    ├── data-model.md       # 存档结构
-    └── screenshots/
+    ├── design.md           # 抽取算法（上篇）+ 存档结构（下篇）
+    └── screenshots/        # 六张截图，桌面四张 + 手机两张
 ```
+
+数据文件是「一个板块一个文件」，改内容时不用翻好几份；`build.py` 也兼容早先按编号分片的结构（`translation_easy_1.json` 这类），分片和整份共存不会报错。
 
 ---
 
@@ -252,8 +248,17 @@ python tools/shots.py
 
 ## 怎么改内容
 
-**只改题库，不动代码**：编辑 `data/*.json`，跑 `python tools/build.py`。
-题目对象的字段在各文件的头部注释里，阅读/听力字段不同（听力多了 `min`），翻译多了 `en` 与 `tip`，写作多了 `ol/es/ph`。
+**只改题库，不动代码**：编辑 `data/` 下对应文件，跑 `python tools/build.py`。五个板块字段不同：
+
+| 文件 | 字段 |
+|---|---|
+| `reading.json` | `id / title / url / src / stars / min / level` |
+| `listening.json` | `id / title / url / src / grp / min / up` |
+| `translation.json` | `id / lv / tp / zh / en / tip` |
+| `writing.json` | `id / tp / ti / dir / ol / fr / es / ph` |
+| `vocab.json` | `src / count / words / libs` |
+
+`level` / `lv` 只取 `easy` 或 `hard`；听力 `grp` 决定配额分组（`exam / skill / shadow / ted / teded`）；写作 `ol` 是三点提纲、`fr` 是三段框架、`es` 是范文、`ph` 是可替换词组。
 
 **加一个新板块**：不推荐。五个板块的键 `w/r/l/t/p` 贯穿存档、统计、热力图和推送，加第六项要改十几处，得不偿失。
 
@@ -276,9 +281,14 @@ python tools/shots.py
 
 ## 参与贡献
 
-欢迎提 issue 与 PR。开工前请先读 [CONTRIBUTING.md](CONTRIBUTING.md)：里面写了目录分工、六条不能破的硬性约束、改题库的字段规范，以及一份「什么算跑通了」的检查清单。
+欢迎提 issue 与 PR。动手前先看两条硬约束，它们由 `tools/build.py` 与 `.github/workflows/cet6-daily-test.yml` 强制执行：
 
-版本记录见 [CHANGELOG.md](CHANGELOG.md)。
+1. **产物必须可重复构建**：`python tools/build.py` 连跑两次，`index.html` 字节完全一致。改了 `src/` 或 `data/` 要连产物一起提交，CI 会重建并断言 `git diff` 为空。
+2. **题库规模不能变**：阅读 180（易 90 / 难 90）、听力 145、翻译 90、写作 90、四库 2607 / 1302 / 2345 / 1313，任何一项不符 `build.py` 直接失败。
+
+字段规范、目录分工与代码风格见根目录 [README 的「修改与贡献」一节](../README.md#修改与贡献)。
+
+当前版本 **v1.0.0**（2026-11-06 首发）。
 
 ## 致谢
 
@@ -289,4 +299,4 @@ python tools/shots.py
 
 ## 许可
 
-[MIT](LICENSE) © 2026 Amkles · 数据智能工坊
+[MIT](../LICENSE) © 2026 Amkles · 数据智能工坊

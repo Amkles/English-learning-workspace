@@ -32,10 +32,19 @@ def load(name):
 
 
 def load_items(prefix):
+    """读取 <prefix>.json 的 items，按 id 排序。
+
+    也兼容按编号分片的老结构（translation_easy_1.json 这类），
+    合并成分片后再跑构建时不会报错。
+    """
     out = []
-    for name in sorted(os.listdir(DATA)):
-        if name.startswith(prefix + "_") and name.endswith(".json"):
-            out.extend(load(name)["items"])
+    single = os.path.join(DATA, prefix + ".json")
+    if os.path.exists(single):
+        out.extend(load(prefix + ".json")["items"])
+    else:
+        for name in sorted(os.listdir(DATA)):
+            if name.startswith(prefix + "_") and name.endswith(".json"):
+                out.extend(load(name)["items"])
     out.sort(key=lambda x: x["id"])
     return out
 
