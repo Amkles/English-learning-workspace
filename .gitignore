@@ -12,3 +12,6 @@ desktop.ini
 *.log
 *.tmp
 _backup*.json
+
+# 本地个人版（含真实研究数据，不发布）
+personal/
