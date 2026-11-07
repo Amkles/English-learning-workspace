@@ -8,7 +8,8 @@
 
 ![今日任务](docs/screenshots/desktop-today.png)
 
-提示词与算法细节全部公开：[docs/prompt.md](docs/prompt.md) · [docs/algorithm.md](docs/algorithm.md)
+提示词与算法细节全部公开：
+[docs/prompt.md](docs/prompt.md)（当初那份提示词，逐字保留）· [docs/prompt-notes.md](docs/prompt-notes.md)（带导读与写作经验）· [docs/algorithm.md](docs/algorithm.md)
 
 > 想直接用：直接下载 `index.html` 双击打开即可，不需要任何环境。
 > 本仓库的 Pages 由 GitHub Actions 自动发布（`.github/workflows/pages.yml`），推送到 `main` 后一分钟内生效。
@@ -209,7 +210,8 @@ cet6-daily/
 │   ├── draw.test.js        # 400 天抽取压力测试
 │   └── smoke.test.js       # 页面渲染 + 交互冒烟
 └── docs/
-    ├── prompt.md           # 生成这个项目的完整提示词
+    ├── prompt.md           # 当初那份提示词（原文，逐字保留）
+    ├── prompt-notes.md     # 提示词导读：结构、写法与经验
     ├── algorithm.md        # 抽取算法与边界
     ├── data-model.md       # 存档结构
     └── screenshots/
