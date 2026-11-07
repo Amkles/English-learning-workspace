@@ -16,8 +16,8 @@ prompt-lab/
 ├── .gitattributes         # 统一 LF，标记产物与题库为生成文件
 ├── .gitignore
 ├── .github/workflows/
-│   ├── pages.yml          # 发布 cet6-daily/index.html 到 Pages
-│   └── cet6-daily-test.yml# 重建产物 + 跑三套测试
+│   ├── pages.yml            # 发布 cet6-daily/index.html 到 Pages
+│   └── cet6-daily-test.yml  # 重建产物 + 跑三套测试
 └── cet6-daily/            # 项目：六级打卡台
     ├── README.md          # 功能、抽取规则、构建与已知限制
     ├── index.html         # 产物：684 KB 单文件，双击即用
