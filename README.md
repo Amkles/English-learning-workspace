@@ -13,6 +13,8 @@ prompt-lab/
 ├── PROMPT.md              # 完整提示词原文（六级打卡台），逐字保留
 ├── README.md              # 本文件
 ├── LICENSE                # MIT
+├── .gitattributes         # 统一 LF，标记产物与题库为生成文件
+├── .gitignore
 ├── .github/workflows/
 │   ├── pages.yml          # 发布 cet6-daily/index.html 到 Pages
 │   └── cet6-daily-test.yml# 重建产物 + 跑三套测试
@@ -44,7 +46,7 @@ prompt-lab/
 
 完整提示词放在**仓库根目录**，不打进子文件夹——它是这个仓库的主角，打开就该看到。
 
-那份提示词长约 1.1 万字，结构是四段：**硬性约束 → 页面与交互 → 抽取算法 → 验收与易错点**。
+那份提示词约 6900 字、14 个小节，结构是四段：**硬性约束 → 页面与交互 → 抽取算法 → 验收与易错点**。
 
 三段经验值得单独说：
 
