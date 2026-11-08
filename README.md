@@ -3,6 +3,8 @@
 > 一个**单文件、零依赖、打开即用**的学术研究管理工作台。
 > 任务管理、研究进度看板、习惯打卡三块联动；数据只存在你自己的浏览器里。
 > 提示词与生成过程完整公开，见 [docs/prompt.md](docs/prompt.md)。
+>
+> 在线试用：<https://amkles.github.io/academic-workspace/>
 
 ![桌面端任务管理](docs/screenshots/desktop-tasks.png)
 
@@ -72,7 +74,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/YOUR_NAME/academic-workspace.git
+git clone https://github.com/Amkles/academic-workspace.git
 cd academic-workspace
 ```
 
@@ -85,7 +87,7 @@ python -m http.server 8000
 # 浏览器访问 http://localhost:8000
 ```
 
-**手机使用**：把 `index.html` 发到手机用浏览器打开，或用 GitHub Pages 部署后访问链接，再「添加到主屏幕」，就是一个全屏 App 的观感。
+**手机使用**：直接访问 <https://amkles.github.io/academic-workspace/>，或把 `index.html` 发到手机用浏览器打开，再「添加到主屏幕」，就是一个全屏 App 的观感。
 
 ![移动端](docs/screenshots/mobile-tasks.png)
 
