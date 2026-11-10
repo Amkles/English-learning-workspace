@@ -1,10 +1,12 @@
 # 学术工作台 · Academic Workspace
 
+> [Prompt Lab](../README.md) / academic-workspace
+
 > 一个**单文件、零依赖、打开即用**的学术研究管理工作台。
 > 任务管理、研究进度看板、习惯打卡三块联动；数据只存在你自己的浏览器里。
 > 提示词与生成过程完整公开，见 [docs/prompt.md](docs/prompt.md)。
 >
-> 在线试用：<https://amkles.github.io/academic-workspace/>
+> 在线试用：<https://amkles.github.io/prompt-lab/academic-workspace/>
 
 ![桌面端任务管理](docs/screenshots/desktop-tasks.png)
 
@@ -74,8 +76,8 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/Amkles/academic-workspace.git
-cd academic-workspace
+git clone https://github.com/Amkles/prompt-lab.git
+cd prompt-lab/academic-workspace
 ```
 
 然后**双击 `index.html`** 即可，不需要任何构建步骤。
@@ -87,7 +89,7 @@ python -m http.server 8000
 # 浏览器访问 http://localhost:8000
 ```
 
-**手机使用**：直接访问 <https://amkles.github.io/academic-workspace/>，或把 `index.html` 发到手机用浏览器打开，再「添加到主屏幕」，就是一个全屏 App 的观感。
+**手机使用**：直接访问 <https://amkles.github.io/prompt-lab/academic-workspace/>，或把 `index.html` 发到手机用浏览器打开，再「添加到主屏幕」，就是一个全屏 App 的观感。
 
 ![移动端](docs/screenshots/mobile-tasks.png)
 
@@ -198,4 +200,4 @@ A single-file, zero-dependency academic workspace for grad students: task manage
 
 ## License
 
-[MIT](LICENSE) © 2026 Amkles
+[MIT](../LICENSE) © 2026 Amkles

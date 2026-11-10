@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prompt Lab · 提示词工程实验集</title>
+<meta name="description" content="用提示词工程产出的单文件工作台：六级打卡台、硕士学术工作台。零依赖，数据存本地。">
+<style>
+  :root {
+    --bg: #FBFAFC;
+    --ink: #1C1B22;
+    --ink-2: #5A5766;
+    --line: #E7E4EC;
+    --card: #FFFFFF;
+    --pink: #D6336C;
+    --violet: #5B3FA8;
+    --radius: 16px;
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", Roboto, sans-serif;
+    font-size: 16px;
+    line-height: 1.65;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 56px 24px 72px; }
+  header h1 { font-size: 30px; line-height: 1.3; margin: 0 0 10px; letter-spacing: -0.01em; }
+  header p { color: var(--ink-2); margin: 0; max-width: 46em; }
+  .rule { height: 1px; background: var(--line); margin: 32px 0; border: 0; }
+
+  .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+  .card {
+    display: block;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    padding: 24px 24px 20px;
+    text-decoration: none;
+    color: inherit;
+    transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+  }
+  .card:hover, .card:focus-visible {
+    transform: translateY(-2px);
+    border-color: #D8D2E2;
+    box-shadow: 0 10px 28px rgba(28, 27, 34, .08);
+    outline: none;
+  }
+  .tag {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: .04em;
+    padding: 2px 9px;
+    border-radius: 999px;
+    margin-bottom: 14px;
+    color: #fff;
+  }
+  .tag.en { background: var(--pink); }
+  .tag.ac { background: var(--violet); }
+  .card h2 { font-size: 19px; margin: 0 0 8px; }
+  .card p { margin: 0; color: var(--ink-2); font-size: 15px; }
+  .meta { margin-top: 16px; font-size: 13px; color: #8A8698; display: flex; gap: 14px; flex-wrap: wrap; }
+  .go { margin-top: 18px; font-size: 14px; color: var(--ink); font-weight: 600; }
+  .go::after { content: " →"; }
+
+  footer { margin-top: 40px; color: #8A8698; font-size: 13.5px; }
+  footer a { color: var(--ink-2); }
+  footer p { margin: 6px 0; }
+  @media (max-width: 520px) {
+    .wrap { padding: 36px 18px 56px; }
+    header h1 { font-size: 24px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Prompt Lab · 提示词工程实验集</h1>
+    <p>把一段长提示词，做成能跑、能测、能改的东西。下面每个工作台都是单文件 HTML：CSS、JS、图标、图表全部内联，双击即用，数据只存在你自己的浏览器里。</p>
+  </header>
+
+  <hr class="rule">
+
+  <div class="grid">
+    <a class="card" href="./english-learning/cet6-daily/">
+      <span class="tag en">英语学习</span>
+      <h2>六级打卡台 · CET-6 Daily</h2>
+      <p>每天打开就知道该背哪些词、读哪篇文章、听哪条音频、翻哪段、写哪题。做完打勾，长期看统计。</p>
+      <div class="meta"><span>单词 · 阅读 · 听力 · 翻译 · 写作</span><span>3920 词 + 505 条素材</span></div>
+      <div class="go">打开工作台</div>
+    </a>
+
+    <a class="card" href="./academic-workspace/">
+      <span class="tag ac">学术研究</span>
+      <h2>硕士学术工作台 · Academic Workspace</h2>
+      <p>任务管理、研究进度看板、习惯打卡三块联动：看板加任务自动进今日待办，任一边完成另一边同步。</p>
+      <div class="meta"><span>今日 / 本周 / 本月 / 全部</span><span>三块双向联动</span></div>
+      <div class="go">打开工作台</div>
+    </a>
+  </div>
+
+  <footer>
+    <p>两个工作台的提示词原文、设计文档、断言式测试都在仓库里，可以照抄改成自己的场景。</p>
+    <p><a href="https://github.com/Amkles/prompt-lab">github.com/Amkles/prompt-lab</a> · MIT · 不采集数据，不上报，不要求注册</p>
+  </footer>
+</div>
+</body>
+</html>

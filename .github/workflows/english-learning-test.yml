@@ -1,19 +1,19 @@
-name: cet6-daily
+name: english-learning
 
 on:
   push:
     branches: [main]
     paths:
-      - 'cet6-daily/**'
-      - '.github/workflows/cet6-daily-test.yml'
+      - 'english-learning/**'
+      - '.github/workflows/english-learning-test.yml'
   pull_request:
     paths:
-      - 'cet6-daily/**'
+      - 'english-learning/**'
   workflow_dispatch:
 
 defaults:
   run:
-    working-directory: cet6-daily
+    working-directory: english-learning/cet6-daily
 
 jobs:
   jsdom:
@@ -43,17 +43,17 @@ jobs:
           fi
 
       - name: 安装测试依赖
-        working-directory: cet6-daily/tests
+        working-directory: english-learning/cet6-daily/tests
         run: npm ci
 
       - name: 解析用例
-        working-directory: cet6-daily/tests
+        working-directory: english-learning/cet6-daily/tests
         run: node parse.test.js
 
       - name: 抽取压测
-        working-directory: cet6-daily/tests
+        working-directory: english-learning/cet6-daily/tests
         run: node draw.test.js
 
       - name: 交互冒烟
-        working-directory: cet6-daily/tests
+        working-directory: english-learning/cet6-daily/tests
         run: node smoke.test.js

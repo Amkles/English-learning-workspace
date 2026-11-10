@@ -4,7 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'cet6-daily/index.html'
+      - 'english-learning/cet6-daily/index.html'
+      - 'academic-workspace/index.html'
+      - '.github/pages/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:
 
@@ -26,11 +28,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 只发布单文件产物，不把 src/ data/ tests/ 一起挂到站点上
+      # 只发布入口页和两份单文件产物，不把 src/ data/ tests/ docs/ 一起挂到站点上
       - name: 准备站点目录
         run: |
-          mkdir -p _site
-          cp cet6-daily/index.html _site/index.html
+          set -e
+          mkdir -p _site/english-learning/cet6-daily _site/academic-workspace
+          cp .github/pages/landing.html _site/index.html
+          cp english-learning/cet6-daily/index.html _site/english-learning/cet6-daily/index.html
+          cp academic-workspace/index.html _site/academic-workspace/index.html
 
       - uses: actions/configure-pages@v5
 

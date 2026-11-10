@@ -1,6 +1,6 @@
 # 六级打卡台 · CET-6 Daily
 
-> [Prompt Lab](../README.md) / cet6-daily
+> [Prompt Lab](../../README.md) / english-learning / cet6-daily
 
 > 一个**单文件、零依赖、打开即用**的六级备考打卡台。
 > 每天自动抽出「今天该背哪些词、读哪两篇、听哪几段、翻哪一段、写哪一题」，
@@ -8,9 +8,9 @@
 
 ![今日任务](docs/screenshots/desktop-today.png)
 
-这份产物的完整提示词就放在仓库根目录，[**PROMPT.md**](../PROMPT.md)，逐字保留；抽取算法与存档结构见 [docs/design.md](docs/design.md)。
+这份产物的完整提示词就放在本目录，[**PROMPT.md**](PROMPT.md)，逐字保留；抽取算法与存档结构见 [docs/design.md](docs/design.md)。
 
-> 想直接用：下载 `index.html` 双击打开即可，不需要任何环境。仓库的 Pages 由 GitHub Actions 自动发布（`.github/workflows/pages.yml`），推送到 `main` 后一分钟内生效。
+> 想直接用：下载 `index.html` 双击打开即可，不需要任何环境。在线版由 GitHub Actions 发布在 <https://amkles.github.io/prompt-lab/english-learning/cet6-daily/>，推送到 `main` 后一分钟内生效。
 
 ---
 
@@ -281,12 +281,12 @@ python tools/shots.py
 
 ## 参与贡献
 
-欢迎提 issue 与 PR。动手前先看两条硬约束，它们由 `tools/build.py` 与 `.github/workflows/cet6-daily-test.yml` 强制执行：
+欢迎提 issue 与 PR。动手前先看两条硬约束，它们由 `tools/build.py` 与 `.github/workflows/english-learning-test.yml` 强制执行：
 
 1. **产物必须可重复构建**：`python tools/build.py` 连跑两次，`index.html` 字节完全一致。改了 `src/` 或 `data/` 要连产物一起提交，CI 会重建并断言 `git diff` 为空。
 2. **题库规模不能变**：阅读 180（易 90 / 难 90）、听力 145、翻译 90、写作 90、四库 2607 / 1302 / 2345 / 1313，任何一项不符 `build.py` 直接失败。
 
-字段规范、目录分工与代码风格见根目录 [README 的「修改与贡献」一节](../README.md#修改与贡献)。
+字段规范、目录分工与代码风格见根目录 [README 的「怎么加新项目」一节](../../README.md#怎么加新项目)。
 
 当前版本 **v1.0.0**（2026-11-06 首发）。
 
@@ -299,4 +299,4 @@ python tools/shots.py
 
 ## 许可
 
-[MIT](../LICENSE) © 2026 Amkles · 数据智能工坊
+[MIT](../../LICENSE) © 2026 Amkles · 数据智能工坊

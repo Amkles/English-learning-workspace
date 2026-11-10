@@ -12,9 +12,18 @@ __pycache__/
 # 编辑器与系统
 .DS_Store
 Thumbs.db
+desktop.ini
 .idea/
 .vscode/
 *.swp
+
+# 日志与临时文件
+*.log
+*.tmp
+_backup*.json
+
+# 个人版（含真实研究数据，不发布）
+academic-workspace/personal/
 
 # 本地环境变量
 .env
