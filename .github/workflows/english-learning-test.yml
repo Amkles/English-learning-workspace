@@ -23,7 +23,8 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          # 测试依赖里的 undici 用到 Node 22 的 zstd 接口，Node 20 会在 require 阶段直接报错
+          node-version: '22'
 
       # index.html 是构建产物，仓库里已提交；这里再跑一次构建，
       # 确保 src/ 与 data/ 的改动没有把产物写成另一副样子。
